@@ -2,7 +2,7 @@
 Pre-reform russian language from Java to Bedrock Edition
 
 ## Goals
-* ~~Port rpr lang via to-bedrock~~
+* ~~Port rpr lang via "to-bedrock"~~
 * Manual rpr lang port from java to bedrock (And java <1.12.2)
 * Full translate (errors, commands help, achievements, etc)
 
