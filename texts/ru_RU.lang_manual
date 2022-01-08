@@ -2471,189 +2471,189 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## 
 ## effect.badOmen=Дурное знамение	#
 ## effect.villageHero=Герой деревни	#
-## 
-## enchantment.arrowDamage=Мощь	#
-## enchantment.arrowFire=Воспламенение	#
-## enchantment.arrowInfinite=Бесконечность	#
-## enchantment.arrowKnockback=Удар	#
-## enchantment.crossbowMultishot=Залп	#
-## enchantment.crossbowPiercing=Бронебойность	#
-## enchantment.crossbowQuickCharge=Быстрая перезарядка	#
-## enchantment.curse.binding=Проклятие связи	#
-## enchantment.curse.vanishing=Проклятие утраты	#
-## enchantment.damage.all=Острота	#
-## enchantment.damage.arthropods=Бич членистоногих	#
-## enchantment.damage.undead=Небесная кара	#
-## enchantment.digging=Эффективность	#
-## enchantment.durability=Неразрушимость	#
-## enchantment.fire=Облик огня	#
-## enchantment.fishingSpeed=Приманка	#
-## enchantment.frostwalker=Морозная поступь	#
-## enchantment.knockback=Отбрасывание	#
-## enchantment.level.1=I	#
-## enchantment.level.10=X	#
-## enchantment.level.2=II	#
-## enchantment.level.3=III	#
-## enchantment.level.4=IV	#
-## enchantment.level.5=V	#
-## enchantment.level.6=VI	#
-## enchantment.level.7=VII	#
-## enchantment.level.8=VIII	#
-## enchantment.level.9=IX	#
-## enchantment.lootBonus=Добыча	#
-## enchantment.lootBonusDigger=Удача	#
-## enchantment.lootBonusFishing=Морская удача	#
-## enchantment.mending=Починка	#
-## enchantment.oxygen=Дыхание	#
-## enchantment.protect.all=Защита	#
-## enchantment.protect.explosion=Взрывоустойчивость	#
-## enchantment.protect.fall=Легкость	#
-## enchantment.protect.fire=Огнеупорность	#
-## enchantment.protect.projectile=Защита от снарядов	#
-## enchantment.soul_speed=Скорость души	#
-## enchantment.thorns=Шипы	#
-## enchantment.untouching=Шелковое касание	#
-## enchantment.waterWalker=Странник глубин	#
-## enchantment.waterWorker=Родство с водой	#
-## enchantment.tridentChanneling=Проводник	#
-## enchantment.tridentLoyalty=Верность	#
-## enchantment.tridentRiptide=Тягун	#
-## enchantment.tridentImpaling=Пронзание	#
-## 
-## entity.area_effect_cloud.name=Облако области эффекта	#
-## entity.armor_stand.name=Стойка для доспехов	#
-## entity.arrow.name=Стрела	#
-## entity.bat.name=Летучая мышь	#
-## entity.bee.name=Пчела	#
-## entity.blaze.name=Ифрит	#
-## entity.boat.name=Лодка	#
-## entity.cat.name=Кот	#
-## entity.cave_spider.name=Пещерный паук	#
-## entity.chicken.name=Курица	#
-## entity.cow.name=Корова	#
-## entity.creeper.name=Крипер	#
-## entity.dolphin.name=Дельфин	#
-## entity.goat.name=Коза	#
-## entity.panda.name=Панда	#
-## entity.donkey.name=Осел	#
-## entity.dragon_fireball.name=Шар огня дракона	#
-## entity.drowned.name=Утопленник	#
-## entity.egg.name=Яйцо	#
-## entity.elder_guardian.name=Древний страж	#
-## entity.ender_crystal.name=Кристалл Края	#
-## entity.ender_dragon.name=Дракон Края	#
-## entity.enderman.name=Странник Края	#
-## entity.endermite.name=Обитатель Края	#
-## entity.ender_pearl.name=Жемчуг Края	#
-## entity.evocation_illager.name=Вызыватель	#
-## entity.evocation_fang.name=Челюсть вызывателя	#
-## entity.eye_of_ender_signal.name=Око Края	#
-## entity.falling_block.name=Падающий блок	#
-## entity.fireball.name=Шар огня	#
-## entity.fireworks_rocket.name=Ракета	#
-## entity.fishing_hook.name=Рыболовный крючок	#
-## entity.fish.clownfish.name=Рыба-клоун	#
-## entity.fox.name=Лиса	#
-## entity.cod.name=Треска	#
-## entity.pufferfish.name=Рыба фугу	#
-## entity.salmon.name=Лосось	#
-## entity.tropicalfish.name=Тропическая рыба	#
-## entity.axolotl.name=Аксолотль	#
-## entity.ghast.name=Гаст	#
-## entity.glow_squid.name=Сияющий спрут	#
-## entity.piglin_brute.name=Пиглин-бестия	#
-## entity.guardian.name=Страж	#
-## entity.hoglin.name=Хоглин	#
-## entity.horse.name=Лошадь	#
-## entity.husk.name=Отброс	#
-## entity.ravager.name=Разрушитель	#
-## entity.iron_golem.name=Железный голем	#
-## entity.item.name=Предмет	#
-## entity.leash_knot.name=Узел привязи	#
-## entity.lightning_bolt.name=Удар молнии	#
-## entity.lingering_potion.name=Оседающее зелье	#
-## entity.llama.name=Лама	#
-## entity.llama_spit.name=Плевок ламы	#
-## entity.magma_cube.name=Лавовый куб	#
-## entity.minecart.name=Вагонетка	#
-## entity.chest_minecart.name=Грузовая вагонетка	#
-## entity.command_block_minecart.name=Вагонетка с командным блоком	#
-## entity.furnace_minecart.name=Самоходная вагонетка	#
-## entity.hopper_minecart.name=Вагонетка с загрузочной воронкой	#
-## entity.tnt_minecart.name=Вагонетка с динамитом	#
-## entity.mule.name=Мул	#
-## entity.mooshroom.name=Грибная корова	#
-## entity.moving_block.name=Перемещающийся блок	#
-## entity.ocelot.name=Оцелот	#
-## entity.painting.name=Картина	#
-## entity.parrot.name=Попугай	#
-## entity.phantom.name=Фантом	#
-## entity.pig.name=Свинья	#
-## entity.piglin.name=Пиглин	#
-## entity.pillager.name=Мародер	#
-## entity.polar_bear.name=Белый медведь	#
-## entity.rabbit.name=Кролик	#
-## entity.sheep.name=Овца	#
-## entity.shulker.name=Шалкер	#
-## entity.shulker_bullet.name=Пуля шалкера	#
-## entity.silverfish.name=Чешуйница	#
-## entity.skeleton.name=Скелет	#
-## entity.skeleton_horse.name=Лошадь-скелет	#
-## entity.stray.name=Бродяга	#
-## entity.slime.name=Слизень	#
-## entity.small_fireball.name=Малый шар огня	#
-## entity.snowball.name=Снежок	#
-## entity.snow_golem.name=Снежный голем	#
-## entity.spider.name=Паук	#
-## entity.splash_potion.name=Зелье	#
-## entity.squid.name=Спрут	#
-## entity.strider.name=Страйдер	#
-## entity.tnt.name=Блок динамита	#
-## entity.thrown_trident.name=Трезубец	#
+
+enchantment.arrowDamage=Сила	#
+enchantment.arrowFire=Воспламененіе	#
+enchantment.arrowInfinite=Безконечность	#
+enchantment.arrowKnockback=Откидываніе	#
+enchantment.crossbowMultishot=Тройной выстрѣлъ	#
+enchantment.crossbowPiercing=Пронзающая стрѣла	#
+enchantment.crossbowQuickCharge=Быстрая перезарядка	#
+enchantment.curse.binding=Проклятіе привязки	#
+enchantment.curse.vanishing=Проклятіе пропажи	#
+enchantment.damage.all=Острота	#
+enchantment.damage.arthropods=Бичъ членистоногихъ	#
+enchantment.damage.undead=Небесная кара	#
+enchantment.digging=Эффективность	#
+enchantment.durability=Прочность	#
+enchantment.fire=Поджогъ	#
+enchantment.fishingSpeed=Приманка	#
+enchantment.frostwalker=Ледоходъ	#
+enchantment.knockback=Отдача	#
+enchantment.level.1=I	#
+enchantment.level.10=X	#
+enchantment.level.2=II	#
+enchantment.level.3=III	#
+enchantment.level.4=IV	#
+enchantment.level.5=V	#
+enchantment.level.6=VI	#
+enchantment.level.7=VII	#
+enchantment.level.8=VIII	#
+enchantment.level.9=IX	#
+enchantment.lootBonus=Добыча	#
+enchantment.lootBonusDigger=Удача	#
+enchantment.lootBonusFishing=Везучій рыбакъ	#
+enchantment.mending=Починка	#
+enchantment.oxygen=Подводное дыханіе	#
+enchantment.protect.all=Защита	#
+enchantment.protect.explosion=Защита отъ взрывовъ	#
+enchantment.protect.fall=Невѣсомость	#
+enchantment.protect.fire=Защита отъ огня	#
+enchantment.protect.projectile=Защита отъ снарядовъ	#
+enchantment.soul_speed=Рѣзвость души	#
+enchantment.thorns=Шипы	#
+enchantment.untouching=Шёлковое касаніе	#
+enchantment.waterWalker=Странникъ глубинъ	#
+enchantment.waterWorker=Подводникъ	#
+enchantment.tridentChanneling=Громовержецъ	#
+enchantment.tridentLoyalty=Вѣрность	#
+enchantment.tridentRiptide=Тягунъ	#
+enchantment.tridentImpaling=Пронзатель	#
+
+entity.area_effect_cloud.name=Облако эффекта	#
+entity.armor_stand.name=Стойка для брони	#
+entity.arrow.name=Стрѣла	#
+entity.bat.name=Летучая мышь	#
+entity.bee.name=Пчела	#
+entity.blaze.name=Ифрит	#
+entity.boat.name=Лодка	#
+entity.cat.name=Кошка	#
+entity.cave_spider.name=Мизгирь	#
+entity.chicken.name=Курица	#
+entity.cow.name=Корова	#
+entity.creeper.name=Криперъ	#
+entity.dolphin.name=Дельфинъ	#
+entity.goat.name=Коза	#
+entity.panda.name=Панда	#
+entity.donkey.name=Осёлъ	#
+entity.dragon_fireball.name=Огненный шаръ змѣя	#
+entity.drowned.name=Утопленникъ	#
+entity.egg.name=Брошенное яйцо	#
+entity.elder_guardian.name=Старѣйшій сторожъ	#
+entity.ender_crystal.name=Кристаллъ Энда	#
+entity.ender_dragon.name=Эндеръ-змѣй	#
+entity.enderman.name=Эндерманъ	#
+entity.endermite.name=Эндермитъ	#
+entity.ender_pearl.name=Брошенный эндеръ-жемчугъ	#
+entity.evocation_illager.name=Чародѣй	#
+entity.evocation_fang.name=Клыки чародѣя	#
+entity.eye_of_ender_signal.name=Око Эндера	#
+entity.falling_block.name=Падающій блокъ	#
+entity.fireball.name=Огненный шаръ	#
+entity.fireworks_rocket.name=Фейерверкъ	#
+entity.fishing_hook.name=Поплавокъ	#
+entity.fish.clownfish.name=Рыба-клоунъ	#
+entity.fox.name=Лисица	#
+entity.cod.name=Треска	#
+entity.pufferfish.name=Иглобрюхъ	#
+entity.salmon.name=Лосось	#
+entity.tropicalfish.name=Тропическая рыба	#
+entity.axolotl.name=Аксолотль	#
+entity.ghast.name=Гастъ	#
+entity.glow_squid.name=Сіяющій осьминогъ	#
+entity.piglin_brute.name=Брутальный пиглинъ	#
+entity.guardian.name=Сторожъ	#
+entity.hoglin.name=Хоглинъ	#
+entity.horse.name=Лошадь	#
+entity.husk.name=Кадавръ	#
+entity.ravager.name=Разоритель	#
+entity.iron_golem.name=Желѣзный витязь	#
+entity.item.name=Вещь	#
+entity.leash_knot.name=Узелъ поводка	#
+entity.lightning_bolt.name=Молнія	#
+entity.lingering_potion.name=Туманное снадобье	#
+entity.llama.name=Лама	#
+entity.llama_spit.name=Плевокъ ламы	#
+entity.magma_cube.name=Магмовый кубъ	#
+entity.minecart.name=Вагонетка	#
+entity.chest_minecart.name=Вагонетка съ сундукомъ	#
+entity.command_block_minecart.name=Вагонетка съ ариѳмометромъ	#
+entity.furnace_minecart.name=Самоходная вагонетка	#
+entity.hopper_minecart.name=Пріёмная вагонетка	#
+entity.tnt_minecart.name=Вагонетка съ динамитомъ	#
+entity.mule.name=Мулъ	#
+entity.mooshroom.name=Муухоморъ	#
+entity.moving_block.name=Движущійся блокъ	#
+entity.ocelot.name=Оцелотъ	#
+entity.painting.name=Картина	#
+entity.parrot.name=Попугай	#
+entity.phantom.name=Фантомъ	#
+entity.pig.name=Свинья	#
+entity.piglin.name=Пиглинъ	#
+entity.pillager.name=Разбойникъ	#
+entity.polar_bear.name=Бѣлый медвѣдь	#
+entity.rabbit.name=Кроликъ	#
+entity.sheep.name=Овца	#
+entity.shulker.name=Шалкеръ	#
+entity.shulker_bullet.name=Снарядъ шалкера	#
+entity.silverfish.name=Чешуйница	#
+entity.skeleton.name=Скелетъ	#
+entity.skeleton_horse.name=Лошадь-скелетъ	#
+entity.stray.name=Зимогоръ	#
+entity.slime.name=Слизень	#
+entity.small_fireball.name=Малый огненный шаръ	#
+entity.snowball.name=Снѣжокъ	#
+entity.snow_golem.name=Снѣговикъ	#
+entity.spider.name=Паукъ	#
+entity.splash_potion.name=Снадобье	#
+entity.squid.name=Осьминогъ	#
+entity.strider.name=Лавомѣрка	#
+entity.tnt.name=Активированный динамитъ	#
+entity.thrown_trident.name=Трезубецъ	#
 ## entity.tripod_camera.name=Камера со штативом	#
-## entity.turtle.name=Черепаха	#
-## entity.unknown.name=Неизвестен	#
-## entity.vex.name=Досаждатель	#
-## entity.villager.name=Селянин	#
-## entity.villager.armor=Бронник	#
-## entity.villager.butcher=Мясник	#
-## entity.villager.cartographer=Картограф	#
-## entity.villager.cleric=Церковник	#
-## entity.villager.farmer=Фермер	#
-## entity.villager.fisherman=Рыбак	#
-## entity.villager.fletcher=Лукодел	#
-## entity.villager.leather=Кожевник	#
-## entity.villager.librarian=Библиотекарь	#
-## entity.villager.shepherd=Пастух	#
-## entity.villager.tool=Кузнец по инструменту	#
-## entity.villager.weapon=Оружейник	#
-## entity.villager.mason=Каменщик	#
-## entity.villager.unskilled=Селянин-неумеха	#
-## entity.villager_v2.name=Селянин	#
-## entity.vindicator.name=Поборник	#
-## entity.wandering_trader.name=Бродячий торговец	#
-## entity.witch.name=Ведьма	#
-## entity.wither.name=Иссушитель	#
-## entity.wither_skeleton.name=Скелет-иссушитель	#
-## entity.wither_skull.name=Череп иссушителя	#
-## entity.wither_skull_dangerous.name=Череп иссушителя	#
-## entity.wolf.name=Волк	#
-## entity.xp_orb.name=Сфера опыта	#
-## entity.xp_bottle.name=Пузырек опыта	#
-## entity.zoglin.name=Зоглин	#
-## entity.zombie.name=Зомби	#
-## entity.zombie_horse.name=Лошадь-зомби	#
-## entity.zombie_pigman.name=Зомбированный пиглин	#
-## entity.zombie_villager.name=Деревенский зомби	#
-## entity.zombie_villager_v2.name=Деревенский зомби	#
-## 
+entity.turtle.name=Черепаха	#
+entity.unknown.name=Неизвѣстная сущность	#
+entity.vex.name=Вредина	#
+entity.villager.name=Крестьянинъ	#
+entity.villager.armor=Бронникъ	#
+entity.villager.butcher=Скотоводъ	#
+entity.villager.cartographer=Картографъ	#
+entity.villager.cleric=Игуменъ	#
+entity.villager.farmer=Земледѣлецъ	#
+entity.villager.fisherman=Рыбакъ	#
+entity.villager.fletcher=Лучникъ	#
+entity.villager.leather=Кожевникъ	#
+entity.villager.librarian=Библіотекарь	#
+entity.villager.shepherd=Пастухъ	#
+entity.villager.tool=Инструментальщикъ	#
+entity.villager.weapon=Оружейныхъ дѣлъ мастеръ	#
+entity.villager.mason=Каменщикъ	#
+entity.villager.unskilled=Крестьянинъ-неумѣха	#
+entity.villager_v2.name=Крестьянинъ	#
+entity.vindicator.name=Воздаятель	#
+entity.wandering_trader.name=Коробейникъ	#
+entity.witch.name=Вѣдьма	#
+entity.wither.name=Визеръ	#
+entity.wither_skeleton.name=Визеръ-скелетъ	#
+entity.wither_skull.name=Черепъ визеръ-скелета	#
+entity.wither_skull_dangerous.name=Черепъ Визера	#
+entity.wolf.name=Волкъ	#
+entity.xp_orb.name=Сфера мудрости	#
+entity.xp_bottle.name=Брошенная бутылочка мудрости	#
+entity.zoglin.name=Зоглинъ	#
+entity.zombie.name=Мертвецъ	#
+entity.zombie_horse.name=Лошадь-мертвецъ	#
+entity.zombie_pigman.name=Пиглинъ-мертвецъ	#
+entity.zombie_villager.name=Крестьянинъ-мертвецъ	#
+entity.zombie_villager_v2.name=Крестьянинъ-мертвецъ	#
+
 ## exports.share.file=Поделиться %s	#
 ## exports.suspendWarning.client.content=Внимание! Если продолжить, вы отключитесь от этого сеанса игры по сети.	#
 ## exports.suspendWarning.host.content=Внимание! Если продолжить, вы завершите этот сеанс игры по сети для всех игроков.	#
 ## exports.suspendWarning.title=Внимание!	#
 ## exports.fileError.title=Не удается сохранить файл	#
 ## exports.fileError.body=Возможно, диск заполнен или защищен от записи либо файл уже используется. Убедитесь в том, что файл не открыт, и повторите попытку.	#
-## 
+
 ## addExternalServerScreen.addServer=Добавить сервер	#
 ## addExternalServerScreen.nameTextBoxLabel=Имя сервера	#
 ## addExternalServerScreen.namePlaceholder=Введите имя сервера	#
@@ -2667,7 +2667,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## addExternalServerScreen.removeConfirmation=Вы действительно хотите удалить этот сервер? 	#
 ## addExternalServerScreen.addTitle=Добавить внешний сервер	#
 ## addExternalServerScreen.editTitle=Редактировать внешний сервер	#
-## 
+
 ## feature.endcity=Город Края	#
 ## feature.fortress=Крепость Нижнего мира	#
 ## feature.mansion=Лесной особняк	#
@@ -2683,7 +2683,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## feature.pillageroutpost=Аванпост мародеров	#
 ## feature.bastionremnant=Остаток бастиона	#
 ## feature.ruinedportal=Разрушенный портал	#
-## 
+
 ## feed.like=Нравится	#
 ## feed.manage_feed=Управление веб-каналом	#
 ## feed.comment=Комментировать	#
@@ -2724,28 +2724,28 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## feed.uppload_started=Снимок экрана отправляется	#
 ## feed.uppload_success=Снимок экрана отправлен	#
 ## feed.connected=Каждый реалм связан с клубом и учетной записью Майкрософт.	#
-## 
+
 ## comment.like=Лайк: %d						### 1 like
 ## comment.likes=Лайков: %d						### 0 or 2+ likes
 ## comment.comment=Комментарий: %d					### 1 comment
 ## comment.comments=Комментариев: %d				### 0 or 2+ comments
 ## comment.likes_and_comments=%1 и %2		### comment.like(s) will be inserted at %1 and comment.comment(s) at %2
 ## comment.commentplaceholder=Комментарий...	#
-## 
+
 ## furnaceScreen.fuel=Топливо	#
 ## furnaceScreen.header=Печка	#
 ## furnaceScreen.input=Ингредиенты	#
 ## furnaceScreen.result=Результат	#
 ## 
 ## gameArgument.featureUnsupported=Эта возможность не поддерживается в текущей версии Minecraft	#
-## 
-## gameMode.adventure=Режим приключений	#
-## gameMode.changed=Режим игры изменен на «%s»	#
-## gameMode.creative=Творческий режим	#
-## gameMode.hardcore=Хардкор!	#
-## gameMode.spectator=Режим зрителя	#
-## gameMode.survival=Режим выживания	#
-## 
+
+gameMode.adventure=Режимъ приключеній	#
+gameMode.changed=Вашъ режимъ игры былъ измѣнёнъ на %s	#
+gameMode.creative=Творческій режимъ	#
+gameMode.hardcore=Режимъ кошмара	#
+gameMode.spectator=Режимъ смотрителя	#
+gameMode.survival=Режимъ выживанія	#
+
 ## gameTip.cameraMovement.mouse=Перемещайте :light_mouse_button:, чтобы осмотреться.	#
 ## gameTip.cameraMovement.touch=Коснитесь экрана и перемещайте палец, чтобы осмотреться.	#
 ## gameTip.cameraMovement.controller=Перемещайте :tip_right_stick:, чтобы осмотреться.	#
@@ -2809,39 +2809,39 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## gameTip.outputSlot.wooden.pickaxe.controller=Чтобы создать деревянную кирку, нажмите :_gamepad_face_button_down:.	#
 ## gameTip.selectHotBar.wooden.pickaxe=Чтобы пользоваться киркой, необходимо разместить ее на панели быстрого доступа.	#
 ## gameTip.hintsDone=Вы свободны! Исследуйте, создавайте и ищите еду и кров, чтобы пережить ночь! Веселитесь!	#
-## 
-## generator.amplified=РАСШИРЕННЫЙ	#
-## generator.amplified.info=Примечание. Режим для развлечения, требуется мощный компьютер.	#
-## generator.customized=Пользовательский	#
-## generator.debug_all_block_states=Режим отладки	#
-## generator.default=По умолчанию	#
-## generator.flat=Плоский	#
+
+generator.amplified=РАСШИРЕННЫЙ	#
+generator.amplified.info=Примѣчаніе: Просто для потѣхи! Нуженъ хорошій счётный аппаратъ.	#
+generator.customized=Пользовательскій	#
+generator.debug_all_block_states=Режимъ отладки	#
+generator.default=По умолчанію	#
+generator.flat=Суперплоскость	#
 ## generator.infinite=Бесконечный	#
-## generator.largeBiomes=Большие биомы	#
-## generator.nether=Нижний мир	#
+generator.largeBiomes=Большіе біомы	#
+generator.nether=Нѣдр	#
 ## generator.old=Старый	#
-## 
-## globalPauseScreen.message=Игра поставлена на паузу	#
-## globalPauseScreen.quit=Выйти	#
-## 
+
+globalPauseScreen.message=Игра пріостановлена	#
+globalPauseScreen.quit=Выйти	#
+
 ## gui.accept=Принять	#
-## gui.achievements=Достижения	#
-## gui.all=Все	#
-## gui.back=Назад	#
-## gui.cancel=Отмена	#
-## gui.clear=Очистить	#
-## gui.close=Закрыть	#
+gui.achievements=Достиженія	#
+gui.all=Всё	#
+gui.back=Назадъ	#
+gui.cancel=Отмѣна	#
+gui.clear=Очистить	#
+gui.close=Закрыть	#
 ## gui.confirm=Подтвердить	#
 ## gui.confirmAndPlay=Подтвердить и начать игру	#
-## gui.custom=Пользовательский	#
-## gui.default=По умолчанию	#
+gui.custom=Пользовательскій	#
+gui.default=По умолчанію	#
 ## gui.decline=Отклонить	#
-## gui.delete=Удалить	#
-## gui.deleteWorldLong=Удалить мир	#
-## gui.done=Готово	#
-## gui.down=Вниз	#
-## gui.edit=Изменить	#
-## gui.error=Ошибка	#
+gui.delete=Удалить	#
+gui.deleteWorldLong=Удалить сей міръ	#
+gui.done=Готово	#
+gui.down=Внизъ	#
+gui.edit=Настроить	#
+gui.error=Произошёлъ курьёзъ!	#
 ## gui.exit=Выход	#
 ## gui.exportWorld=Экспорт	#
 ## gui.exportWorldLong=Экспортировать мир	#
@@ -2869,12 +2869,12 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## gui.importRetailWorld.failedMessage=Не удается импортировать ваш мир.	#
 ## gui.minecraftWorld=Мир Minecraft	#
 ## gui.minecraftBundle=Комплект Minecraft	#
-## gui.login=Вход	#
-## gui.logout=Выход	#
-## gui.next=Далее	#
-## gui.no=Нет	#
-## gui.none=Отсутствует	#
-## gui.ok=ОК	#
+gui.login=Входъ	#
+gui.logout=Выходъ	#
+gui.next=Далѣе	#
+gui.no=Нѣтъ	#
+gui.none=Нѣтъ	#
+gui.ok=Хорошо	#
 ## gui.store=Заглянуть в магазин	#
 ## gui.continue=Продолжить	#
 ## gui.pickWorld=Обзор миров Minecraft	#
@@ -2893,12 +2893,12 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## gui.resourcepacks=Наборы ресурсов...	#
 ## gui.submit=Отправить	#
 ## gui.playOffline=Автономная игра	#
-## gui.signIn=Войти	#
+gui.signIn=Войти	#
 ## gui.genericNetworkError=Что-то пошло не так. Проверьте подключение к Интернету.	#
-## 
+
 ## gui.edu.exitGameWarningCaption=Minecraft: Education Edition		### Use Minecraft 教育版 in zh_CN translation
 ## gui.edu.exitGameWarningMessage=Выйти из Minecraft: Education Edition?		### Use 离开 Minecraft 教育版? in zh_CN translation
-## 
+
 ## updateScreen.update=Обновить	#
 ## updateScreen.updateRequired=Требуется обновление	#
 ## updateScreen.title=Версия устарела	#
@@ -2907,7 +2907,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## updateScreen.commerceNotSupported.body=В этой версии Minecraft больше не поддерживается доступ к Рынку Minecraft. Обновитесь до последней версии, чтобы восстановить доступ к Рынку.	#
 ## updateScreen.packs.updateRequired=Обновите игру до последней версии, чтобы загрузить набор, который вы приобрели на Рынке Minecraft.	#
 ## updateScreen.patchVersion=Описание обновлений в версии %s:	#
-## 
+
 ## hostOption.codeBuilder=Code Builder	#
 ## hostOption.setWorldSpawn=Задать место появления в мире	#
 ## hostOption.teleport=Перенести	#
@@ -2924,10 +2924,10 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## hostOption.weather.clear=Ясно	#
 ## hostOption.weather.rain=Дождь	#
 ## hostOption.weather.thunderstorm=Гроза	#
-## 
+
 ## howtoplay.next=Следующее	#
 ## howtoplay.previous=Предыдущее	#
-## 
+
 ## howtoplay.category.basics=Основы	#
 ## howtoplay.category.crafting=Создание	#
 ## howtoplay.category.education=Образование	#
@@ -2937,12 +2937,12 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.category.optionsAndCheats=Параметры и читы	#
 ## howtoplay.category.play=Игра	#
 ## howtoplay.category.theEnd=Край	#
-## 
+
 ## howtoplay.adventureMode=Режим приключений	#
 ## howtoplay.adventureMode.title=Обучение: режим приключений	#
 ## howtoplay.adventureMode.text.1=Режим приключений – это режим игры для творцов миров. Для размещения или уничтожения блоков в режиме приключений игрокам нужно использовать специальные инструменты.	#
 ## howtoplay.adventureMode.text.2=Чтобы получить эти специальные инструменты, воспользуйтесь командой /give с параметрами canplace или candestroy, находясь в творческом режиме.	#
-## 
+
 ## howtoplay.anvil=Наковальня	#
 ## howtoplay.anvil.title=Обучение: наковальня	#
 ## howtoplay.anvil.text.1=Используя наковальню и уровни опыта, можно чинить и переименовывать предметы, а также накладывать на них чары.	#
@@ -2952,7 +2952,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.anvil.text.3=Чтобы починить предмет, поместите его в одну из базовых ячеек в левой части и либо добавьте необходимое для изготовления этого предмета сырье (например, железный слиток для железного меча), либо объедините его с другим предметом того же типа.	#
 ## howtoplay.anvil.text.4=Использование наковальни повышает эффективность объединения предметов.	#
 ## howtoplay.anvil.text.5=При каждом использовании наковальня может повредиться, а после многократного использования она и вовсе сломается.	#
-## 
+
 ## howtoplay.armor=Доспехи	#
 ## howtoplay.armor.title=Обучение: доспехи	#
 ## howtoplay.armor.text.1=Облачившись в доспехи, вы можете защитить себя от получения урона. Уровень доспехов представлен индикатором :armor:. Чем выше уровень, тем меньше урона вы получите.	#
@@ -2969,7 +2969,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.armor.text.6=Щит может блокировать даже взрыв крипера!	#
 ## howtoplay.armor.header.3=Маскировка	#
 ## howtoplay.armor.text.7=Вы также можете надеть на голову вырезанную тыкву. Да, это не даст вам :armor:, но и странники Края не будут впадать в ярость от одного вашего взгляда.	#
-## 
+
 ## howtoplay.armorStand=Стойка для доспехов	#
 ## howtoplay.armorStand.title=Обучение: стойка для доспехов	#
 ## howtoplay.armorStand.text.1=Стойка для доспехов служит для хранения ваших доспехов, пока вы их не используете.	#
@@ -2983,7 +2983,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.armorStand.text.4.touch=Можно изменить позу стойки для доспехов. Для этого войдите в режим подкрадывания, подберитесь к стойке и коснитесь ее.	#
 ## howtoplay.armorStand.header.3=Танец	#
 ## howtoplay.armorStand.text.5=Стойки для доспехов реагируют на сигналы красного камня. Подайте на стойку сигналы разной силы и посмотрите, что произойдет.	#
-## 
+
 ## howtoplay.banners=Знамена	#
 ## howtoplay.banners.title=Обучение: знамена	#
 ## howtoplay.banners.text.1=Знамена являются отличным украшением для дома или замка благодаря настраиваемым узорам и цветам.	#
@@ -2998,7 +2998,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.banners.text.8=На знамя можно нанести несколько слоев краски, благодаря чему можно использовать сразу несколько узоров. Если вам не понравился последний нанесенный вами на знамя узор, вы можете смыть его с помощью котла.	#
 ## howtoplay.banners.header.3=Создание копий	#
 ## howtoplay.banners.text.9=Если вы хотите копировать знамя, поместите его на верстак с пустым знаменем.	#
-## 
+
 ## howtoplay.beacons=Маяки	#
 ## howtoplay.beacons.title=Обучение: маяки	#
 ## howtoplay.beacons.text.1=Активные маяки направляют в небо луч яркого света.	#
@@ -3011,7 +3011,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.beacons.text.6=Чтобы задать эффект для маяка, необходимо положить изумруд, алмаз или золотой или железный слиток в ячейку для оплаты.	#
 ## howtoplay.beacons.text.7=После того как вы зададите эффект, он будет производиться маяком бесконечно и распространяться на всех игроков поблизости.	#
 ## howtoplay.beacons.text.8=Чтобы изменить цвет излучаемого маяком света, поместите на его пути блок окрашенного стекла.	#
-## 
+
 ## howtoplay.beds=Кровати	#
 ## howtoplay.beds.title=Обучение: кровати	#
 ## howtoplay.beds.text.1=Сон в кровати позволяет пропустить ночь и задает вашу точку появления.	#
@@ -3020,7 +3020,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.beds.text.3=Если вы играете по сети, все в мире должны одновременно быть в кровати, чтобы пропустить ночь.	#
 ## howtoplay.beds.text.4=Если ваша кровать сломается, вы вернетесь в точку своего первого появления в мире.	#
 ## howtoplay.beds.text.5=Используйте кровать в Нижнем мире с осторожностью, обычно там слишком жарко для сна.	#
-## 
+
 ## howtoplay.blocks=Блоки	#
 ## howtoplay.blocks.title=Обучение: блоки	#
 ## howtoplay.blocks.text.1=Мир Minecraft состоит из миллионов блоков. Каждый из них можно разрушить, подобрать и разместить. Вы можете построить почти все, что угодно.	#
@@ -3034,11 +3034,11 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.blocks.text.7=Терракота — встречается в биоме «Пустоши» или изготавливается из подводной глины (с возможностью покраски). Терракоту можно превратить в глазурованную терракоту путем обжига в печке.	#
 ## howtoplay.blocks.text.8=Магма – можно найти в Нижнем мире. Производит немного света и сжигает любого, кто на нее наступит.	#
 ## howtoplay.blocks.text.9=Грубая земля – почти то же самое, что и обычный блок земли, но на ней не растет трава. Можно встретить в таких биомах, как саванна и мегатайга.	#
-## 
+
 ## howtoplay.bookAndQuill=Книга с пером	#
 ## howtoplay.bookAndQuill.title=Обучение: книга с пером	#
 ## howtoplay.bookAndQuill.text.1=Книга с пером позволяет вам записать свои приключения. Расскажите свою историю, добавив на страницы текст. Можно изменить название и автора книги. Подпишите книгу с пером, чтобы придать своей работе окончательный вид. Вы можете вносить правки в книгу с пером, пока она не подписана. 	#
-## 
+
 ## howtoplay.brewingStand=Варочная стойка	#
 ## howtoplay.brewingStand.title=Обучение: варочная стойка	#
 ## howtoplay.brewingStand.text.1=Для зельеварения необходима варочная стойка. Каждое зелье начинается с пузырька воды, который можно получить путем наполнения пузырька в котле или источнике воды.	#
@@ -3047,7 +3047,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.brewingStand.header.2=Ингредиенты и зелья	#
 ## howtoplay.brewingStand.text.3=Поместив нарост Нижнего мира в верхнюю ячейку стойки, вы получите Неловкое зелье. Оно не обладает какими-либо свойствами, но выступает базовым зельем для более сложных зелий.	#
 ## howtoplay.brewingStand.text.4=Существует множество зелий с различными эффектами. Комбинируйте разные ингредиенты, чтобы стать подлинным алхимиком.	#
-## 
+
 ## howtoplay.cauldron=Котел	#
 ## howtoplay.cauldron.title=Обучение: котел	#
 ## howtoplay.cauldron.text.1=Котел представляет собой емкость, которая может вмещать жидкое содержимое ведер или пузырьков. 	#
@@ -3062,20 +3062,20 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.cauldron.text.5.notTouch=Чтобы окрасить кожаные доспехи или кожаные конские доспехи, возьмите в руки желаемый краситель и нажмите :_input_key.use: у котла, наполненного водой. Так вы измените цвет воды в котле. Затем возьмите в руки доспехи и окуните их в воду, нажав :_input_key.use: у котла.	#
 ## howtoplay.cauldron.text.5.touch=Чтобы окрасить кожаные доспехи или кожаные конские доспехи, возьмите в руки желаемый краситель и коснитесь котла, наполненного водой. Так вы измените цвет воды в котле. Затем возьмите в руки доспехи и окуните их в воду, коснувшись котла.	#
 ## howtoplay.cauldron.text.6=Если вы хотите смыть краску, поместите окрашенный предмет в котел, наполненный чистой водой.	#
-## 
+
 ## howtoplay.chat=Чат	#
 ## howtoplay.chat.title=Обучение: чат	#
 ## howtoplay.chat.text.1.keyboard=Нажмите :_input_key.chat:, чтобы открыть чат. Введите сообщение и нажмите клавишу ВВОД.	#
 ## howtoplay.chat.text.1.gamepad=Нажмите :_input_key.chat:, чтобы открыть чат. Введите сообщение и нажмите кнопку отправки.	#
 ## howtoplay.chat.text.1.touch=Нажмите кнопку чата, чтобы открыть чат. Введите сообщение и нажмите кнопку отправки.	#
-## 
+
 ## howtoplay.chests=Сундуки	#
 ## howtoplay.chests.title=Обучение: сундуки	#
 ## howtoplay.chests.text.1.notTouch=Смастерив сундук, вы можете разместить его в мире, а затем открыть с помощью :_input_key.use: для перемещения предметов из инвентаря на хранение.	#
 ## howtoplay.chests.text.1.touch=Смастерив сундук, вы можете разместить его в мире, а затем открыть касанием для перемещения предметов из инвентаря на хранение.	#
 ## howtoplay.chests.text.2=Предметы будут храниться в сундуке до тех пор, пока вы не решите переместить их в свой инвентарь.	#
 ## howtoplay.chests.text.3=Если поставить два сундука рядом, получится один большой сундук.	#
-## 
+
 ## howtoplay.commandBlocks=Командные блоки	#
 ## howtoplay.commandBlocks.title=Обучение: командные блоки	#
 ## howtoplay.commandBlocks.text.1=Командные блоки – это мощный инструмент для создателей карт. Они хранят команды и выполняют их при получении сигнала красного камня.	#
@@ -3093,12 +3093,12 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.commandBlocks.text.7.1=  – Требуется красный камень. Для активации требуется сигнал красного камня.	#
 ## howtoplay.commandBlocks.text.7.2=  – Работает всегда. Для активации не требуется сигнал красного камня.	#
 ## howtoplay.commandBlocks.text.8=Командный блок также показывает свой предыдущий вывод. Это поможет вам узнать, был ли сбой при выполнении команды и его причину.	#
-## 
+
 ## howtoplay.commands=Команды	#
 ## howtoplay.commands.title=Обучение: команды	#
 ## howtoplay.commands.text.1=Команды можно выполнять с помощью чата. Необходимо ввести / перед текстом команды.	#
 ## howtoplay.commands.text.2=Доступно множество команд, с помощью которых вы можете делать невероятные вещи. Существуют различные ресурсы, на которых вы найдете все необходимые сведения о командах.	#
-## 
+
 ## howtoplay.conduits=Проводники	#
 ## howtoplay.conduits.title=Обучение: «Проводники»	#
 ## howtoplay.conduits.text.1=Активный проводник снабжает вас энергией под водой.	#
@@ -3106,7 +3106,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.conduits.header.1=Строительство	#
 ## howtoplay.conduits.text.3=Активированный проводник снабжает энергией все объекты поблизости.	#
 ## howtoplay.conduits.text.4=Чем больше энергии в нем, тем шире охват территории.	#
-## 
+
 ## howtoplay.controls=Элементы управления	#
 ## howtoplay.controls.title=Обучение: элементы управления	#
 ## howtoplay.controls.text.1=Minecraft – это игра с упором на строительство. Строить можно все что угодно, главное, чтобы у вас были блоки. Ночью на охоту выходят монстры, так что позаботьтесь об убежище.	#
@@ -3150,7 +3150,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.controls.text.swim.touch=Спринт в воде заставит вас плыть. Коснитесь экрана и проведите по нему, чтобы контролировать направление.	#
 ## howtoplay.controls.text.swim.rift_controller=Спринт в воде заставит вас плыть. Контролируйте направление с помощью :rift_right_stick:.	#
 ## howtoplay.controls.text.swim.windowsmr_controller=Спринт в воде заставит вас плыть. Контролируйте направление с помощью :windowsmr_right_stick:.	#
-## 
+
 ## howtoplay.worldBuilder=World Builder	#
 ## howtoplay.worldBuilder.title=Обучение: World Builder	#
 ## howtoplay.worldBuilder.text.1=Чтобы размещать или использовать отдельные блоки или элементы Minecraft: Education Edition, игрок должен иметь специальную способность под названием World Builder.	#
@@ -3162,7 +3162,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.worldBuilder.text.7=/wb	#
 ## howtoplay.worldBuilder.text.8=Чтобы узнать, включена ли ваша способность World Builder, используйте следующую команду:	#
 ## howtoplay.worldBuilder.text.9=/ability @p worldbuilder	#
-## 
+
 ## howtoplay.permissionBlocks=Блоки разрешений	#
 ## howtoplay.permissionBlocks.title=Обучение: блоки разрешений	#
 ## howtoplay.permissionBlocks.text.1=Minecraft: Education Edition содержит несколько специальных блоков, которые облегчают создание и проведение уроков для преподавателей. Только игроки со способностью World Builder могут размещать и уничтожать эти блоки. Ограничения, задаваемые этими блоками, не применяются к игрокам со способностью World Builder.	#
@@ -3173,23 +3173,23 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.permissionBlocks.text.5=Если разместить блок разрешения над блоком запрета, пространство между ними будет защищено от строительства, а в области над блоком разрешения можно будет размещать и уничтожать блоки.	#
 ## howtoplay.permissionBlocks.title.2=Граница	#
 ## howtoplay.permissionBlocks.text.6=Блоки границ создают силовое поле, которое бесконечно расширяется вверх и вниз, независимо от присутствия других блоков. Игроки не могут проходить сквозь блоки границы, над или под ними. Игроки не могут размещать или уничтожать блоки выше или ниже блока границы.	#
-## 
+
 ## howtoplay.chalkboard=Классные доски	#
 ## howtoplay.chalkboard.title=Обучение: классные доски	#
 ## howtoplay.chalkboard.text.1=Классные доски используются для отображения текста в мире. Классные доски отображают больше текста, чем знаки, и их можно редактировать после размещения. Они бывают трех размеров: табличка, плакат и доска. Используя переключатель блокировки, можно разрешить уничтожать или редактировать классные доски только игрокам со способностью World Builder. Нажмите :_input_key.use: на существующей классной доске, чтобы отредактировать ее.	#
 ## howtoplay.chalkboard.text.1.touch=Классные доски используются для отображения текста в мире. Классные доски отображают больше текста, чем знаки, и их можно редактировать после размещения. Они бывают трех размеров: табличка, плакат и доска. Используя переключатель блокировки, можно разрешить уничтожать или редактировать классные доски только игрокам со способностью World Builder. Нажмите на существующей классной доске, чтобы отредактировать ее.	#
-## 
+
 ## howtoplay.chemistry=Химия	#
 ## howtoplay.chemistry.title=Обучение: химия	#
 ## howtoplay.chemistry.text.1=Студенты могут воспроизводить химические реакции из реального мира с помощью блоков химического оборудования. Используйте ползунок в Конструкторе элементов, чтобы создать 118 разных элементов или узнайте состав элементов, поместив их в  Конструктор элементов. Соедините элементы в Создателе соединений. Поместите элементы и соединения на Лабораторный стол, чтобы создать предметы Minecraft. Рассоедините блоки на составляющие элементы с помощью Рассоединителя.	#
 ## howtoplay.chemistry.text.2=Загрузите Журнал химии с веб-сайта Minecraft: Education Edition, чтобы получить полное руководство по химии в Minecraft.	#
-## 
+
 ## howtoplay.npc=Неигровые персонажи	#
 ## howtoplay.npc.title=Обучение: неигровые персонажи	#
 ## howtoplay.npc.text.1=NPC — это неигровые персонажи, которые предоставляют дополнительную обучающую информацию, подсказки или инструкции.	#
 ## howtoplay.npc.text.2=Только игроки со способностью World Builder могут размещать, удалять, называть или редактировать NPC. NPC могут выполнять команды и переадресацию на веб-сайт. Можно закрепить команды за кнопками в диалоговом окне NPC; ссылки на веб-сайты всегда отображаются как кнопки.	#
 ## howtoplay.npc.text.3=NPC неподвижны, и для них есть широкий выбор скинов.	#
-## 
+
 ## howtoplay.camera=Камера	#
 ## howtoplay.camera.title=Обучение: камера	#
 ## howtoplay.camera.text.1=Камера позволяет игрокам фотографировать мир.	#
@@ -3198,23 +3198,23 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.camera.text.3=Чтобы сделать селфи, разместите камеру и нажмите на ней :_input_key.use:.	#
 ## howtoplay.camera.text.3.touch=Чтобы сделать селфи, разместите камеру и нажмите кнопку «Сделать снимок».	#
 ## howtoplay.camera.text.4=Снимки можно просматривать в Портфолио или вставить в Книгу с пером.	#
-## 
+
 ## howtoplay.portfolio=Портфолио	#
 ## howtoplay.portfolio.title=Обучение: портфолио	#
 ## howtoplay.portfolio.text.1=Сделанные снимки появляются в Портфолио. Чтобы просмотреть Портфолио, нажмите :_input_key.use:. В Портфолио можно добавлять подписи к снимкам, удалять снимки и экспортировать их как серии изображений.	#
 ## howtoplay.portfolio.text.1.touch=Сделанные снимки появляются в Портфолио. Чтобы просмотреть Портфолио, нажмите и удерживайте. В Портфолио можно добавлять подписи к снимкам, удалять снимки и экспортировать их как серии изображений.	#
-## 
+
 ## howtoplay.classroomMode=Classroom Mode	#
 ## howtoplay.classroomMode.title=Обучение: Classroom Mode	#
 ## howtoplay.classroomMode.text.1=Classroom Mode – это внешняя программа, призванная упростить взаимодействие педагогов со студентами. Classroom Mode можно загрузить с веб-сайта Minecraft: Education Edition.	#
 ## howtoplay.classroomMode.text.2=Как разработчик, вы можете использовать команду /classroommode, чтобы запустить программу Classroom Mode и подключить ее к Minecraft: Education Edition.	#
-## 
+
 ## howtoplay.codeBuilder=Code Builder	#
 ## howtoplay.codeBuilder.title=Обучение: Code Builder	#
 ## howtoplay.codeBuilder.text.1=Code Builder позволяет игрокам исследовать, творить и играть в Minecraft, создавая код с помощью знакомых платформ для обучения программированию.	#
 ## howtoplay.codeBuilder.text.2=Чтобы запустить Code Builder, нажмите :_input_key.codeBuilder: или используйте команду /code.	#
 ## howtoplay.codeBuilder.text.2.touch=Чтобы запустить Code Builder, нажмите :code_builder_button: или используйте команду /code.	#
-## 
+
 ## howtoplay.crafting=Создание	#
 ## howtoplay.crafting.title=Обучение: создание	#
 ## howtoplay.crafting.text.1.keyboard=Нажмите :_input_key.inventory:, чтобы получить доступ к книге рецептов и сетке создания.	#
@@ -3238,13 +3238,13 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.crafting.text.8.gamepad=После того, как вы найдете необходимый рецепт, выделите его и нажмите :_gamepad_face_button_down: для автоматического создания одного предмета и помещения его в инвентарь. Выделите рецепт и нажмите :_gamepad_face_button_up:, чтобы автоматически создать всю стопку предметов.	#
 ## howtoplay.crafting.text.8.touch=После того, как вы найдете необходимый рецепт, коснитесь его, чтобы загрузить в сетку создания. Затем коснитесь предмета в ячейке готового предмета, чтобы создать его. Нажмите и удерживайте предмет в ячейке готового предмета, чтобы создавать предметы один за другим.	#
 ## howtoplay.crafting.text.9=При включении :craftable_toggle_on: книга рецептов отображает все рецепты, для которых у вас есть ингредиенты. При отключении :craftable_toggle_off: книга рецептов показывает все существующие в игре рецепты, даже если у вас нет для них ингредиентов. Просмотрите вкладки или воспользуйтесь поиском, чтобы найти что-то конкретное. В творческом режиме некоторые рецепты будут сгруппированы по спискам. Открыв список, вы сможете просмотреть все входящие в него рецепты. 	#
-## 
+
 ## howtoplay.craftingTable=Верстак	#
 ## howtoplay.craftingTable.title=Обучение: верстак	#
 ## howtoplay.craftingTable.text.1=С помощью верстака вы можете изготавливать предметы по сложным рецептам.	#
 ## howtoplay.craftingTable.text.2.notTouch=Разместите верстак в мире. Затем нажмите :_input_key.use: у верстака, чтобы воспользоваться им.	#
 ## howtoplay.craftingTable.text.2.touch=Разместите верстак в мире. Затем коснитесь верстака, чтобы воспользоваться им.	#
-## 
+
 ## howtoplay.creativeMode=Творческий режим	#
 ## howtoplay.creativeMode.title=Обучение: творческий режим	#
 ## howtoplay.creativeMode.text.1=В творческом режиме вы можете создать страну своих грез без каких-либо мобов.	#
@@ -3255,7 +3255,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.creativeMode.text.4.keyboard=Чтобы взлететь в творческом режиме, быстро нажмите :_input_key.jump: два раза. Чтобы прекратить полет, сделайте то же самое. Чтобы лететь быстрее, быстро нажмите :_input_key.forward: два раза или нажмите :_input_key.sprint:, когда вы в воздухе. Чтобы подняться выше, удерживайте :_input_key.jump:. Если хотите опуститься ниже, удерживайте :_input_key.sneak:.	#
 ## howtoplay.creativeMode.text.4.gamepad=Чтобы взлететь в творческом режиме, быстро нажмите :_input_key.jump: два раза. Чтобы прекратить полет, сделайте то же самое. Чтобы лететь быстрее, быстро наклоните :_gamepad_stick_left: вперед два раза, когда вы в воздухе. Чтобы подняться выше, удерживайте :_input_key.jump:. Если хотите опуститься ниже, удерживайте :_input_key.sneak:.	#
 ## howtoplay.creativeMode.text.4.touch=Чтобы взлететь в творческом режиме, быстро нажмите :_input_key.jump: два раза. Чтобы прекратить полет, сделайте то же самое. Чтобы лететь быстрее, быстро нажмите :_input_key.forward: два раза, когда вы в воздухе. Чтобы подняться выше, нажмите :touch_fly_up:. Если хотите опуститься ниже, нажмите :touch_fly_down:.	#
-## 
+
 ## howtoplay.difficulty=Уровень сложности	#
 ## howtoplay.difficulty.title=Обучение: уровень сложности	#
 ## howtoplay.difficulty.text.1=В Minecraft есть несколько уровней сложности, чтобы вы могли приспособить игру под себя.	#
@@ -3267,7 +3267,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.difficulty.text.4=Враждебные мобы наносят обычный урон, а если уровень голода упадет до нуля, вы начнете терять здоровье, но не погибнете.	#
 ## howtoplay.difficulty.header.4=Сложно	#
 ## howtoplay.difficulty.text.5=Враждебные мобы наносят повышенный урон, зомби проламывают двери, а если уровень голода упадет до нуля, вы начнете терять здоровье и можете погибнуть.	#
-## 
+
 ## howtoplay.dispensers=Раздатчики	#
 ## howtoplay.dispensers.title=Обучение: раздатчики	#
 ## howtoplay.dispensers.text.1=Раздатчик используется для выброса предметов. Он приводится в действие сигналом красного камня (например, с помощью рычага).	#
@@ -3276,14 +3276,14 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.dispensers.header.1=Использование	#
 ## howtoplay.dispensers.text.3=Когда на раздатчик подается питание, он выбрасывает один предмет.	#
 ## howtoplay.dispensers.text.4=Раздатчик также можно использовать для размещения предметов. Например, тыкв на железных големах и экипировки на стойках для доспехов.	#
-## 
+
 ## howtoplay.droppers=Выбрасыватели	#
 ## howtoplay.droppers.title=Обучение: выбрасыватели	#
 ## howtoplay.droppers.text.1.notTouch=Когда на выбрасыватель поступает питание от красного камня, он выбрасывает на землю один случайным образом выбранный предмет, содержащийся в нем. Нажмите :_input_key.use: у выбрасывателя, чтобы открыть его. После этого вы сможете загрузить в него предметы из инвентаря.	#
 ## howtoplay.droppers.text.1.touch=Когда на выбрасыватель поступает питание от красного камня, он выбрасывает на землю один случайным образом выбранный предмет, содержащийся в нем. Коснитесь выбрасывателя, чтобы открыть его. После этого вы сможете загрузить в него предметы из инвентаря.	#
 ## howtoplay.droppers.header.1=Использование	#
 ## howtoplay.droppers.text.2=Если выбрасыватель нацелен на сундук или контейнер иного типа, предмет из выбрасывателя будет помещен в него. Длинные цепочки выбрасывателей можно использовать для транспортировки предметов на большие расстояния.	#
-## 
+
 ## howtoplay.dyes=Красители	#
 ## howtoplay.dyes.title=Обучение: красители	#
 ## howtoplay.dyes.text.1=Красители используются в Minecraft для окрашивания самых разных вещей.	#
@@ -3294,7 +3294,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.dyes.text.6=–зеленый краситель можно получить из кактуса;	#
 ## howtoplay.dyes.text.7=–из костной муки, используемой как удобрение для растений и деревьев, изготавливается белый краситель;	#
 ## howtoplay.dyes.text.8=–добывайте пузырьки с чернилами из спрутов ради черного красителя.	#
-## 
+
 ## howtoplay.elytra=Элитры	#
 ## howtoplay.elytra.title=Обучение: элитры	#
 ## howtoplay.elytra.text.1=Элитры – это предмет, при ношении которого появляется возможность парить в воздухе. Элитры помещаются в ячейку для нагрудника.	#
@@ -3306,7 +3306,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.elytra.text.5=Пока вы парите, элитры теряют прочность. Починить их можно, объединив с мембраной фантома на наковальне. Если они сломаются в воздухе, вы упадете, поэтому будьте осторожны.	#
 ## howtoplay.elytra.header.2=Ракетная тяга в полете	#
 ## howtoplay.elytra.text.6=Ракеты без эффектов можно использовать для продления полета на элитрах. Если для этой цели вы используете ракету с эффектом, то получите урон.	#
-## 
+
 ## howtoplay.enchantingTable=Стол зачарований	#
 ## howtoplay.enchantingTable.title=Обучение: стол зачарований	#
 ## howtoplay.enchantingTable.text.1=Очки опыта, получаемые при сборе сфер опыта, можно использовать для наложения чар на оружие, доспехи, инструменты и книги.	#
@@ -3317,21 +3317,21 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.enchantingTable.text.4=Если стол зачарований окружен книжными шкафами (максимум 15 шкафов) с промежутком в один блок между шкафом и столом зачарований, сила налагаемых чар повышается, и можно увидеть мистические символы, притягиваемые книгой на столе.	#
 ## howtoplay.enchantingTable.header.3=Наложение чар на книги	#
 ## howtoplay.enchantingTable.text.5=Зачарованные книги используются на наковальне для наложения чар на предметы. Так вы можете получить предметы с определенными чарами.	#
-## 
+
 ## howtoplay.endCities=Города Края	#
 ## howtoplay.endCities.title=Обучение: города Края	#
 ## howtoplay.endCities.text.1=После уничтожения дракона Края появляются врата Края. Бросив в этот портал жемчуг Края, вы перенесетесь на один из периферийных островов.	#
 ## howtoplay.endCities.text.2=Эти чуждые земли определенно скрывают нечто интересное. Кто знает, может и с собой удастся что-то унести.	#
-## 
+
 ## howtoplay.enderChest=Сундук Края	#
 ## howtoplay.enderChest.title=Обучение: сундук Края	#
 ## howtoplay.enderChest.text.1=Все сундуки Края в мире соединены между собой. Если положить предмет в один из таких сундуков, эта вещь появится во всех остальных сундуках Края. При этом содержимое сундука Края будет уникальным для каждого отдельного игрока. Такие сундуки позволяют класть предметы в один сундук, а забирать их из любого другого сундука Края независимо от его местонахождения.	#
-## 
+
 ## howtoplay.eyeOfEnder=Око Края	#
 ## howtoplay.eyeOfEnder.title=Обучение: око Края	#
 ## howtoplay.eyeOfEnder.text.1=Око Края обладает мистической связью с Краем и при использовании будет вести себя довольно необычно.	#
 ## howtoplay.eyeOfEnder.text.2=Ходят слухи, что оно может привести вас к проходу в другое измерение.	#
-## 
+
 ## howtoplay.farming=Фермерство	#
 ## howtoplay.farming.title=Обучение: фермерство	#
 ## howtoplay.farming.text.1=Есть множество зерновых культур, которые можно вырастить в Minecraft. Фермерство может стать для вас бесконечным источником пищи, хоть заниматься им не так уж и легко.	#
@@ -3343,7 +3343,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.farming.text.5=Заборы помогут защитить зерновые культуры от поедания голодными кроликами и затаптывания.	#
 ## howtoplay.farming.text.6=Когда зерновые культуры созревают, их вид меняется, и можно приступать к сбору урожая.	#
 ## howtoplay.farming.text.7=Некоторые растения, такие как тыквы и арбузы, растут на стеблях, которые при сборе урожая лучше оставить на месте.	#
-## 
+
 ## howtoplay.fireworks=Фейерверки	#
 ## howtoplay.fireworks.title=Обучение: фейерверки	#
 ## howtoplay.fireworks.text.1=Фейерверки – это отличное средство для создания уникального праздника в Minecraft!	#
@@ -3363,7 +3363,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.fireworks.text.6.6=  – В форме звезды. Если вы добавите золотой самородок, узор взрыва будет в виде звезды.	#
 ## howtoplay.fireworks.header.3=Пиротехника	#
 ## howtoplay.fireworks.text.7=Фейерверки можно запускать из раздатчика. Так фейерверки будут лететь туда, куда направлен раздатчик.	#
-## 
+
 ## howtoplay.fishing=Рыбалка	#
 ## howtoplay.fishing.title=Обучение: рыбалка	#
 ## howtoplay.fishing.text.1=Чтобы рыбачить, вам потребуется удочка. Рыбалка является отличным способом поймать немного рыбы или выловить из моря что-нибудь интересное.	#
@@ -3374,7 +3374,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.fishing.text.3=Дождитесь появления пузырьков рядом с приманкой.	#
 ## howtoplay.fishing.text.4.notTouch=Как только положение пузырьков совпадет с положением приманки, она начнет подпрыгивать. Нажмите :_input_key.use:, чтобы извлечь приманку из воды. Не дайте рыбе сорваться с крючка!	#
 ## howtoplay.fishing.text.4.touch=Как только положение пузырьков совпадет с положением приманки, она начнет подпрыгивать. Вновь нажмите кнопку ловли рыбы, чтобы извлечь приманку из воды. Не дайте рыбе сорваться с крючка!	#
-## 
+
 ## howtoplay.furnace=Печка	#
 ## howtoplay.furnace.title=Обучение: печка	#
 ## howtoplay.furnace.text.1=С помощью печки можно готовить или переплавлять предметы. Например, вы можете переплавить железную руду в железные слитки.	#
@@ -3382,7 +3382,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.furnace.text.2.touch=Чтобы использовать печку, разместите ее в мире и коснитесь ее.	#
 ## howtoplay.furnace.header.1=Топливо	#
 ## howtoplay.furnace.text.3=В нижнюю часть печки нужно будет положить топливо, а в верхнюю часть – предмет для обработки. После этого печка начнет работать. В качестве топлива можно использовать самые разные вещи – поэкспериментируйте с горючими материалами!	#
-## 
+
 ## howtoplay.gameSettings=Настройки игры	#
 ## howtoplay.gameSettings.title=Обучение: настройки игры	#
 ## howtoplay.gameSettings.text.1=При создании мира вам доступно множество настроек. Ниже вы найдете список настроек, которые можно менять по своему усмотрению. Если вы не успели все настроить до создания мира, не беспокойтесь: настройки можно изменить в любое время.	#
@@ -3407,7 +3407,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.gameSettings.text.15=– Вред от мобов: не позволяет мобам разрушить мир.	#
 ## howtoplay.gameSettings.text.16=–Выпадение добычи из сущностей. Определяет, будут ли выпадать при разрушении таких сущностей, как вагонетки и стойки для доспехов, соответствующие предметы.	#
 ## howtoplay.gameSettings.text.17=–Смена погоды. Если эта настройка выключена, погода будет неизменной.	#
-## 
+
 ## howtoplay.hoppers=Воронки	#
 ## howtoplay.hoppers.title=Обучение: воронки	#
 ## howtoplay.hoppers.text.1=Воронки используются для автоматического перемещения предметов. Их можно присоединить к другим предметам, таким как контейнеры (например, к сундукам или проигрывателям). 	#
@@ -3415,12 +3415,12 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.hoppers.header.1=Использование	#
 ## howtoplay.hoppers.text.3=Чтобы воронка указывала на определенный блок, разместите ее напротив этого блока в режиме подкрадывания.	#
 ## howtoplay.hoppers.text.4=Если воронка получает энергию от красного камня, она становится неактивной и прекращает перемещать предметы.	#
-## 
+
 ## howtoplay.hostAndPlayerOptions=Параметры игры по сети	#
 ## howtoplay.hostAndPlayerOptions.title=Обучение: параметры игры по сети	#
 ## howtoplay.hostAndPlayerOptions.text.1.notTouch=Если вы играете с включенными читами, полномочия главного компьютера позволят вам переносить себя или друзей, менять погоду, задавать время суток и менять начальную точку или точку появления в мире. Чтобы найти эти параметры в окне чата, включите читы и нажмите кнопку возле панели чата [/].	#
 ## howtoplay.hostAndPlayerOptions.text.1.touch=Если вы играете с включенными читами, полномочия главного компьютера позволят вам переносить себя или друзей, менять погоду, задавать время суток и менять начальную точку или точку появления в мире. Вы сможете найти эти параметры в окне чата, включив читы и нажав кнопку чата.	#
-## 
+
 ## howtoplay.HUD=Индикаторы	#
 ## howtoplay.HUD.title=Обучение: индикаторы	#
 ## howtoplay.HUD.text.1=Индикаторы отображают сведения о вашем состоянии, здоровье, остатке кислорода (когда вы под водой), уровне голода и доспехах (если они у вас есть).	#
@@ -3441,7 +3441,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.HUD.text.7.touch=На панели быстрого доступа представлены предметы, доступные для использования. Чтобы сменить предмет в руке, коснитесь желаемого предмета на панели.	#
 ## howtoplay.HUD.text.7.windowsmr_controller=На панели быстрого доступа представлены предметы, доступные для использования. Чтобы сменить предмет в руке, нажмите :windowsmr_left_touchpad_horizontal:.	#
 ## howtoplay.HUD.text.7.rift_controller=На панели быстрого доступа представлены предметы, доступные для использования. Чтобы сменить предмет в руке, нажмите :rift_left_trigger: или :rift_left_grab:.	#
-## 
+
 ## howtoplay.inventory=Инвентарь	#
 ## howtoplay.inventory.title=Обучение: инвентарь	#
 ## howtoplay.inventory.text.1.keyboard=Нажмите :_input_key.inventory:, чтобы открыть инвентарь.	#
@@ -3461,7 +3461,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.inventory.text.6.keyboard=Чтобы выложить предмет, возьмите его и поместите за пределы окна инвентаря.	#
 ## howtoplay.inventory.text.6.gamepad=Чтобы выложить предмет, возьмите его и нажмите :_gamepad_face_button_up:.	#
 ## howtoplay.inventory.text.6.touch=Чтобы выложить предмет, коснитесь его, а затем коснитесь точки за пределами окна инвентаря.	#
-## 
+
 ## howtoplay.jukebox=Проигрыватель	#
 ## howtoplay.jukebox.title=Обучение: проигрыватель	#
 ## howtoplay.jukebox.text.1=С помощью проигрывателя вы можете прослушивать найденные пластинки.	#
@@ -3476,7 +3476,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.jukebox.header.3=Поиск пластинок	#
 ## howtoplay.jukebox.text.7=Пару пластинок можно найти в сундуках по всему миру.	#
 ## howtoplay.jukebox.text.8=Другие добыть куда сложнее (криперы являются тайными поклонниками музыки).	#
-## 
+
 ## howtoplay.loom=Ткацкий станок	#
 ## howtoplay.loom.title=Обучение: ткацкий станок	#
 ## howtoplay.loom.text.1=Ткацкий станок – это инструмент быстрого и эффективного нанесения узоров на знамена. На один узор ткацкий станок расходует всего один краситель. Также позволяет нанести особые ткацкие узоры.	#
@@ -3485,7 +3485,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.loom.text.3=На знамя можно нанести несколько слоев краски, что позволяет экспериментировать с множеством доступных вариантов. На знамя можно нанести до 6 узоров, чтобы получить уникальный дизайн.	#
 ## howtoplay.loom.header.2=Ткацкие узоры 	#
 ## howtoplay.loom.text.4=Добавив ткацкий узор в третью ячейку ткацкого станка, вы сможете создавать особые узоры, например лицо крипера или цветок. Ткацкий узор не расходуется при применении к знаменам.	#
-## 
+
 ## howtoplay.mounts=Ездовые животные	#
 ## howtoplay.mounts.title=Обучение: ездовые животные	#
 ## howtoplay.mounts.text.1=Игрок может ездить верхом на лошади, осле или муле. Однако только на лошадь можно надеть доспехи.	#
@@ -3510,7 +3510,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.mounts.header.5=Спешивание	#
 ## howtoplay.mounts.text.15.notTouch=Нажмите :_input_key.sneak:, чтобы спешиться.	#
 ## howtoplay.mounts.text.15.touch=Нажмите :_input_key.sneak:, чтобы спешиться.	#
-## 
+
 ## howtoplay.multiplayer=Игра по сети	#
 ## howtoplay.multiplayer.title=Обучение: игра по сети	#
 ## howtoplay.multiplayer.text.1=В Minecraft по умолчанию играют по сети.	#
@@ -3526,7 +3526,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.multiplayer.text.6=Примечание. Чтобы играть по сети, необходимо подключиться к Интернету и войти в учетную запись Майкрософт.	#
 ## howtoplay.multiplayer.header.4=Разрешения игрока	#
 ## howtoplay.multiplayer.text.7=Вы с легкостью можете изменить разрешения отдельных игроков. Откройте меню паузы, и в правой части вы увидите список игроков, находящихся сейчас в мире. Нажмите значок разрешений, чтобы изменить разрешения соответствующего игрока.	#
-## 
+
 ## howtoplay.navigation=Навигация	#
 ## howtoplay.navigation.title=Обучение: навигация	#
 ## howtoplay.navigation.text.1=Навигация является важным навыком, которым вы овладеете в Minecraft, так как порой найти дорогу домой будет не так уж и легко.	#
@@ -3542,13 +3542,13 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.navigation.text.9=Направление также можно определить по солнцу. Запомните: солнце встает на востоке, а заходит на западе.	#
 ## howtoplay.navigation.header.3=Карты исследователей	#
 ## howtoplay.navigation.text.10=Есть несколько интересных мест для исследований. Посетите деревню и разыщите в ней картографа. У него вы сможете выменять карты исследователей, которые приведут вас в далекие неизведанные места.	#
-## 
+
 ## howtoplay.netherPortals=Портал Нижнего мира	#
 ## howtoplay.netherPortals.title=Обучение: портал Нижнего мира	#
 ## howtoplay.netherPortals.text.1=Портал Нижнего мира позволяет путешествовать в другое измерение.	#
 ## howtoplay.netherPortals.text.2=Если портал сооружен правильно, его можно зажечь и активировать.	#
 ## howtoplay.netherPortals.text.3=Здесь показаны примеры возведения портала:	#
-## 
+
 ## howtoplay.nightfall=Наступление ночи	#
 ## howtoplay.nightfall.title=Обучение: наступление ночи	#
 ## howtoplay.nightfall.text.1=В Minecraft солнце всходит и заходит по мере ваших приключений в мире. При заходе солнца вам не помешают некоторые меры предосторожности, ведь ночь полна опасностей.	#
@@ -3556,7 +3556,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.nightfall.text.2=Вам потребуется место, в котором можно укрыться от тьмы и того, что в ней таится. Это может быть просто нора на склоне холма или хижина в лесу.	#
 ## howtoplay.nightfall.text.3=Позаботьтесь о том, чтобы заблокировать все входы (например, дверью, чтобы вы могли войти или выйти). Если вы смастерили кровать, здесь ей будет самое место наравне с верстаком и печкой.	#
 ## howtoplay.nightfall.text.4=Не забудьте осветить местность факелами – это может спасти вашу жизнь.	#
-## 
+
 ## howtoplay.pets=Питомцы	#
 ## howtoplay.pets.title=Обучение: питомцы	#
 ## howtoplay.pets.header.1=Приручение питомцев	#
@@ -3568,14 +3568,14 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.pets.text.3=Кошки – это нейтральные мобы, встречающиеся в деревнях. Они атакуют кроликов и черепашат. Они также отпугивают фантомов и криперов. Приручить их нелегко, ведь они будут стараться убежать от вас. Кошки любят рыбу, поэтому приручить их можно с помощью сырой трески или лосося.	#
 ## howtoplay.pets.header.4=Попугаи	#
 ## howtoplay.pets.text.4=Попугаи – это дружелюбные мобы, обитающие в джунглях. Они могут подражать любым другим мобам, находящимся в округе. Любимой едой попугаев являются семена, поэтому используйте эту еду для их приручения. Попугаи будут сидеть у вас на плече – да, посадить на плечи можно несколько попугаев сразу.	#
-## 
+
 ## howtoplay.raids=Налеты	#
 ## howtoplay.raids.title=Обучение: налеты	#
 ## howtoplay.raids.text.1=Исследуя мир, вы можете наткнуться на лагерь или патруль мародеров. Мародеры всегда ищут деревни для налета. Если захватить знамена мародеров, они могут атаковать ближайшую деревню.	#
 ## howtoplay.raids.text.2=Обязательно защищайте свою деревню. Атака остановится, если перебить всех налетчиков.	#
 ## howtoplay.raids.header.1=Ищу героя	#
 ## howtoplay.raids.text.3=Селяне, скорее всего, будут очень признательны вам за спасение от налетчиков. Не забудьте вернуться к ним и заключить выгодную сделку.  	#
-## 
+
 ## howtoplay.ranching=Животноводство	#
 ## howtoplay.ranching.title=Обучение: животноводство	#
 ## howtoplay.ranching.text.1=В Minecraft вы можете обзавестись собственной животноводческой фермой. Животноводство позволяет получить множество ресурсов, включая шерсть, яйца и сырое мясо.	#
@@ -3585,7 +3585,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.ranching.header.2=Что едят мобы?	#
 ## howtoplay.ranching.text.4=Коровам, грибным коровам и овцам нужно давать пшеницу, свиньям – морковь или свеклу, курам – любые семена, кроликам – морковь, золотую морковь или одуванчики, оцелотам – сырую треску или лосося, а волкам – любое мясо.	#
 ## howtoplay.ranching.text.5=Животные будут следовать за вами, пока у вас в руках будет находиться их любимая еда. Так вы можете привести животное на ферму или к другому животному.	#
-## 
+
 ## howtoplay.realms=Realms	#
 ## howtoplay.realms.title=Обучение: Realms	#
 ## howtoplay.realms.text.1=Realms – это отличное место для размещения игры по сети с беспрерывным доступом. Даже когда вы не играете, ваш Realm открыт для ваших друзей.	#
@@ -3596,7 +3596,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.realms.text.4=Кнопка «Игра» позволяет вам переименовать Realm, выбрать уровень сложности и режим игры, включить читы и скачать/добавить мир.	#
 ## howtoplay.realms.text.5=Кнопка «Участники» позволяет вам управлять приглашенными в Realm друзьями, добавлять/удалять участников и настраивать их разрешения.	#
 ## howtoplay.realms.text.6=Кнопка «Подписка» позволяет увидеть срок окончания действия Realm, продлить этот срок и открыть/закрыть Realm.	#
-## 
+
 ## howtoplay.redstone=Красный камень	#
 ## howtoplay.redstone.title=Обучение: красный камень	#
 ## howtoplay.redstone.text.1=Пыль красного камня является составляющей красного камня, по которой передаются электрические сигналы. При подаче питания пыль начинает светиться и передавать свой сигнал расположенным рядом с ней предметам из красного камня.	#
@@ -3605,12 +3605,12 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.redstone.text.3=Поместите немного пыли красного камня рядом с источником питания и включите его, чтобы подать на нее питание.	#
 ## howtoplay.redstone.text.4=Сигнал красного камня приводит в действие многие предметы, такие как воронки и поршни.	#
 ## howtoplay.redstone.text.5=Красный камень открывает перед вами поистине безграничные возможности! Попробуйте создать что-нибудь самостоятельно (например, автоматизированную ферму).	#
-## 
+
 ## howtoplay.resourceAndBehaviorPacks=Наборы ресурсов и наборы параметров	#
 ## howtoplay.resourceAndBehaviorPacks.title=Обучение: наборы ресурсов и наборы параметров	#
 ## howtoplay.resourceAndBehaviorPacks.text.1=С помощью наборов ресурсов и наборов параметров вы можете менять внешний вид Minecraft и поведение сущностей в игре.	#
 ## howtoplay.resourceAndBehaviorPacks.text.2=В меню настроек выберите набор из списка доступных и нажмите значок «+» рядом с ним. Так вы примените содержимое набора к набору Minecraft по умолчанию.	#
-## 
+
 ## howtoplay.scaffolding=Строительные леса	#
 ## howtoplay.scaffolding.title=Обучение: строительные леса	#
 ## howtoplay.scaffolding.header.1=Дотянитесь до неба	#
@@ -3623,7 +3623,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.scaffolding.text.2=Строительным лесам нужна опора. По горизонтали можно разместить только столько блоков, не касаясь другого блока. Если поставить слишком много блоков строительных лесов без опоры, они упадут. Леса можно ставить как обычные блоки. Их также можно ставить на собственную опору, чтобы быстро возвести высокую башню.	#
 ## howtoplay.scaffolding.header.3=Разберите строительные леса	#
 ## howtoplay.scaffolding.text.3=Если разбить блок строительных лесов, также будут разбиты все блоки над ним. Так можно быстро разобрать леса после строительства!	#
-## 
+
 ## howtoplay.structureBlocks=Структурные блоки	#
 ## howtoplay.structureBlocks.title=Обучение: структурные блоки		###
 ## howtoplay.structureBlocks.text.1=Структурные блоки дают создателям возможность копировать и сохранять разделы мира в структурах. Сохраненные структуры можно снова вставлять в мир.		###
@@ -3652,15 +3652,15 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.structureBlocks.header.7=Обнаружение и угловой режим		###
 ## howtoplay.structureBlocks.text.16=Чтобы автоматически выбрать область, которую нужно сохранить, разместите блоки углового режима вокруг структуры и назовите их так же, как называется структура.	###
 ## howtoplay.structureBlocks.text.17=После нажатия кнопки «Обнаружить» в режиме сохранения система найдет все блоки углов с одинаковыми названиями и создаст область выбора. Все, что находится в ее пределах, будет сохранено.	###
-## 
+
 ## howtoplay.servers=Серверы	#
 ## howtoplay.servers.title=Обучение: серверы	#
 ## howtoplay.servers.text=На вкладке «Серверы» представлены популярные серверы Minecraft.	#
-## 
+
 ## howtoplay.shulkerBoxes=Ящики шалкеров	#
 ## howtoplay.shulkerBoxes.title=Обучение: ящики шалкеров	#
 ## howtoplay.shulkerBoxes.text.1=Объедините два панциря шалкеров с сундуком, чтобы создать ящик шалкера. Панцири шалкеров выпадают из шалкеров, обитающих в городах Края. В отличие от других контейнеров, после разрушения в ящиках шалкеров остаются хранимые в них предметы. Если ящик шалкера двигается поршнем, он разрушается и падает в виде предмета. Ящики шалкеров можно размещать с помощью раздатчиков.	#
-## 
+
 ## howtoplay.theEnd=Край	#
 ## howtoplay.theEnd.title=Обучение: Край	#
 ## howtoplay.theEnd.text.1=Край – это иное измерение, в которое можно попасть через активный портал Края. Портал Края можно найти в крепостях, расположенных в Верхнем мире глубоко под землей.	#
@@ -3669,7 +3669,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.theEnd.text.3=Как только портал активируется, войдите в него, чтобы попасть в Край.	#
 ## howtoplay.theEnd.text.4=Край является домом для ужасной леди – дракона Края. Это очень свирепый и сильный противник, черпающий силы из необычных кристаллов. Ее ядовитое дыхание и шары огня не дадут вам ни мгновения передышки на поле боя. Если хотите одолеть ее, не забудьте позвать с собой друзей.	#
 ## howtoplay.theEnd.text.5=Если одной победы вам недостаточно, положите по одному кристаллу Края в каждый из четырех углов портала выхода, чтобы возродить дракона Края.	#
-## 
+
 ## howtoplay.theStore=Рынок	#
 ## howtoplay.theStore.title=Обучение: рынок	#
 ## howtoplay.theStore.text.1=Рынок Minecraft — это место, где можно найти новые скины, миры, текстуры и микс-наборы от разных талантливых авторов.	#
@@ -3680,7 +3680,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.theStore.text.4.norealms=Пусть ваша старая игра заиграет новыми красками благодаря наборам текстур, накладываемым на ваши текущие миры!	#
 ## howtoplay.theStore.text.5=Или совместите все это в микс-наборах, которые представляют собой специально подобранные коллекции скинов, миров и текстур, преображающих ваши миры и Realms.	#
 ## howtoplay.theStore.text.5.norealms=Или совместите все это в микс-наборах, которые представляют собой специально подобранные коллекции скинов, миров и текстур, преображающих ваши миры.	#
-## 
+
 ## howtoplay.tools=Инструменты	#
 ## howtoplay.tools.title=Обучение: инструменты	#
 ## howtoplay.tools.text.1=В Minecraft есть множество инструментов, с помощью которых можно добывать блоки быстрее, чем голыми руками. Инструменты изготавливаются из дерева, камня, железа, золота или алмазов.	#
@@ -3699,7 +3699,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.tools.text.10=С помощью огнива можно развести огонь... Будьте осторожны с огнем в лесах!	#
 ## howtoplay.tools.text.11=С помощью удочки вы сможете выловить рыбу и другие предметы из блоков воды. Также ее можно использовать, чтобы подтянуть других игроков или мобов. Кроме того, на удочку можно наложить чары.	#
 ## howtoplay.tools.text.12=Ножницы обеспечивают удобство сбора таких материалов, как шерсть, листва и паутина.	#
-## 
+
 ## howtoplay.trading=Торговля с селянами	#
 ## howtoplay.trading.title=Обучение: торговля с селянами	#
 ## howtoplay.trading.text.1=Торговля процветает в деревнях. У каждого селянина есть профессия. Они могут быть фермерами, мясниками, кузнецами, картографами, библиотекарями или священниками. Некоторые профессии позволяют торговать предметами, другие — нет. Разговаривайте и торгуйте со всеми селянами, чтобы не упустить возможность. 	#
@@ -3707,7 +3707,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.trading.text.2=Вы узнаете, чем торгует селянин, взаимодействуя с ним. Селянин может изменить цену предмета в любой момент. Если обращаться к селянину слишком часто, у него могут закончиться предметы и он временно прекратит торговлю. Как правило, валютой выступают изумруды. 	#
 ## howtoplay.trading.text.3=Торгуя с вами, селяне будут преуспевать в своей профессии и начнут предлагать более ценные товары по выгодной цене.  	#
 ## howtoplay.trading.text.4=Позаботьтесь о своих селянах. Им нужно отдыхать, работать и есть, чтобы выжить.	#
-## 
+
 ## howtoplay.transportation=Транспорт	#
 ## howtoplay.transportation.title=Обучение: транспорт	#
 ## howtoplay.transportation.text.1=Есть множество способов перемещения, помимо ходьбы пешком, полета и использования ездовых животных.	#
@@ -3721,7 +3721,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.transportation.text.5.keyboard=Нажмите :_input_key.use:, глядя на лодку, чтобы сесть в нее. Нажмите :_input_key.left: или :_input_key.right:, чтобы повернуть влево или вправо. Нажмите :_input_key.forward:, чтобы плыть вперед. Нажмите :_input_key.jump: или :_input_key.sneak: для выхода.	#
 ## howtoplay.transportation.text.5.gamepad=Посмотрите на лодку и нажмите :_input_key.use:, чтобы забраться в нее. Наклоните :_gamepad_stick_left: влево или вправо для поворота. Чтобы двигаться вперед, наклоните :_gamepad_stick_left: вперед. Чтобы выбраться из лодки, нажмите :_input_key.jump: или :_input_key.sneak:.	#
 ## howtoplay.transportation.text.5.touch=Нажмите кнопку «Сесть в лодку», чтобы забраться в нее. Используйте :_input_key.left: и :_input_key.right: для поворота влево и вправо. Чтобы двигаться вперед, нажмите обе эти кнопки одновременно. Чтобы выбраться из лодки, нажмите кнопку выхода из лодки.	#
-## 
+
 ## howtoplay.weapons=Оружие	#
 ## howtoplay.weapons.title=Обучение: оружие	#
 ## howtoplay.weapons.header.1=Меч	#
@@ -3740,14 +3740,14 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## howtoplay.weapons.text.6.touch=Трезубец — это оружие и дальнего, и ближнего боя. Коснитесь мобов, чтобы атаковать их. Нажмите и удерживайте экран, чтобы замахнуться трезубцем. Отпустите палец, чтобы метнуть. Трезубец — это лучшее подводное оружие.	#
 ## howtoplay.weapons.header.5=Зачарованное оружие	#
 ## howtoplay.weapons.text.7=На меч, лук, арбалет и трезубец можно наложить особые чары с помощью стола зачарований или наковальни, увеличивая урон, прочность или наделяя оружие возможностью поджигать мобов.	#
-## 
+
 ## howtoplay.whatsNew=Что нового	#
-## 
-## immersive_reader.book_page_header=Страница %1 из %2	#
+
+immersive_reader.book_page_header=Страница %1$s изъ %2$s	#
 ## immersive_reader.portfolio_page_header= Страница %1	#
 ## immersive_reader.error.webview_failure=Не удалось подключиться к иммерсивному средству чтения.	#
 ## immersive_reader.error.identity_failure=Не удалось подключиться к иммерсивному средству чтения. Перезапустите Minecraft: Education Edition и повторите попытку.	#
-## 
+
 ## level.launch.failed=Не удалось запустить	#
 ## level.export.started=Экспорт мира запущен...	#
 ## level.import.started=Импорт мира запущен...	#
@@ -3756,7 +3756,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## level.export.failed=Сбой экспорта мира	#
 ## level.import.failed=Сбой импорта мира	#
 ## level.import.failed.incompatibleEdition=Сбой импорта мира: неподдерживаемый формат файла	#
-## 
+
 ## invite.clear=Отменить выбор	#
 ## invite.send=Отправить приглашения: %d	#
 ## invite.sendOne=Отправить 1 приглашение	#
@@ -3776,9 +3776,9 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## invite.notification.description=%s приглашает вас сыграть в Minecraft	#
 ## invite.confirmation.description=%s приглашает вас сыграть в Minecraft	#
 ## invite.pageCounter=%d/%d	#
-## 
-## inventory.binSlot=Уничтожить предмет	#
-## 
+
+inventory.binSlot=Удалить вещь	#
+
 item.air.name=Воздухъ пустоты	#
 item.apple.name=Яблоко	#
 ## item.axolotlAdultBodySingle.name=%1$s взрослый аксолотль	#
@@ -4637,291 +4637,291 @@ item.fireworks.name=Фейерверкъ	#
 item.fireworksCharge.black=Чёрный	#
 item.fireworksCharge.blue=Лазурный	#
 item.fireworksCharge.brown=Коричневый	#
-## item.fireworksCharge.customColor=Пользовательский	#
-## item.fireworksCharge.cyan=Бирюзовый	#
-## item.fireworksCharge.fadeTo=Форма угасания	#
-## item.fireworksCharge.flicker=Мерцание	#
-## item.fireworksCharge.gray=Серый	#
-## item.fireworksCharge.green=Зеленый	#
-## item.fireworksCharge.lightBlue=Голубой	#
-## item.fireworksCharge.lime=Лаймовый	#
-## item.fireworksCharge.magenta=Пурпурный	#
-## item.fireworksCharge.name=Звездочка	#
-## item.fireworksCharge.orange=Оранжевый	#
-## item.fireworksCharge.pink=Розовый	#
-## item.fireworksCharge.purple=Фиолетовый	#
-## item.fireworksCharge.red=Красный	#
-## item.fireworksCharge.silver=Светло-серый	#
-## item.fireworksCharge.trail=След	#
-## item.fireworksCharge.type=Неизвестная форма	#
-## item.fireworksCharge.type.0=Малый шар	#
-## item.fireworksCharge.type.1=Большой шар	#
-## item.fireworksCharge.type.2=В форме звезды	#
-## item.fireworksCharge.type.3=В форме крипера	#
-## item.fireworksCharge.type.4=Разрыв	#
-## item.fireworksCharge.white=Белый	#
-## item.fireworksCharge.yellow=Желтый	#
-## item.clownfish.name=Тропическая рыба	#
-## item.cooked_fish.name=Жареная треска	#
-## item.fish.name=Сырая треска	#
-## item.photo.name=Фото	#
-## item.pufferfish.name=Рыба фугу	#
-## item.cooked_salmon.name=Жареный лосось	#
-## item.salmon.name=Сырой лосось	#
-## item.fishing_rod.name=Удочка	#
-## item.flint.name=Кремень	#
-## item.flint_and_steel.name=Огниво	#
-## item.flower_pot.name=Цветочный горшок	#
-## item.frame.name=Рамка	#
-## item.ghast_tear.name=Слеза гаста	#
-## item.glass_bottle.name=Пузырек	#
-## item.gold_nugget.name=Золотой самородок	#
-## item.iron_nugget.name=Железный самородок	#
-## item.diamond_axe.name=Алмазный топор	#
-## item.golden_axe.name=Золотой топор	#
-## item.iron_axe.name=Железный топор	#
-## item.stone_axe.name=Каменный топор	#
-## item.wooden_axe.name=Деревянный топор	#
-## item.chainmail_helmet.name=Кольчужный шлем	#
-## item.leather_helmet.name=Кожаный шлем	#
-## item.diamond_helmet.name=Алмазный шлем	#
-## item.golden_helmet.name=Золотой шлем	#
-## item.iron_helmet.name=Железный шлем	#
-## item.diamond_hoe.name=Алмазная мотыга	#
-## item.golden_hoe.name=Золотая мотыга	#
-## item.iron_hoe.name=Железная мотыга	#
-## item.stone_hoe.name=Каменная мотыга	#
-## item.wooden_hoe.name=Деревянная мотыга	#
-## item.honey_bottle.name=Бутыль с медом	#
-## item.honeycomb.name=Медовые соты	#
-## item.horsearmordiamond.name=Алмазные конские доспехи	#
-## item.horsearmorgold.name=Золотые конские доспехи	#
-## item.horsearmoriron.name=Железные конские доспехи	#
-## item.horsearmorleather.name=Кожаные конские доспехи	#
-## item.gold_ingot.name=Золотой слиток	#
-## item.iron_ingot.name=Железный слиток	#
-## item.netherite_ingot.name=Незеритовый слиток	#
-## item.netherite_scrap.name=Незеритовый скрап	#
-## item.netherite_sword.name=Незеритовый меч	#
-## item.netherite_pickaxe.name=Незеритовая кирка	#
-## item.netherite_axe.name=Незеритовый топор	#
-## item.netherite_shovel.name=Незеритовая лопата	#
-## item.netherite_hoe.name=Незеритовая мотыга	#
-## item.netherite_boots.name=Незеритовые ботинки	#
-## item.netherite_leggings.name=Незеритовые поножи	#
-## item.netherite_chestplate.name=Незеритовая кираса	#
-## item.netherite_helmet.name=Незеритовый шлем	#
-## item.lead.name=Поводок	#
-## item.leather.name=Кожа	#
-## item.leaves.name=Листва	#
-## item.chainmail_leggings.name=Кольчужные поножи	#
-## item.leather_leggings.name=Кожаные поножи	#
-## item.diamond_leggings.name=Алмазные поножи	#
-## item.golden_leggings.name=Золотые поножи	#
-## item.iron_leggings.name=Железные поножи	#
-## item.nautilus_shell.name=Раковина наутилуса	#
-## item.heart_of_the_sea.name=Сердце моря	#
-## item.magma_cream.name=Сгусток магмы	#
-## item.map.name=Карта	#
-## item.map.exploration.mansion.name=Карта исследователя лесов	#
-## item.map.exploration.monument.name=Карта исследователя океанов	#
-## item.map.exploration.treasure.name=Карта сокровищ	#
-## item.melon.name=Арбуз	#
-## item.milk.name=Ведро с молоком	#
-## item.minecart.name=Вагонетка	#
-## item.chest_minecart.name=Грузовая вагонетка	#
-## item.command_block_minecart.name=Вагонетка с командным блоком	#
-## item.minecartFurnace.name=Самоходная вагонетка	#
-## item.hopper_minecart.name=Вагонетка с загрузочной воронкой	#
-## item.tnt_minecart.name=Вагонетка с динамитом	#
-## item.spawn_egg.entity.agent.name=Создать Agent	#
-## item.spawn_egg.entity.axolotl.name=Создать аксолотля	#
-## item.spawn_egg.entity.bee.name=Создать пчелу	#
-## item.spawn_egg.entity.hoglin.name=Создать хоглина	#
-## item.spawn_egg.entity.cat.name=Создать кота	#
-## item.spawn_egg.entity.chicken.name=Создать курицу	#
-## item.spawn_egg.entity.cow.name=Создать корову	#
-## item.spawn_egg.entity.cod.name=Создать треску	#
-## item.spawn_egg.entity.goat.name=Создать козу	#
-## item.spawn_egg.entity.pufferfish.name=Создать рыбу фугу	#
-## item.spawn_egg.entity.salmon.name=Создать лосося	#
-## item.spawn_egg.entity.tropicalfish.name=Создать тропическую рыбу	#
-## item.spawn_egg.entity.pig.name=Создать свинью	#
-## item.spawn_egg.entity.sheep.name=Создать овцу	#
-## item.spawn_egg.entity.npc.name=Создать неигровое существо	#
-## item.spawn_egg.entity.wolf.name=Создать волка	#
-## item.spawn_egg.entity.villager.name=Создать селянина	#
-## item.spawn_egg.entity.villager_v2.name=Создать селянина	#
-## item.spawn_egg.entity.vindicator.name=Создать поборника	#
-## item.spawn_egg.entity.mooshroom.name=Создать грибную корову	#
-## item.spawn_egg.entity.squid.name=Создать спрута	#
-## item.spawn_egg.entity.glow_squid.name=Создать сияющего спрута	#
-## item.spawn_egg.entity.rabbit.name=Создать кролика	#
-## item.spawn_egg.entity.bat.name=Создать летучую мышь	#
-## item.spawn_egg.entity.ravager.name=Создать разрушителя	#
-## item.spawn_egg.entity.iron_golem.name=Создать железного голема	#
-## item.spawn_egg.entity.snow_golem.name=Создать снежного голема	#
-## item.spawn_egg.entity.ocelot.name=Создать оцелота	#
-## item.spawn_egg.entity.parrot.name=Создать попугая	#
-## item.spawn_egg.entity.horse.name=Создать лошадь	#
-## item.spawn_egg.entity.llama.name=Создать ламу	#
-## item.spawn_egg.entity.polar_bear.name=Создать белого медведя	#
-## item.spawn_egg.entity.donkey.name=Создать осла	#
-## item.spawn_egg.entity.mule.name=Создать мула	#
-## item.spawn_egg.entity.skeleton_horse.name=Создать лошадь-скелет	#
-## item.spawn_egg.entity.zombie_horse.name=Создать лошадь-зомби	#
-## item.spawn_egg.entity.zombie.name=Создать зомби	#
-## item.spawn_egg.entity.drowned.name=Создать утопленника	#
-## item.spawn_egg.entity.creeper.name=Создать крипера	#
-## item.spawn_egg.entity.skeleton.name=Создать скелета	#
-## item.spawn_egg.entity.spider.name=Создать паука	#
-## item.spawn_egg.entity.zombie_pigman.name=Создать зомбированного пиглина	#
-## item.spawn_egg.entity.strider.name=Создать страйдера	#
-## item.spawn_egg.entity.slime.name=Создать слизня	#
-## item.spawn_egg.entity.enderman.name=Создать странника Края	#
-## item.spawn_egg.entity.silverfish.name=Создать чешуйницу	#
-## item.spawn_egg.entity.cave_spider.name=Создать пещерного паука	#
-## item.spawn_egg.entity.ghast.name=Создать гаста	#
-## item.spawn_egg.entity.magma_cube.name=Создать лавовый куб	#
-## item.spawn_egg.entity.blaze.name=Создать ифрита	#
-## item.spawn_egg.entity.zombie_villager.name=Создать деревенского зомби	#
-## item.spawn_egg.entity.zombie_villager_v2.name=Создать деревенского зомби	#
-## item.spawn_egg.entity.witch.name=Создать ведьму	#
-## item.spawn_egg.entity.stray.name=Создать бродягу	#
-## item.spawn_egg.entity.husk.name=Создать отброса	#
-## item.spawn_egg.entity.wither_skeleton.name=Создать скелета-иссушителя	#
-## item.spawn_egg.entity.guardian.name=Создать стража	#
-## item.spawn_egg.entity.elder_guardian.name=Создать древнего стража	#
-## item.spawn_egg.entity.shulker.name=Создать шалкера	#
-## item.spawn_egg.entity.endermite.name=Создать обитателя Края	#
-## item.spawn_egg.entity.evocation_illager.name=Создать вызывателя	#
-## item.spawn_egg.entity.vex.name=Создать досаждателя	#
-## item.spawn_egg.entity.turtle.name=Создать морскую черепаху	#
-## item.spawn_egg.entity.dolphin.name=Создать дельфина	#
-## item.spawn_egg.entity.phantom.name=Создать фантома	#
-## item.spawn_egg.entity.panda.name=Создать панду	#
-## item.spawn_egg.entity.pillager.name=Создать мародера	#
-## item.spawn_egg.entity.piglin_brute.name=Создать пиглина-бестию	#
-## item.spawn_egg.entity.piglin.name=Создать пиглина	#
-## item.spawn_egg.entity.fox.name=Создать лису	#
-## item.spawn_egg.entity.unknown.name=Создать существо	#
-## item.spawn_egg.entity.wandering_trader.name=Создать бродячего торговца	#
-## item.spawn_egg.entity.zoglin.name=Создать зоглина	#
-## item.trident.name=Трезубец	#
-## item.mushroom_stew.name=Тушеные грибы	#
-## item.muttonCooked.name=Жареная баранина	#
-## item.muttonRaw.name=Сырая баранина	#
-## item.name_tag.name=Бирка	#
-## item.netherbrick.name=Кирпич Нижнего мира	#
-## item.quartz.name=Кварц Нижнего мира	#
-## item.nether_wart.name=Нарост Нижнего мира	#
-## item.netherStar.name=Звезда Нижнего мира	#
-## item.painting.name=Картина	#
-## item.paper.name=Бумага	#
-## item.diamond_pickaxe.name=Алмазная кирка	#
-## item.golden_pickaxe.name=Золотая кирка	#
-## item.iron_pickaxe.name=Железная кирка	#
-## item.stone_pickaxe.name=Каменная кирка	#
-## item.wooden_pickaxe.name=Деревянная кирка	#
-## item.porkchop_cooked.name=Жареная свинина	#
-## item.porkchop.name=Сырая свинина	#
+item.fireworksCharge.customColor=Пользовательскій	#
+item.fireworksCharge.cyan=Бирюзовый	#
+item.fireworksCharge.fadeTo=Затухать въ	#
+item.fireworksCharge.flicker=Мерцаніе	#
+item.fireworksCharge.gray=Сѣрый	#
+item.fireworksCharge.green=Зелёный	#
+item.fireworksCharge.lightBlue=Голубой	#
+item.fireworksCharge.lime=Яркозелёный	#
+item.fireworksCharge.magenta=Пурпурный	#
+item.fireworksCharge.name=Пиротехническая звѣзда	#
+item.fireworksCharge.orange=Оранжевый	#
+item.fireworksCharge.pink=Розовый	#
+item.fireworksCharge.purple=Фіолетовый	#
+item.fireworksCharge.red=Червонный	#
+item.fireworksCharge.silver=Свѣтлосѣрый	#
+item.fireworksCharge.trail=Слѣдъ	#
+item.fireworksCharge.type=Неизвѣстная форма	#
+item.fireworksCharge.type.0=Малый шаръ	#
+item.fireworksCharge.type.1=Большой шаръ	#
+item.fireworksCharge.type.2=Въ формѣ звѣзды	#
+item.fireworksCharge.type.3=Въ формѣ лица крипера	#
+item.fireworksCharge.type.4=Всплескъ	#
+item.fireworksCharge.white=Бѣлый	#
+item.fireworksCharge.yellow=Жёлтый	#
+item.clownfish.name=Тропическая рыба	#
+item.cooked_fish.name=Жареная треска	#
+item.fish.name=Сырая треска	#
+item.photo.name=Фотокарточка	#
+item.pufferfish.name=Иглобрюхъ	#
+item.cooked_salmon.name=Жареный лосось	#
+item.salmon.name=Сырой лосось	#
+item.fishing_rod.name=Удочка	#
+item.flint.name=Кремень	#
+item.flint_and_steel.name=Огниво	#
+item.flower_pot.name=Цвѣточный горшокъ	#
+item.frame.name=Рамка	#
+item.ghast_tear.name=Слеза гаста	#
+item.glass_bottle.name=Бутылочка	#
+item.gold_nugget.name=Кусочекъ золота	#
+item.iron_nugget.name=Кусочекъ желѣза	#
+item.diamond_axe.name=Діамантовый топоръ	#
+item.golden_axe.name=Золотой топоръ	#
+item.iron_axe.name=Желѣзный топоръ	#
+item.stone_axe.name=Каменный топоръ	#
+item.wooden_axe.name=Деревянный топоръ	#
+item.chainmail_helmet.name=Койфъ	#
+item.leather_helmet.name=Кожаная шапка	#
+item.diamond_helmet.name=Діамантовый шлемъ	#
+item.golden_helmet.name=Золотой шлемъ	#
+item.iron_helmet.name=Желѣзный шлемъ	#
+item.diamond_hoe.name=Діамантовая мотыга	#
+item.golden_hoe.name=Золотая мотыга	#
+item.iron_hoe.name=Желѣзная мотыга	#
+item.stone_hoe.name=Каменная мотыга	#
+item.wooden_hoe.name=Деревянная мотыга	#
+item.honey_bottle.name=Бутылочка мёда	#
+item.honeycomb.name=Пчелиныя соты	#
+item.horsearmordiamond.name=Діамантовые конскіе доспѣхи	#
+item.horsearmorgold.name=Золотые конскіе доспѣхи	#
+item.horsearmoriron.name=Желѣзные конскіе доспѣхи	#
+item.horsearmorleather.name=Кожаные конскіе доспѣхи	#
+item.gold_ingot.name=Золотой слитокъ	#
+item.iron_ingot.name=Желѣзный слитокъ	#
+item.netherite_ingot.name=Нѣдритовый слитокъ	#
+item.netherite_scrap.name=Нѣдритовый ломъ	#
+item.netherite_sword.name=Нѣдритовый мечъ	#
+item.netherite_pickaxe.name=Нѣдритовая кирка	#
+item.netherite_axe.name=Нѣдритовый топоръ	#
+item.netherite_shovel.name=Нѣдритовая лопата	#
+item.netherite_hoe.name=Нѣдритовая мотыга	#
+item.netherite_boots.name=Нѣдритовые ботинки	#
+item.netherite_leggings.name=Нѣдритовые поножи	#
+item.netherite_chestplate.name=Нѣдритовый нагрудникъ	#
+item.netherite_helmet.name=Нѣдритовый шлемъ	#
+item.lead.name=Поводокъ	#
+item.leather.name=Кожа	#
+item.leaves.name=Листья акаціи	#
+item.chainmail_leggings.name=Кольчужные поножи	#
+item.leather_leggings.name=Кожаные гамаши	#
+item.diamond_leggings.name=Діамантовые поножи	#
+item.golden_leggings.name=Золотые поножи	#
+item.iron_leggings.name=Желѣзные поножи	#
+item.nautilus_shell.name=Раковина наутилуса	#
+item.heart_of_the_sea.name=Сердце моря	#
+item.magma_cream.name=Сгустокъ магмы	#
+item.map.name=Чистая карта	#
+item.map.exploration.mansion.name=Карта изслѣдователя лѣсовъ	#
+item.map.exploration.monument.name=Карта изслѣдователя океана	#
+item.map.exploration.treasure.name=Карта зарытаго клада	#
+item.melon.name=Арбузъ	#
+item.milk.name=Ведро молока	#
+item.minecart.name=Вагонетка	#
+item.chest_minecart.name=Вагонетка съ сундукомъ	#
+item.command_block_minecart.name=Вагонетка съ ариѳмометромъ	#
+item.minecartFurnace.name=Самоходная вагонетка	#
+item.hopper_minecart.name=Пріёмная вагонетка	#
+item.tnt_minecart.name=Вагонетка съ динамитомъ	#
+item.spawn_egg.entity.agent.name=Яйцо призыва Agent	#
+item.spawn_egg.entity.axolotl.name=Яйцо призыва аксолотля	#
+item.spawn_egg.entity.bee.name=Яйцо призыва пчелы	#
+item.spawn_egg.entity.hoglin.name=Яйцо призыва хоглина	#
+item.spawn_egg.entity.cat.name=Яйцо призыва кошки	#
+item.spawn_egg.entity.chicken.name=Яйцо призыва курицы	#
+item.spawn_egg.entity.cow.name=Яйцо призыва коровы	#
+item.spawn_egg.entity.cod.name=Яйцо призыва трески	#
+item.spawn_egg.entity.goat.name=Яйцо призыва козы	#
+item.spawn_egg.entity.pufferfish.name=Яйцо призыва иглобрюха	#
+item.spawn_egg.entity.salmon.name=Яйцо призыва лосося	#
+item.spawn_egg.entity.tropicalfish.name=Яйцо призыва тропической рыбы	#
+item.spawn_egg.entity.pig.name=Яйцо призыва свиньи	#
+item.spawn_egg.entity.sheep.name=Яйцо призыва овцы	#
+item.spawn_egg.entity.npc.name=Яйцо призыва неигрового существа	#
+item.spawn_egg.entity.wolf.name=Яйцо призыва волка	#
+item.spawn_egg.entity.villager.name=Яйцо призыва крестьянина	#
+item.spawn_egg.entity.villager_v2.name=Яйцо призыва крестьянина	#
+item.spawn_egg.entity.vindicator.name=Яйцо призыва воздаятеля	#
+item.spawn_egg.entity.mooshroom.name=Яйцо призыва муухомора	#
+item.spawn_egg.entity.squid.name=Яйцо призыва осьминога	#
+item.spawn_egg.entity.glow_squid.name=Яйцо призыва сіяющаго осьминога	#
+item.spawn_egg.entity.rabbit.name=Яйцо призыва кролика	#
+item.spawn_egg.entity.bat.name=Яйцо призыва летучей мыши	#
+item.spawn_egg.entity.ravager.name=Яйцо призыва разорителя	#
+item.spawn_egg.entity.iron_golem.name=Яйцо призыва Желѣзный витязя	#
+item.spawn_egg.entity.snow_golem.name=Яйцо призыва Снѣговика	#
+item.spawn_egg.entity.ocelot.name=Яйцо призыва оцелота	#
+item.spawn_egg.entity.parrot.name=Яйцо призыва попугая	#
+item.spawn_egg.entity.horse.name=Яйцо призыва лошади	#
+item.spawn_egg.entity.llama.name=Яйцо призыва ламы	#
+item.spawn_egg.entity.polar_bear.name=Яйцо призыва бѣлаго медвѣдя	#
+item.spawn_egg.entity.donkey.name=Яйцо призыва осла	#
+item.spawn_egg.entity.mule.name=Яйцо призыва мула	#
+item.spawn_egg.entity.skeleton_horse.name=Яйцо призыва лошади-скелета	#
+item.spawn_egg.entity.zombie_horse.name=Яйцо призыва лошади-мертвеца	#
+item.spawn_egg.entity.zombie.name=Яйцо призыва мертвеца	#
+item.spawn_egg.entity.drowned.name=Яйцо призыва утопленника	#
+item.spawn_egg.entity.creeper.name=Яйцо призыва крипера	#
+item.spawn_egg.entity.skeleton.name=Яйцо призыва скелета	#
+item.spawn_egg.entity.spider.name=Яйцо призыва паука	#
+item.spawn_egg.entity.zombie_pigman.name=Яйцо призыва пиглина-мертвеца	#
+item.spawn_egg.entity.strider.name=Яйцо призыва лавомѣрки	#
+item.spawn_egg.entity.slime.name=Яйцо призыва слизня	#
+item.spawn_egg.entity.enderman.name=Яйцо призыва эндермана	#
+item.spawn_egg.entity.silverfish.name=Яйцо призыва чешуйницы	#
+item.spawn_egg.entity.cave_spider.name=Яйцо призыва мизгиря	#
+item.spawn_egg.entity.ghast.name=Яйцо призыва гаста	#
+item.spawn_egg.entity.magma_cube.name=Яйцо призыва магмоваго куба	#
+item.spawn_egg.entity.blaze.name=Яйцо призыва пламеня	#
+item.spawn_egg.entity.zombie_villager.name=Яйцо призыва крестьянина-мертвеца	#
+item.spawn_egg.entity.zombie_villager_v2.name=Яйцо призыва крестьянина-мертвеца	#
+item.spawn_egg.entity.witch.name=Яйцо призыва вѣдьмы	#
+item.spawn_egg.entity.stray.name=Яйцо призыва зимогора	#
+item.spawn_egg.entity.husk.name=Яйцо призыва кадавра	#
+item.spawn_egg.entity.wither_skeleton.name=Яйцо призыва визеръ-скелета	#
+item.spawn_egg.entity.guardian.name=Яйцо призыва сторожа	#
+item.spawn_egg.entity.elder_guardian.name=Яйцо призыва старѣйшаго сторожа	#
+item.spawn_egg.entity.shulker.name=Яйцо призыва шалкера	#
+item.spawn_egg.entity.endermite.name=Яйцо призыва эндермита	#
+item.spawn_egg.entity.evocation_illager.name=Яйцо призыва чародѣя	#
+item.spawn_egg.entity.vex.name=Яйцо призыва вредины	#
+item.spawn_egg.entity.turtle.name=Яйцо призыва черепахи	#
+item.spawn_egg.entity.dolphin.name=Яйцо призыва дельфина	#
+item.spawn_egg.entity.phantom.name=Яйцо призыва фантома	#
+item.spawn_egg.entity.panda.name=Яйцо призыва панды	#
+item.spawn_egg.entity.pillager.name=Яйцо призыва разбойника	#
+item.spawn_egg.entity.piglin_brute.name=Яйцо призыва брутальнаго пиглина	#
+item.spawn_egg.entity.piglin.name=Яйцо призыва пиглина	#
+item.spawn_egg.entity.fox.name=Яйцо призыва лисицы	#
+item.spawn_egg.entity.unknown.name=Яйцо призыва сущности	#
+item.spawn_egg.entity.wandering_trader.name=Яйцо призыва коробейника	#
+item.spawn_egg.entity.zoglin.name=Яйцо призыва зоглина	#
+item.trident.name=Трезубецъ	#
+item.mushroom_stew.name=Грибной супъ	#
+item.muttonCooked.name=Жареная баранина	#
+item.muttonRaw.name=Сырая баранина	#
+item.name_tag.name=Ярлыкъ	#
+item.netherbrick.name=Нѣдрскій кирпичъ	#
+item.quartz.name=Нѣдрскій кварцъ	#
+item.nether_wart.name=Нѣдрскій наростъ	#
+item.netherStar.name=Звѣзда Нѣдра	#
+item.painting.name=Картина	#
+item.paper.name=Бумага	#
+item.diamond_pickaxe.name=Діамантовая кирка	#
+item.golden_pickaxe.name=Золотая кирка	#
+item.iron_pickaxe.name=Желѣзная кирка	#
+item.stone_pickaxe.name=Каменная кирка	#
+item.wooden_pickaxe.name=Деревянная кирка	#
+item.porkchop_cooked.name=Жареная свинина	#
+item.porkchop.name=Сырая свинина	#
 ## item.portfolio.name=Портфолио	#
-## item.potato.name=Картофель	#
-## item.baked_potato.name=Печеный картофель	#
-## item.poisonous_potato.name=Ядовитый картофель	#
-## item.prismarine_crystals.name=Кристаллы призмарина	#
-## item.prismarine_shard.name=Осколок призмарина	#
-## item.pumpkin_pie.name=Тыквенный пирог	#
-## item.cooked_rabbit.name=Жареная крольчатина	#
-## item.rabbit_foot.name=Кроличья лапка	#
-## item.rabbit_hide.name=Кроличья шкурка	#
-## item.rabbit.name=Сырая крольчатина	#
-## item.rabbit_stew.name=Тушеный кролик	#
-## item.record_11.desc=C418 – 11	#
-## item.record_13.desc=C418 – 13	#
-## item.record_blocks.desc=C418 – Блоки	#
-## item.record_cat.desc=C418 – Кот	#
-## item.record_chirp.desc=C418 – Напев	#
-## item.record_far.desc=C418 – Даль	#
-## item.record_mall.desc=C418 – Аллея	#
-## item.record_mellohi.desc=C418 – Mellohi	#
-## item.record.name=Пластинка	#
-## item.record_stal.desc=C418 – Stal	#
-## item.record_strad.desc=C418 – Синт	#
-## item.record_wait.desc=C418 – Ожидание	#
-## item.record_ward.desc=C418 – Оберег	#
-## item.record_pigstep.desc=Лена Райн — Pigstep	#
-## item.record_otherside.desc=Лена Райн — otherside	#
-## item.redstone.name=Пыль красного камня	#
-## item.reeds.name=Сахарный тростник	#
-## item.kelp.name=Водоросли	#
-## item.dried_kelp.name=Сушеные водоросли	#
-## item.rotten_flesh.name=Гнилая плоть	#
+item.potato.name=Картофель	#
+item.baked_potato.name=Запечённый картофель	#
+item.poisonous_potato.name=Ядовитый картофель	#
+item.prismarine_crystals.name=Кристаллъ призмарина	#
+item.prismarine_shard.name=Осколокъ призмарина	#
+item.pumpkin_pie.name=Тыквенный пирогъ	#
+item.cooked_rabbit.name=Жареная крольчатина	#
+item.rabbit_foot.name=Кроличья лапка	#
+item.rabbit_hide.name=Кроличья шкурка	#
+item.rabbit.name=Сырая крольчатина	#
+item.rabbit_stew.name=Жаркое изъ кролика	#
+item.record_11.desc=C418 - 11	#
+item.record_13.desc=C418 — 13	#
+item.record_blocks.desc=C418 — blocks	#
+item.record_cat.desc=C418 — cat	#
+item.record_chirp.desc=C418 - chіrp	#
+item.record_far.desc=C418 - far	#
+item.record_mall.desc=C418 - mall	#
+item.record_mellohi.desc=C418 - mellohі	#
+item.record.name=Пластинка	#
+item.record_stal.desc=C418 - stal	#
+item.record_strad.desc=C418 - strad	#
+item.record_wait.desc=C418 - waіt	#
+item.record_ward.desc=C418 - ward	#
+item.record_pigstep.desc=Лена Рейнъ — Pіgstep	#
+item.record_otherside.desc=Лена Рейнъ — otherside	#
+item.redstone.name=Редстоунъ	#
+item.reeds.name=Сахарный тростникъ	#
+item.kelp.name=Ламинаріи	#
+item.dried_kelp.name=Сушёная ламинарія	#
+item.rotten_flesh.name=Прѣлая плоть	#
 ## item.ruby.name=Рубин	#
-## item.saddle.name=Седло	#
-## item.wheat_seeds.name=Семена	#
-## item.beetroot_seeds.name=Семена свеклы	#
-## item.melon_seeds.name=Семена арбуза	#
-## item.pumpkin_seeds.name=Семена тыквы	#
-## item.shears.name=Ножницы	#
-## item.diamond_shovel.name=Алмазная лопата	#
-## item.golden_shovel.name=Золотая лопата	#
-## item.iron_shovel.name=Железная лопата	#
-## item.stone_shovel.name=Каменная лопата	#
-## item.wooden_shovel.name=Деревянная лопата	#
-## item.sign.name=Табличка из дуба	#
-## item.spruce_sign.name=Табличка из сосны	#
-## item.birch_sign.name=Табличка из березы	#
-## item.jungle_sign.name=Табличка из тропического дерева	#
-## item.acacia_sign.name=Табличка из акации	#
-## item.darkoak_sign.name=Табличка из темного дуба	#
-## item.crimson_sign.name=Багровая табличка	#
-## item.warped_sign.name=Искаженная табличка	#
-## item.skull.char.name=Голова	#
-## item.skull.creeper.name=Голова крипера	#
-## item.skull.dragon.name=Голова дракона	#
-## item.skull.player.name=Голова игрока %s	#
-## item.skull.skeleton.name=Череп скелета	#
-## item.skull.wither.name=Череп скелета-иссушителя	#
-## item.skull.zombie.name=Голова зомби	#
-## item.slime_ball.name=Слизь	#
-## item.snowball.name=Снежок	#
-## item.speckled_melon.name=Сверкающий арбуз	#
-## item.spider_eye.name=Паучий глаз	#
-## item.stick.name=Палка	#
-## item.string.name=Нить	#
-## item.sugar.name=Сахар	#
-## item.gunpowder.name=Порох	#
-## item.diamond_sword.name=Алмазный меч	#
-## item.golden_sword.name=Золотой меч	#
-## item.iron_sword.name=Железный меч	#
-## item.stone_sword.name=Каменный меч	#
-## item.wooden_sword.name=Деревянный меч	#
-## item.unbreakable=Неразрушимый	#
-## item.wheat.name=Пшеница	#
-## item.writable_book.name=Книга с пером	#
-## item.written_book.name=Завершенная книга	#
-## item.glowstone_dust.name=Светопыль	#
-## item.shield.name=Щит	#
-## item.shulker_shell.name=Панцирь шалкера	#
-## item.totem.name=Тотем бессмертия	#
-## item.turtle_helmet.name=Панцирь черепахи	#
-## item.turtle_shell_piece.name=Щиток	#
-## item.phantom_membrane.name=Мембрана фантома	#
-## item.sweet_berries.name=Сладкие ягоды	#
-## item.suspicious_stew.name=Подозрительное рагу	#
-## item.banner_pattern.bricks=Кирпичная кладка	#
-## item.banner_pattern.creeper=Лицо крипера	#
-## item.banner_pattern.flower=Цветок	#
-## item.banner_pattern.name=Узор знамени	#
-## item.banner_pattern.piglin=Морда	#
-## item.banner_pattern.skull=Череп	#
-## item.banner_pattern.thing=Штука	#
-## item.banner_pattern.vines=Зубчатая кайма	#
-## item.bucketPowderSnow.name=Ведро снежной пыли	#
-## 
-## itemGroup.search=Поиск	#
-## itemGroup.name.planks=Доски	#
+item.saddle.name=Сѣдло	#
+item.wheat_seeds.name=Сѣмена пшеницы	#
+item.beetroot_seeds.name=Сѣмена свёклы	#
+item.melon_seeds.name=Сѣмена арбуза	#
+item.pumpkin_seeds.name=Сѣмена тыквы	#
+item.shears.name=Ножницы	#
+item.diamond_shovel.name=Діамантовая лопата	#
+item.golden_shovel.name=Золотая лопата	#
+item.iron_shovel.name=Желѣзная лопата	#
+item.stone_shovel.name=Каменная лопата	#
+item.wooden_shovel.name=Деревянная лопата	#
+item.sign.name=Дубовая табличка	#
+item.spruce_sign.name=Еловая табличка	#
+item.birch_sign.name=Берёзовая табличка	#
+item.jungle_sign.name=Табличка изъ тропическаго дерева	#
+item.acacia_sign.name=Акаціевая табличка	#
+item.darkoak_sign.name=Табличка изъ тёмнаго дуба	#
+item.crimson_sign.name=Багровая табличка	#
+item.warped_sign.name=Искажённая табличка	#
+item.skull.char.name=Человѣческая голова	#
+item.skull.creeper.name=Голова крипера	#
+item.skull.dragon.name=Голова змѣя	#
+item.skull.player.name=Голова %s	#
+item.skull.skeleton.name=Черепъ скелета	#
+item.skull.wither.name=Черепъ визеръ-скелета	#
+item.skull.zombie.name=Голова мертвеца	#
+item.slime_ball.name=Сгустокъ слизи	#
+item.snowball.name=Снѣжокъ	#
+item.speckled_melon.name=Сіяющій ломтикъ арбуза	#
+item.spider_eye.name=Паучье око	#
+item.stick.name=Палка	#
+item.string.name=Нить	#
+item.sugar.name=Сахаръ	#
+item.gunpowder.name=Порохъ	#
+item.diamond_sword.name=Діамантовый мечъ	#
+item.golden_sword.name=Золотой мечъ	#
+item.iron_sword.name=Желѣзный мечъ	#
+item.stone_sword.name=Каменный мечъ	#
+item.wooden_sword.name=Деревянный мечъ	#
+item.unbreakable=Неразрушаемый	#
+item.wheat.name=Ростки пшеницы	#
+item.writable_book.name=Книга и перо	#
+item.written_book.name=Завершённая книга	#
+item.glowstone_dust.name=Свѣтокаменная пыль	#
+item.shield.name=Щитъ	#
+item.shulker_shell.name=Панцырь шалкера	#
+item.totem.name=Тотемъ безсмертія	#
+item.turtle_helmet.name=Черепашій панцырь	#
+item.turtle_shell_piece.name=Щитокъ	#
+item.phantom_membrane.name=Мембрана фантома	#
+item.sweet_berries.name=Сладкія ягоды	#
+item.suspicious_stew.name=Диковинное рагу	#
+item.banner_pattern.bricks=Муровка	#
+item.banner_pattern.creeper=Рожица крипера	#
+item.banner_pattern.flower=Цвѣтокъ	#
+item.banner_pattern.name=Узоръ флага	#
+item.banner_pattern.piglin=Рыло	#
+item.banner_pattern.skull=Черепъ	#
+item.banner_pattern.thing=Нѣчто	#
+item.banner_pattern.vines=Зубчатая кайма	#
+item.bucketPowderSnow.name=Ведро съ рыхлымъ снѣгомъ	#
+
+itemGroup.search=Поискъ	#
+itemGroup.name.planks=Доски	#
 ## itemGroup.name.walls=Стены	#
 ## itemGroup.name.fence=Заборы	#
 ## itemGroup.name.fenceGate=Ворота	#
@@ -4993,19 +4993,19 @@ item.fireworksCharge.brown=Коричневый	#
 ## itemGroup.name.banner_pattern=Узоры знамени	#
 ## itemGroup.name.netherWartBlock=Наросты Нижнего мира	#
 ## itemGroup.name.candles=Свечи	#
-## 
-## jigsaw.title.target_pool=Целевой пул:	#
-## jigsaw.title.name=Имя:	#
-## jigsaw.title.target=Целевое имя:	#
-## jigsaw.title.final_block=Чем становится:	#
-## jigsaw.title.joint_type=Тип соединения:	#
-## jigsaw.title.joint_type.aligned=Выровненный	#
-## jigsaw.joint_type.aligned=Выровненный	#
-## jigsaw.joint_type.rollable=Прокатываемый	#
-## jigsaw.exit.done=Готово	#
-## jigsaw.exit.cancel=Отмена	#
-## 
-## ##EDU Joincode
+
+jigsaw.title.target_pool=Цѣль:	#
+jigsaw.title.name=Названіе:	#
+jigsaw.title.target=Названіе цѣли:	#
+jigsaw.title.final_block=Превращается въ:	#
+jigsaw.title.joint_type=Видъ соединенія:	#
+jigsaw.title.joint_type.aligned=Выровненъ	#
+jigsaw.joint_type.aligned=Выровненъ	#
+jigsaw.joint_type.rollable=Вращаемый	#
+jigsaw.exit.done=Готово	#
+jigsaw.exit.cancel=Отмѣна	#
+
+##EDU Joincode
 ## joincode.entry_popup.icon_button=%1 кнопка кода присоединения		# Example: Apple join code button	#
 ## joincode.entry_popup.icon_entry=%3 ввод кода присоединения %1 из %2	# Example: Apple join code entry 2 of 5	#
 ## joincode.entry_popup.title=Введите код присоединения	#
@@ -5056,45 +5056,45 @@ item.fireworksCharge.brown=Коричневый	#
 ## joincode.button.generate_code.text=Создать новый код присоединения	#
 ## joincode.confirmation.generate_code.message=Создание нового кода присоединения не останавливает многопользовательскую игру. С его помощью можно приглашать дополнительных игроков.	#
 ## joincode.service.unavailable=Коды присоединения временно недоступны. Попробуйте обновить страницу или использовать свой IP-адрес.	#
-## 
-## ##EDU Pause Menu
+
+##EDU Pause Menu
 ## edu.pause.ipaddress=IP-адрес	#
 ## edu.pause.port=ПОРТ	#
-## 
-## key.attack=Атаковать/уничтожить	#
-## key.back=Ходьба назад	#
-## key.categories.gameplay=Игровой процесс	#
-## key.categories.inventory=Инвентарь	#
-## key.categories.misc=Разное	#
-## key.categories.movement=Движение	#
-## key.categories.multiplayer=Игра по сети	#
+
+key.attack=Бить/Разрушать	#
+key.back=Назадъ	#
+key.categories.gameplay=Игровая суть	#
+key.categories.inventory=Инвентарь	#
+key.categories.misc=Всякое	#
+key.categories.movement=Движеніе	#
+key.categories.multiplayer=Игра въ компаніи	#
 ## key.categories.stream=Трансляция	#
-## key.categories.ui=Интерфейс игры	#
+key.categories.ui=Игровой интерфейсъ	#
 ## key.codeBuilder=Code Builder	#
-## key.chat=Открыть чат	#
-## key.command=Ввод команды	#
+key.chat=Открыть бесѣду	#
+key.command=Дать приказъ	#
 ## key.cycleItemLeft=Перебор предметов влево	#
 ## key.cycleItemRight=Перебор предметов вправо	#
 ## key.scoreboard=Показать таблицу результатов	#
-## key.drop=Выбросить предмет	#
-## key.forward=Ходьба вперед	#
-## key.fullscreen=Полный экран	#
-## key.hotbar.1=Ячейка быстрого доступа 1	#
-## key.hotbar.2=Ячейка быстрого доступа 2	#
-## key.hotbar.3=Ячейка быстрого доступа 3	#
-## key.hotbar.4=Ячейка быстрого доступа 4	#
-## key.hotbar.5=Ячейка быстрого доступа 5	#
-## key.hotbar.6=Ячейка быстрого доступа 6	#
-## key.hotbar.7=Ячейка быстрого доступа 7	#
-## key.hotbar.8=Ячейка быстрого доступа 8	#
-## key.hotbar.9=Ячейка быстрого доступа 9	#
+key.drop=Выбросить выбранную вещь	#
+key.forward=Вперёдъ	#
+key.fullscreen=Полноэкранный режимъ	#
+key.hotbar.1=Ячейка 1	#
+key.hotbar.2=Ячейка 2	#
+key.hotbar.3=Ячейка 3	#
+key.hotbar.4=Ячейка 4	#
+key.hotbar.5=Ячейка 5	#
+key.hotbar.6=Ячейка 6	#
+key.hotbar.7=Ячейка 7	#
+key.hotbar.8=Ячейка 8	#
+key.hotbar.9=Ячейка 9	#
 ## key.cyclefixedinventory=Листать выделенный инвентарь	#
 ## key.immersivereader=Иммерсивное средство чтения	#
 ## key.interactwithtoast=Открыть уведомление	#
 ## key.mobeffectsandinteractwithtoast=Открыть уведомление/эффекты мобов	#
-## key.inventory=Инвентарь	#
-## key.jump=Прыгнуть/лететь вверх	#
-## key.left=Шаг влево	#
+key.inventory=Открыть/закрыть инвентарь	#
+key.jump=Прыжокъ	#
+key.left=Влѣво	#
 ## key.lookCenter=Посмотреть в центр	#
 ## key.lookDown=Посмотреть вниз	#
 ## key.lookDownLeft=Посмотреть вниз и влево	#
@@ -5112,24 +5112,24 @@ item.fireworksCharge.brown=Коричневый	#
 ## key.lookUpSmooth=Посмотреть плавно вверх	#
 ## key.menuTabLeft=Вкладка меню слева	#
 ## key.menuTabRight=Вкладка меню справа	#
-## key.mouseButton=Кнопка %1$s	#
-## key.pickItem=Выбор блока	#
-## key.playerlist=Список игроков	#
-## key.right=Шаг вправо	#
-## key.screenshot=Снимок экрана	#
-## key.smoothCamera=Кинематографическая камера	#
-## key.sneak=Красться/лететь вниз	#
-## key.spectatorOutlines=Выделять игроков (зрителей)	#
-## key.sprint=Бег	#
+key.mouseButton=Кнопка %1$s	#
+key.pickItem=Выборъ блока	#
+key.playerlist=Реестръ игроковъ	#
+key.right=Вправо	#
+key.screenshot=Сдѣлать снимокъ экрана	#
+key.smoothCamera=Синематографическая камера	#
+key.sneak=Красться	#
+key.spectatorOutlines=Подсвѣтка игроковъ (смотрители)	#
+key.sprint=Бѣгъ	#
 ## key.streamCommercial=Показывать рекламу в трансляции	#
 ## key.streamPauseUnpause=Пауза/возобновление трансляции	#
 ## key.streamStartStop=Запуск/остановка трансляции	#
 ## key.streamToggleMic=Включить/выключить микрофон	#
-## key.togglePerspective=Изменить перспективу	#
+key.togglePerspective=Переключить перспективу	#
 ## key.toggleControlHUD=Переключить подсказки	#
 ## key.toggleControlHUD.open=Показать элементы управления	#
 ## key.toggleControlHUD.close=Скрыть элементы управления	#
-## key.use=Использовать/поставить	#
+key.use=Использовать/установить	#
 ## key.flyDownSlow=Опускаться медленно	#
 ## key.flyUpSlow=Взлетать медленно	#
 ## key.mobEffects=Эффекты мобов	#
@@ -5139,86 +5139,86 @@ item.fireworksCharge.brown=Коричневый	#
 ## key.moveRight=Движение вправо	#
 ## key.pause=Пауза	#
 ## key.toggleLivingroom=Переключить погружение	#
-## 
-## keyboard.keyName.backspace=НАЗАД	#
-## keyboard.keyName.tab=TAB	#
+
+keyboard.keyName.backspace=Backspace	#
+keyboard.keyName.tab=Tab	#
 ## keyboard.keyName.return=ВОЗВРАТ	#
-## keyboard.keyName.pause=ПАУЗА	#
-## keyboard.keyName.lshift=SHIFT	#
-## keyboard.keyName.control=CONTROL	#
-## keyboard.keyName.capsLock=ЗАГЛАВНАЯ	#
-## keyboard.keyName.escape=ESCAPE	#
-## keyboard.keyName.space=ПРОБЕЛ	#
-## keyboard.keyName.pgDown=PAGE DOWN	#
-## keyboard.keyName.pgUp=PAGE UP	#
-## keyboard.keyName.end=END	#
-## keyboard.keyName.home=HOME	#
-## keyboard.keyName.left=ВЛЕВО	#
-## keyboard.keyName.up=ВВЕРХ	#
-## keyboard.keyName.right=ВПРАВО	#
-## keyboard.keyName.down=ВНИЗ	#
-## keyboard.keyName.insert=INSERT	#
-## keyboard.keyName.delete=DELETE	#
-## keyboard.keyName.0=0	#
-## keyboard.keyName.1=1	#
-## keyboard.keyName.2=2	#
-## keyboard.keyName.3=3	#
-## keyboard.keyName.4=4	#
-## keyboard.keyName.5=5	#
-## keyboard.keyName.6=6	#
-## keyboard.keyName.7=7	#
-## keyboard.keyName.8=8	#
-## keyboard.keyName.9=9	#
-## keyboard.keyName.a=A	#
-## keyboard.keyName.b=B	#
-## keyboard.keyName.c=C	#
-## keyboard.keyName.d=D	#
-## keyboard.keyName.e=E	#
-## keyboard.keyName.f=F	#
-## keyboard.keyName.g=G	#
-## keyboard.keyName.h=H	#
-## keyboard.keyName.i=I	#
-## keyboard.keyName.j=J	#
-## keyboard.keyName.k=K	#
-## keyboard.keyName.l=L	#
-## keyboard.keyName.m=M	#
-## keyboard.keyName.n=N	#
-## keyboard.keyName.o=O	#
-## keyboard.keyName.p=P	#
-## keyboard.keyName.q=Q	#
-## keyboard.keyName.r=R	#
-## keyboard.keyName.s=S	#
-## keyboard.keyName.t=T	#
-## keyboard.keyName.u=U	#
-## keyboard.keyName.v=V	#
-## keyboard.keyName.w=W	#
-## keyboard.keyName.x=X	#
-## keyboard.keyName.y=Y	#
-## keyboard.keyName.z=Z	#
-## keyboard.keyName.f1=F1	#
-## keyboard.keyName.f2=F2	#
-## keyboard.keyName.f3=F3	#
-## keyboard.keyName.f4=F4	#
-## keyboard.keyName.f5=F5	#
-## keyboard.keyName.f6=F6	#
-## keyboard.keyName.f7=F7	#
-## keyboard.keyName.f8=F8	#
-## keyboard.keyName.f9=F9	#
-## keyboard.keyName.f10=F10	#
-## keyboard.keyName.f11=F11	#
-## keyboard.keyName.f12=F12	#
-## keyboard.keyName.f13=F13	#
-## keyboard.keyName.numpad0=NUMPAD0	#
-## keyboard.keyName.numpad1=NUMPAD1	#
-## keyboard.keyName.numpad2=NUMPAD2	#
-## keyboard.keyName.numpad3=NUMPAD3	#
-## keyboard.keyName.numpad4=NUMPAD4	#
-## keyboard.keyName.numpad5=NUMPAD5	#
-## keyboard.keyName.numpad6=NUMPAD6	#
-## keyboard.keyName.numpad7=NUMPAD7	#
-## keyboard.keyName.numpad8=NUMPAD8	#
-## keyboard.keyName.numpad9=NUMPAD9	#
-## keyboard.keyName.scroll=ПРОКРУТКА	#
+keyboard.keyName.pause=Pause	#
+keyboard.keyName.lshift=Лѣвый Shіft	#
+keyboard.keyName.control=Ctrl слѣва	#
+keyboard.keyName.capsLock=Caps Lock	#
+keyboard.keyName.escape=Escape	#
+keyboard.keyName.space=Пробѣлъ	#
+keyboard.keyName.pgDown=Page Down	#
+keyboard.keyName.pgUp=Page Up	#
+keyboard.keyName.end=End	#
+keyboard.keyName.home=Home	#
+keyboard.keyName.left=Стрѣлка влѣво	#
+keyboard.keyName.up=Стрѣлка вверхъ	#
+keyboard.keyName.right=Стрѣлка вправо	#
+keyboard.keyName.down=Стрѣлка внизъ	#
+keyboard.keyName.insert=Insert	#
+keyboard.keyName.delete=Удалить	#
+keyboard.keyName.0=0	#
+keyboard.keyName.1=1	#
+keyboard.keyName.2=2	#
+keyboard.keyName.3=3	#
+keyboard.keyName.4=4	#
+keyboard.keyName.5=5	#
+keyboard.keyName.6=6	#
+keyboard.keyName.7=7	#
+keyboard.keyName.8=8	#
+keyboard.keyName.9=9	#
+keyboard.keyName.a=A	#
+keyboard.keyName.b=B	#
+keyboard.keyName.c=C	#
+keyboard.keyName.d=D	#
+keyboard.keyName.e=E	#
+keyboard.keyName.f=F	#
+keyboard.keyName.g=G	#
+keyboard.keyName.h=H	#
+keyboard.keyName.i=I	#
+keyboard.keyName.j=J	#
+keyboard.keyName.k=K	#
+keyboard.keyName.l=L	#
+keyboard.keyName.m=M	#
+keyboard.keyName.n=N	#
+keyboard.keyName.o=O	#
+keyboard.keyName.p=P	#
+keyboard.keyName.q=Q	#
+keyboard.keyName.r=R	#
+keyboard.keyName.s=S	#
+keyboard.keyName.t=T	#
+keyboard.keyName.u=U	#
+keyboard.keyName.v=V	#
+keyboard.keyName.w=W	#
+keyboard.keyName.x=X	#
+keyboard.keyName.y=Y	#
+keyboard.keyName.z=Z	#
+keyboard.keyName.f1=F1	#
+keyboard.keyName.f2=F2	#
+keyboard.keyName.f3=F3	#
+keyboard.keyName.f4=F4	#
+keyboard.keyName.f5=F5	#
+keyboard.keyName.f6=F6	#
+keyboard.keyName.f7=F7	#
+keyboard.keyName.f8=F8	#
+keyboard.keyName.f9=F9	#
+keyboard.keyName.f10=F10	#
+keyboard.keyName.f11=F11	#
+keyboard.keyName.f12=F12	#
+keyboard.keyName.f13=F13	#
+keyboard.keyName.numpad0=0 (цифр. кл.)	#
+keyboard.keyName.numpad1=1 (цифр. кл.)	#
+keyboard.keyName.numpad2=2 (цифр. кл.)	#
+keyboard.keyName.numpad3=3 (цифр. кл.)	#
+keyboard.keyName.numpad4=4 (цифр. кл.)	#
+keyboard.keyName.numpad5=5 (цифр. кл.)	#
+keyboard.keyName.numpad6=6 (цифр. кл.)	#
+keyboard.keyName.numpad7=7 (цифр. кл.)	#
+keyboard.keyName.numpad8=8 (цифр. кл.)	#
+keyboard.keyName.numpad9=9 (цифр. кл.)	#
+keyboard.keyName.scroll=Прокрутка	#
 ## keyboard.keyName.equals=РАВНО	#
 ## keyboard.keyName.add=ДОБАВИТЬ	#
 ## keyboard.keyName.minus=МИНУС	#
@@ -5236,7 +5236,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## keyboard.keyName.backslash=ОБРАТНАЯ КОСАЯ ЧЕРТА	#
 ## keyboard.keyName.lbracket=ЛЕВАЯ СКОБКА	#
 ## keyboard.keyName.rbracket=ПРАВАЯ СКОБКА	#
-## 
+
 ## keyboard.keyName.backspace.short=BACK	#
 ## keyboard.keyName.tab.short=TAB	#
 ## keyboard.keyName.return.short=RETURN	#
@@ -5284,22 +5284,22 @@ item.fireworksCharge.brown=Коричневый	#
 ## keyboard.keyName.backslash.short=\	#
 ## keyboard.keyName.lbracket.short=[	#
 ## keyboard.keyName.rbracket.short=]	#
-## 
+
 ## lanServer.otherPlayers=Настройки для других игроков	#
 ## lanServer.scanning=Поиск миров в локальной сети	#
 ## lanServer.start=Открыть мир для локальной сети	#
 ## lanServer.title=Мир в локальной сети	#
 ## lanServer.restart=Произошел перезапуск сервера!	#
-## 
+
 ## licensed_content.goBack=Назад	#
 ## licensed_content.viewLicensedContent=Чтобы просмотреть лицензированный контент, откройте страницу https://minecraft.net/licensed-content/ в любом веб-браузере.	#
-## 
+
 ## livingroom.hint.tap_touchpad_for_immersive=Коснитесь сенсорной панели, чтобы переключить погружение	#
 ## livingroom.hint.tap_view_for_immersive=Нажмите F5, чтобы переключить погружение	#
 ## livingroom.hint.tap_view_for_immersive_gamepad=Нажмите вверх на крестовине, чтобы переключить погружение	#
 ## livingroom.hint.tap_view_for_immersive_oculustouch=Нажмите Y, чтобы переключить погружение	#
 ## livingroom.hint.tap_view_for_immersive_windowsmr=Нажмите правое меню, чтобы переключить погружение	#
-## 
+
 ## map.toolTip.displayMarkers=Показать маркеры	#
 ## map.toolTip.scaling=Масштаб на 1:%s	#
 ## map.toolTip.level=Уровень %s/%s	#
@@ -5307,19 +5307,19 @@ item.fireworksCharge.brown=Коричневый	#
 ## map.toolTip.locked=Заблокировано	#
 ## map.position.agent=Позиции Agent: %s, %s, %s	#
 ## map.position=Позиция: %s, %s, %s	#
-## 
+
 ## mcoServer.title=Мир Minecraft в Интернете	#
-## 
-## menu.achievements=Достижения	#
-## menu.convertingLevel=Развертывание мира	#
-## menu.copyright=© Mojang AB	#
-## menu.disconnect=Отключиться	#
+
+menu.achievements=Достиженія	#
+menu.convertingLevel=Преобразованіе міра	#
+menu.copyright=© Mojang AB	#
+menu.disconnect=Уйти	#
 ## menu.educatorResources=Ресурсы для педагогов	#
 ## menu.editions=Издания	#
 ## menu.beta=Бета!	#
-## menu.game=Меню игры	#
-## menu.generatingLevel=Идет создание мира	#
-## menu.generatingTerrain=Генерация ландшафта	#
+menu.game=Игровое меню	#
+menu.generatingLevel=Созиданіе міра	#
+menu.generatingTerrain=Построеніе мѣстности	#
 ## menu.howToPlay=Обучение	#
 ## menu.howToPlay.caps=ОБУЧЕНИЕ	#
 ## menu.host=Разместить	#
@@ -5327,33 +5327,33 @@ item.fireworksCharge.brown=Коричневый	#
 ## menu.howToPlay.access=Нажмите :_gamepad_face_button_down:, чтобы открыть обучение!	#
 ## menu.howToPlay.access.noicon=Нажмите [A], чтобы открыть обучение!	#
 ## menu.loadingLevel=Загрузка мира	#
-## menu.multiplayer=Игра по сети	#
-## menu.online=Minecraft Realms	#
-## menu.options=Настройки	#
-## menu.settings=Настройки	#
-## menu.settings.caps=НАСТРОЙКИ	#
+menu.multiplayer=Игра въ компаніи	#
+menu.online=Minecraft Realms	#
+menu.options=Настройки...	#
+menu.settings=Настройки	#
+menu.settings.caps=НАСТРОЙКИ	#
 ## menu.classroom_settings.caps=НАСТРОЙКИ КЛАССА	#
 ## menu.serverStore=Магазин %s	#
 ## menu.serverGenericName=Сервер	#
-## menu.play=Играть	#
-## menu.playdemo=Играть в демомире	#
-## menu.playOnRealms=Играть в Realm	#
+menu.play=Играть	#
+menu.playdemo=Играть въ демонстраціонномъ мірѣ	#
+menu.playOnRealms=Играть въ Realm	#
 ## menu.quickplay=Быстрая игра	#
-## menu.quit=Сохранить и выйти	#
-## menu.quit.edu=СОХРАНИТЬ И ВЫЙТИ	#
+menu.quit=Сохранить и выйти	#
+menu.quit.edu=СОХРАНИТЬ И ВЫЙТИ	#
 ## menu.quiz=Пройти тест	#
-## menu.resetdemo=Сбросить демомир	#
+menu.resetdemo=Пересоздать демонстраціонный міръ	#
 ## menu.resourcepacks=Наборы ресурсов	#
 ## menu.globalpacks=Глобальные ресурсы	#
 ## menu.storageManagement=Хранилище	#
 ## menu.behaviors=Наборы параметров	#
 ## menu.worldtemplates=Шаблоны мира	#
-## menu.respawning=Возрождение	#
-## menu.returnToGame=Продолжить игру	#
-## menu.returnToMenu=Сохранить и выйти в меню	#
-## menu.shareToLan=Открыть для локальной сети	#
+menu.respawning=Воскрешеніе	#
+menu.returnToGame=Вернуться къ игрѣ	#
+menu.returnToMenu=Сохранить и выйти	#
+menu.shareToLan=Отпереть гостямъ	#
 ## menu.simulating=Симуляция мира...	#
-## menu.singleplayer=Одиночная игра	#
+menu.singleplayer=Игра въ одиночку	#
 ## menu.store=Рынок	#
 ## menu.skins=Скины	#
 ## menu.start=Начать	#
@@ -5361,12 +5361,12 @@ item.fireworksCharge.brown=Коричневый	#
 ## menu.makingBackup=Создание резервной копии...	#
 ## menu.saving=Сохранение...	#
 ## menu.toolboxMode=Режим инструментария	#
-## 
+
 ## merchant.deprecated=Чтобы разблокировать, обменяйте что-то еще!	#
-## 
-## 
-## mount.onboard=Нажмите %1$s, чтобы спешиться	#
-## 
+
+
+mount.onboard=Нажмите %1$s, чтобы спѣшиться	#
+
 ## multiplayer.connect=Подключиться	#
 ## multiplayer.downloadingStats=Скачивание статистики и достижений...	#
 ## multiplayer.downloadingTerrain=Скачивание ландшафта	#
@@ -5377,26 +5377,26 @@ item.fireworksCharge.brown=Коричневый	#
 ## multiplayer.packErrors.realms=Не удалось загрузить минимум один из наборов ресурсов или наборов параметров. Попробуйте скачать этот мир из Realm, чтобы узнать сведения об ошибке.	#
 ## multiplayer.player.inventory.recovered=Инвентарь восстановлен и помещен в сундуки рядом с вами.	#
 ## multiplayer.player.inventory.failed=Инвентарь восстановлен. Найдите безопасное место, и при следующем входе в мир рядом с собой вы найдете сундук.	#
-## multiplayer.player.joined=Игрок %s присоединился к игре	#
-## multiplayer.player.joined.renamed=%s (ранее известный(ая) как %s) присоединился(лась) к игре	#
-## multiplayer.player.joined.realms=%s присоединился(лась) к игре	#
-## multiplayer.player.joined.realms.renamed=%s (ранее %s) присоединился(лась) к игре	#
-## multiplayer.player.left=%s покинул(а) игру	#
-## multiplayer.player.left.realms=%s покинул(а) игру	#
+multiplayer.player.joined=%s присоединился къ компаніи	#
+multiplayer.player.joined.renamed=%s (ранѣе извѣстный какъ %s) присоединился къ компаніи	#
+multiplayer.player.joined.realms=%s присоединился къ компаніи	#
+multiplayer.player.joined.realms.renamed=%s (ранѣе извѣстный какъ %s) присоединился къ компаніи	#
+multiplayer.player.left=%s покинулъ компанію	#
+multiplayer.player.left.realms=%s покинулъ компанію	#
 ## multiplayer.player.changeToPersona=Игрок %s изменил(а) внешний вид персонажа.	#
 ## multiplayer.player.changeToSkin=%s сменил(а) скин.	#
 ## multiplayer.stopSleeping=Встать с кровати	#
 ## multiplayer.playersSleeping=Спящие игроки: %s/%s	#
-## multiplayer.texturePrompt.line1=Этот сервер рекомендует применить пользовательский набор ресурсов.	#
+multiplayer.texturePrompt.line1=Сей салонъ требуетъ использованіе особаго набора вещей.	#
 ## multiplayer.texturePrompt.line2=Скачать и установить его автоматически?	#
-## multiplayer.title=Играть по сети	#
-## multiplayer.inBedOpenChat=Открыть чат	#
+multiplayer.title=Играть въ компаніи	#
+multiplayer.inBedOpenChat=Открыть бесѣду	#
 ## multiplayer.joincode.refreshed=Код присоединения к игре обновлен.	#
-## 
+
 ## notification.lock.noCraft=Этот предмет заблокирован, его нельзя использовать при создании	#
 ## notification.lock.noDrop=Этот предмет заблокирован, его нельзя выбросить	#
 ## notification.lock.noRemove=Этот элемент заблокирован, его нельзя удалить из инвентаря	#
-## 
+
 ## npcscreen.action.buttonmode=Режим кнопки	#
 ## npcscreen.action.onEnter=На входе	#
 ## npcscreen.action.onExit=На выходе	#
@@ -5424,27 +5424,27 @@ item.fireworksCharge.brown=Коричневый	#
 ## npcscreen.name=Имя	#
 ## npcscreen.npc=Неигровой персонаж	#
 ## npcscreen.requiresop=Требуется оператор	#
-## 
+
 ## npcUri.launch.success=Открыта ссылка на неигрового персонажа.	#
 ## npcUri.launch.failure=Невозможно открыть NPC Link. Это не похоже на поддерживаемый URL-адрес.	#
-## 
+
 ## offer.category.skinpack=Наборы скинов	#
 ## offer.category.resourcepack=Наборы текстур	#
 ## offer.category.mashup=Микс-наборы	#
 ## offer.category.worldtemplate=Миры	#
 ## offer.category.editorschoice=Выбор редакции	#
 ## offer.category.allByCreator=Всё от %s	#
-## 
+
 ## offer.navigationTab.skins=Скины	#
 ## offer.navigationTab.textures=Текстуры	#
 ## offer.navigationTab.worlds=Миры	#
 ## offer.navigationTab.mashups=Миксы	#
-## 
+
 ## options.adjustBrightness=Настраивайте яркость до тех пор, пока вы не будете видеть только два лица криперов.	#
 ## options.brightness.notVisible=Не видны	#
 ## options.brightness.barelyVisible=Едва видны	#
 ## options.brightness.easilyVisible=Хорошо видны	#
-## 
+
 ## options.adUseSingleSignOn=Включить единый вход	#
 ## options.advancedButton=Расширенные настройки видео...	#
 ## options.showAdvancedVideoSettings=Показать расширенные настройки видео	#
@@ -5999,7 +5999,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## options.terrainShadowsEnable=Тени рельефа	#
 ## options.superFancyWaterEnable=Очень классная вода	#
 ## options.onlyTrustedSkinsAllowed=Разрешить только проверенные скины	#
-## 
+
 ## options.autoUpdateEnabled=Автообновление разблокированных наборов	#
 ## options.autoUpdateMode=Автообновление разблокированных наборов	#
 ## options.autoUpdateMode.off=Выключено	#
@@ -6070,7 +6070,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## options.unlink_msa.success.body=Связь ваших учетных записей удалена.	#
 ## options.unlink_msa.failure.title=Что-то пошло не так	#
 ## options.unlink_msa.failure.body=Не удалось удалить связь ваших учетных записей. Попробуйте проверить подключение к Интернету.	#
-## 
+
 ## patchNotes.loading=Загрузка заметок об исправлении	#
 ## patchNotes.continue=Продолжить	#
 ## patchNotes.unlock=Разблокировать	#
@@ -6078,51 +6078,51 @@ item.fireworksCharge.brown=Коричневый	#
 ## patchNotes.error.noInternet.msg=Ой! Что-то пошло не так. Может, стоит проверить подключение к Интернету?	#
 ## patchNotes.error.notFound.title=Описание обновления %1	#
 ## patchNotes.error.notFound.msg=В этом обновлении мы исправили ряд ошибок. Когда появятся новости, мы непременно вас оповестим.	#
-## 
+
 ## sunsetting.popup.title=Это устройство больше не поддерживается.	#
 ## sunsetting.popup.moreInfo=Подробнее	#
 ## sunsetting.popup.dontshow=Больше не показывать это сообщение	#
-## 
+
 ## sunsetting.popup.moreInfo.gearVR=Для получения дополнительной информации откройте ссылку https://aka.ms/MinecraftSunsetting в любом веб-браузере.	#
-## 
+
 ## sunsetting.popup.pendingSunset.ios_android=Мы почти исчерпали наши возможности по поддержке этого устройства. Вы будете по-прежнему получать обновления до июня 2021 года, когда будет выпущено последнее обновление для этого устройства. Приносим наши извинения за неудобство. %sПосле получения последнего обновления вы по-прежнему сможете играть в своих мирах и сохраните доступ к своим покупкам, сделанным на Рынке (включая монеты Minecoins). Realm, которыми вы управляете с этого устройства, будут продолжать работать, пока владелец Realm не обновит их с другого устройства. Вы больше не будете получать обновления и не сможете участвовать в многопользовательских играх, если в них участвуют пользователи получающих обновления устройств или используются обновляемые Realm. Вы также не сможете подключаться к некоторым серверам. %sНажмите кнопку для получения дополнительных сведений, в частности, информации о том, как можно перенести ваши миры на новое устройство.	#
 ## sunsetting.popup.sunset.ios_android=Это устройство больше не поддерживается. Вы получили последнее обновление для этого устройства. Вы можете продолжать строить в ваших мирах и сохраните доступ к своим покупкам, сделанным на Рынке (включая монеты Minecoins). Ваши Realm будут работать и далее, пока владелец этих Realm не обновит их с другого устройства. Вы больше не будете получать обновления и не сможете участвовать в многопользовательских играх, если в них участвуют пользователи обновляемых устройств или используются обновляемые Realm. Вы также не сможете подключаться к некоторым серверам. %sНажмите кнопку для получения дополнительных сведений, в частности, информации о том, как можно перенести ваши миры на новое устройство. Мы понимаем, что это связано с определенными неудобствами, и очень ценим время, которое вы провели в нашей игре. Надеемся, что вы сможете снова присоединиться к нам с помощью поддерживаемого устройства. 	#
 ## sunsetting.popup.pendingSunset.gearvr_win10=Мы почти исчерпали наши возможности по поддержке этого устройства. Вы будете получать обновления вплоть до выхода следующей основной версии игры, когда будет выпущено последнее обновление для этого устройства. Приносим наши извинения за неудобство. %sПосле получения последнего обновления вы по-прежнему сможете играть в своих мирах и сохраните доступ к своим покупкам, сделанным на Рынке (включая монеты Minecoins). Однако вы больше не сможете участвовать с этого устройства в многопользовательских играх и потеряете доступ к Realm. Вы больше не будете получать обновления и не сможете играть ни с пользователями получающих обновления устройств, ни в обновляемых Realm. Вы также не сможете подключаться к некоторым серверам. %sНажмите кнопку для получения дополнительных сведений, в частности, информации о том, как можно перенести ваши миры на новое устройство.	#
 ## sunsetting.popup.sunset.gearvr_win10=Это устройство больше не поддерживается. Вы получили последнее обновление для этого устройства. Вы можете продолжать строить в ваших мирах и сохраните доступ к своим покупкам, сделанным на Рынке (включая монеты Minecoins). Однако вы больше не сможете участвовать с этого устройства в многопользовательских играх и получать доступ к Realms. Вы больше не будете получать обновления и не сможете играть с пользователями получающих обновления устройств. Вы также не сможете подключаться к некоторым серверам.	#
 ## sunsetting.popup.pendingSunset.dx10=Мы почти исчерпали наши возможности по поддержке этого графического устройства. Вы будете получать обновления вплоть до выхода следующей основной версии игры, когда будет выпущено последнее обновление для этого устройства. Приносим наши извинения за неудобство. %sПосле получения последнего обновления вы по-прежнему сможете играть в своих мирах и сохраните доступ к своим покупкам, сделанным на Рынке (включая монеты Minecoins). Realm, которыми вы управляете с этого устройства, будут продолжать работать, пока владелец Realm не обновит их с другого устройства. Вы больше не будете получать обновления и не сможете участвовать в многопользовательских играх, если в них участвуют пользователи получающих обновления устройств или используются обновляемые Realm. Вы также не сможете подключаться к некоторым серверам. %sНажмите кнопку для получения дополнительных сведений, в частности, информации о том, как можно перенести ваши миры на новое устройство.	#
 ## sunsetting.popup.sunset.dx10=Это графическое устройство больше не поддерживается. Вы получили последнее обновление для этого устройства. Вы можете продолжать строить в ваших мирах и сохраните доступ к своим покупкам, сделанным на Рынке (включая монеты Minecoins). Realms, которыми вы управляете с этого устройства, будут продолжать работать, пока владелец Realm не обновит их с другого устройства. Вы больше не будете получать обновления и не сможете участвовать в многопользовательских играх, если в них участвуют пользователи получающих обновления устройств или используются обновляемые Realms. Вы также не сможете подключаться к некоторым серверам. %sНажмите кнопку для получения дополнительных сведений, в частности, информации о том, как можно перенести ваши миры на новое устройство. Мы понимаем, что это связано с определенными неудобствами и очень ценим время, которое вы провели в нашей игре, и вашу поддержку.	#
-## 
+
 ## sunsetting.banner.play.worldTab.pending=Ваша версия может вскоре потерять возможность подключения к многопользовательским играм	#
 ## sunsetting.banner.play.friendsTab.pending=Ваша версия может вскоре потерять возможность подключения к многопользовательским играм	#
 ## sunsetting.banner.play.serverTab.pending=Ваша версия может вскоре потерять возможность подключения к многопользовательским играм	#
-## 
+
 ## sunsetting.banner.play.worldTab=Ваша версия не имеет возможности подключения к многопользовательским играм	#
 ## sunsetting.banner.play.friendsTab=Ваша версия не имеет возможности подключения к многопользовательским играм	#
 ## sunsetting.banner.play.serverTab=Ваша версия не имеет возможности подключения к многопользовательским играм	#
-## 
+
 ## sunsetting.store.incompatible=Несовместимо	#
 ## sunsetting.store.incompatiblePopup=Это содержимое несовместимо с вашим устройством. Посетите сайт https://aka.ms/MinecraftSunsetting	#
-## 
-## pauseScreen.back=Вернуться к игре	#
-## pauseScreen.currentWorld=Текущий мир	#
-## pauseScreen.header=Меню игры	#
-## pauseScreen.options=Параметры	#
-## pauseScreen.quit=Сохранить и выйти	#
-## pauseScreen.secondaryClientLeave=Сохранить и выйти	#
+
+pauseScreen.back=Вернуться къ игрѣ	#
+pauseScreen.currentWorld=Текущий мир	#
+pauseScreen.header=Игровое меню	#
+pauseScreen.options=Настройки	#
+pauseScreen.quit=Сохранить и выйти	#
+pauseScreen.secondaryClientLeave=Сохранить и выйти	#
 ## pauseScreen.feed=Веб-канал	#
 ## pauseScreen.invite=Пригласить в игру	#
-## pauseScreen.ipAddress=IP: %1	#
+pauseScreen.ipAddress=IP: %1	#
 ## pauseScreen.error.noIpAddress=IP-адрес не найден	#
 ## pauseScreen.error.noPort=Порт не найден	#
-## pauseScreen.title=Игра на паузе	#
+pauseScreen.title=Игра пріостановлена	#
 ## pauseScreen.betaFeedback=Обратная связь по бета-версии	#
 ## pauseScreen.xboxLiveDisconnect=Ой! Ваша учетная запись Майкрософт отключена. Чтобы пригласить больше игроков, выполните вход в главном меню и перезапустите мир.	#
 ## pauseScreen.joinCode.Label=КОД ПРИСОЕДИНЕНИЯ	#
 ## pauseScreen.joinCode.Icon=%3 значок кода присоединения, %1 из %2	# Example: Apple join code icon, 2 of 5	#
-## 
+
 ## permissionsScreen.kick=Выбросить игрока	#
 ## permissionsScreen.ban=Заблокировать игрока	#
-## 
+
 ## feedbackScreen.button=Обратная связь	#
 ## feedbackScreen.title=Хотите оставить отзыв?	#
 ## feedbackScreen.suggestion=Внести предложение!	#
@@ -6130,28 +6130,28 @@ item.fireworksCharge.brown=Коричневый	#
 ## feedbackScreen.help=Нужна помощь?	#
 ## feedbackScreen.body=Есть идея, как улучшить Minecraft? Нашли ошибку, которую нужно исправить? Нуждаетесь в помощи с решением проблемы? Напишите нам!	#
 ## feedbackScreen.consoleMessage=Посетите этот веб-сайт на другом устройстве. %s	#
-## 
+
 ## feedbackScreen.suggestion.url.tts=h t t p s двоеточие косая черта косая черта a k a точка m s косая черта minecraft f b				### Text To Speech helper for a URL: https://aka.ms/minecraftfb - URL must remain the same for all LOCs!
 ## feedbackScreen.bugs.url.tts=h t t p s двоеточие косая черта косая черта a k a точка m s косая черта m c bugs						### Text To Speech helper for a URL: https://aka.ms/mcbugs - URL must remain the same for all LOCs!
 ## feedbackScreen.help.url.tts=h t t p s двоеточие косая черта косая черта a k a точка m s косая черта help M C						### Text To Speech helper for a URL: https://aka.ms/helpMC - URL must remain the same for all LOCs!
 ## feedbackScreen.helpxbox.url.tts=h t t p s двоеточие косая черта косая черта a k a точка m s косая черта help xbox					### Text To Speech helper for a URL: https://aka.ms/helpxbox - URL must remain the same for all LOCs!
-## 
-## hudScreen.tooltip.basic.back=Назад	#
-## hudScreen.tooltip.basic.chat=Чат	#
+
+hudScreen.tooltip.basic.back=Назадъ	#
+hudScreen.tooltip.basic.chat=Бесѣда	#
 ## hudScreen.tooltip.basic.flyDown=Лететь вниз	#
 ## hudScreen.tooltip.basic.flyUp=Лететь вверх	#
-## hudScreen.tooltip.basic.forward=Вперед	#
-## hudScreen.tooltip.basic.jump=Прыжок	#
-## hudScreen.tooltip.basic.left=Влево	#
-## hudScreen.tooltip.basic.right=Вправо	#
-## hudScreen.tooltip.basic.sneak=Красться	#
+hudScreen.tooltip.basic.forward=Вперёдъ	#
+hudScreen.tooltip.basic.jump=Прыжокъ	#
+hudScreen.tooltip.basic.left=Влѣво	#
+hudScreen.tooltip.basic.right=Вправо	#
+hudScreen.tooltip.basic.sneak=Красться	#
 ## hudScreen.tooltip.basic.startFlying=Начать полет	#
 ## hudScreen.tooltip.basic.stopFlying=Остановить полет	#
 ## hudScreen.tooltip.basic.swimDown=Плыть вниз	#
 ## hudScreen.tooltip.basic.swimUp=Плыть вверх	#
-## 
-## hudScreen.tooltip.crafting=Создание	#
-## hudScreen.tooltip.inventory=Инвентарь	#
+
+hudScreen.tooltip.crafting=Созданіе	#
+hudScreen.tooltip.inventory=Инвентарь	#
 ## hudScreen.tooltip.dropItem=Выложить	#
 ## hudScreen.tooltip.eject=Извлечь	#
 ## hudScreen.tooltip.potion=Пить	#
@@ -6161,7 +6161,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## hudScreen.tooltip.throw=Бросить	#
 ## hudScreen.tooltip.open=Открыть	#
 ## hudScreen.tooltip.use=Использовать	#
-## hudScreen.tooltip.sleep=Спать	#
+hudScreen.tooltip.sleep=Почивать	#
 ## hudScreen.tooltip.empty=Опустошить	#
 ## hudScreen.tooltip.hang=Повесить	#
 ## hudScreen.tooltip.ignite=Зажечь	#
@@ -6186,19 +6186,19 @@ item.fireworksCharge.brown=Коричневый	#
 ## hudScreen.tooltip.carve=Вырезать	#
 ## hudScreen.tooltip.grow=Растить	#
 ## hudScreen.tooltip.boatExit=Выйти из лодки	#
-## 
-## playscreen.fileSize.MB=МБ	#
-## playscreen.fileSize.GB=ГБ	#
+
+playscreen.fileSize.MB=Мбайтъ	#
+playscreen.fileSize.GB=Гбайтъ	#
 ## playscreen.joinableRealms=Realms, к которым можно присоединиться	#
 ## playscreen.noFriendsRealms=Вы пока не стали участником никаких Realms.	#
-## playscreen.header.local=Играть	#
-## playscreen.header.realms=Realms	#
+playscreen.header.local=Играть	#
+playscreen.header.realms=Realms	#
 ## playscreen.lastPlayed.daysAgo=%1 дн. назад	#
 ## playscreen.lastPlayed.longAgo=Давно	#
 ## playscreen.lastPlayed.today=Сегодня	#
 ## playscreen.lastPlayed.weeksAgo=%1 нед. назад	#
 ## playscreen.lastPlayed.yesterday=Вчера	#
-## playscreen.new=Новый мир	#
+playscreen.new=Новый міръ	#
 ## playscreen.remoteWorld=Удаленный мир:	#
 ## playscreen.realmsTrialWorld=Попробуйте Realms Plus бесплатно на 30 дней	#
 ## playscreen.realmsCreateFirstWorld=Создайте первый реалм	#
@@ -6212,7 +6212,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## playscreen.realmExpired=Срок действия истек	#
 ## playscreen.realmFull=Заполнено	#
 ## playscreen.realmClientOutdated=Все Realms обновились. Обновите игру, чтобы продолжить играть в Realms.	#
-## playscreen.realms=Realms	#
+playscreen.realms=Realms	#
 ## playscreen.realmsWarning.moreinfo=Подробнее...	#
 ## playscreen.realmsCompatibilityFailure=Не удается подключиться к Realms. Мы повторим попытку в ближайшее время.	#
 ## playscreen.realmsSignIn=Войдите, чтобы начать игру в Realms уже сегодня!	#
@@ -6228,13 +6228,13 @@ item.fireworksCharge.brown=Коричневый	#
 ## playscreen.lockedSkin=Вы выбрали скин из набора контента, не разрешенного в кроссплатформенных играх по сети. Если вы продолжите, кроссплатформенная игра по сети будет отключена для этого мира.	#
 ## playscreen.multiplayerLockedSkin=Вы выбрали скин из набора контента, не разрешенного в играх по сети. Если вы продолжите, игра по сети будет отключена для этого мира.	#
 ## playscreen.worldsStorage=Хранилище	#
-## playscreen.delete.legacy.content=Точно удалить выбранный старый мир? Этот мир будет потерян навсегда! (Порядочный срок!)	#
-## playscreen.delete.legacy.title=Удалить %s навсегда?	#
-## playscreen.delete.legacy.confirm=Удалить	#
+playscreen.delete.legacy.content=Вы дѣйствительно изволите удалить сей міръ? «%s» будетъ удалёнъ навсегда! (Безвозвратно!)	#
+playscreen.delete.legacy.title=Удалить %s навсегда?	#
+playscreen.delete.legacy.confirm=Удалить	#
 ## playscreen.delete.legacy.deleting=Удаление мира…	#
 ## playscreen.beta_worlds=Бета-миры	#
 ## playscreen.beta_legacy_worlds=Старые бета-миры	#
-## 
+
 ## permissions.ability.build=Строить	#
 ## permissions.ability.mine=Добывать	#
 ## permissions.ability.doorsandswitches=Использовать двери и переключатели	#
@@ -6287,7 +6287,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## permissions.banplayer.reason=Организатор заблокировал вам доступ к сеансу.	#
 ## permissions.banplayer.message=Действительно заблокировать игрока %s в мире? Он(а) не сможет присоединиться снова.	#
 ## permissions.banplayer.title=Заблокировать игрока?	#
-## 
+
 ## ## edu permissions popup
 ## permissions.button.kickplayer=Удалить участника из игры	#
 ## permissions.popup.title=Параметры разрешений	#
@@ -6299,30 +6299,30 @@ item.fireworksCharge.brown=Коричневый	#
 ## permissions.removeplayer.reason=Владелец хоста удалил вас из игры.	#
 ## permissions.removeplayer.message=Вы действительно хотите удалить этого игрока из своего мира? После удаления будет создан новый код присоединения, чтобы бывшие участники не могли вступить в игру снова.	#
 ## permissions.removeplayer.title=Подтверждение удаления игрока	#
-## 
+
 ## portfolioScreen.page=Стр. %s	#
 ## portfolioScreen.export=Экспортировать портфолио	#
 ## portfolioScreen.caption=[ надпись ]	#
 ## portfolioScreen.nopics0=В настоящее время в вашем портфолио нет фотографий. Фотографии, сделанные камерой, можно будет увидеть здесь. Вы также можете добавить фотографии, нажав на расположенную ниже кнопку.	#
 ## portfolioScreen.nopics1=Здесь показываются фото, которые вы делаете с помощью камеры.	#
 ## portfolioScreen.addPhoto=Добавить фото	#
-## 
-## potion.absorption=Поглощение	#
-## potion.blindness=Слепота	#
-## potion.conduitPower=Сила проводника	#
-## potion.confusion=Тошнота	#
-## potion.damageBoost=Сила	#
-## potion.damageBoost.name=Зелье силы	#
-## potion.damageBoost.splash.name=Взрывное зелье силы	#
-## potion.damageBoost.linger.name=Оседающее зелье силы	#
-## potion.digSlowDown=Шахтерская усталость	#
+
+potion.absorption=Поглощеніе	#
+potion.blindness=Слѣпота	#
+potion.conduitPower=Сила источника	#
+potion.confusion=Тошнота	#
+potion.damageBoost=Сила	#
+potion.damageBoost.name=Снадобье силы	#
+potion.damageBoost.splash.name=Взрывное снадобье силы	#
+potion.damageBoost.linger.name=Туманное снадобье силы	#
+potion.digSlowDown=Утомленіе	#
 ## potion.digSpeed=Проворство	#
 ## potion.effects.whenDrank=После применения:	#
-## potion.empty=Без эффектов	#
+potion.empty=Безъ эффектовъ	#
 ## potion.emptyPotion.name=Пузырек воды	#
 ## potion.emptyPotion.splash.name=Взрывной пузырек воды	#
 ## potion.emptyPotion.linger.name=Оседающий пузырек воды	#
-## potion.fireResistance=Огнестойкость	#
+potion.fireResistance=Огнестойкость	#
 ## potion.fireResistance.name=Зелье огнестойкости	#
 ## potion.fireResistance.splash.name=Взрывное зелье огнестойкости	#
 ## potion.fireResistance.linger.name=Оседающее зелье огнестойкости	#
@@ -6365,12 +6365,12 @@ item.fireworksCharge.brown=Коричневый	#
 ## potion.poison.name=Зелье отравления	#
 ## potion.poison.splash.name=Взрывное зелье отравления	#
 ## potion.poison.linger.name=Оседающее зелье отравления	#
-## potion.potency.0=	#
-## potion.potency.1=II	#
-## potion.potency.2=III	#
-## potion.potency.3=IV	#
-## potion.potency.4=V	#
-## potion.potency.5=VI	#
+potion.potency.0=	#
+potion.potency.1=II	#
+potion.potency.2=III	#
+potion.potency.3=IV	#
+potion.potency.4=V	#
+potion.potency.5=VI	#
 ## potion.awkward.name=Неловкое зелье	#
 ## potion.awkward.splash.name=Взрывное неловкое зелье	#
 ## potion.awkward.linger.name=Оседающее неловкое зелье	#
@@ -6406,14 +6406,14 @@ item.fireworksCharge.brown=Коричневый	#
 ## potion.wither.name=Зелье разложения	#
 ## potion.wither.splash.name=Взрывное зелье разложения	#
 ## potion.wither.linger.name=Оседающее зелье разложения	#
-## 
+
 ## profileScreen.header=Гардеробная	#
 ## profileScreen.reload=Перезагрузить	#
 ## profileScreen.manage_button_text=Редактировать персонажа	#
 ## profileScreen.manage_button_create_text=Создать персонажа	#
 ## profileScreen.delete_button=Удалить символ	#
 ## profileScreen.settings_button=Настройки игры	#
-## 
+
 ## progressScreen.cantConnect=Не удается подключиться к миру. Проверьте интернет-соединение и попробуйте еще раз.	#
 ## progressScreen.generating=Идет создание мира	#
 ## progressScreen.saving=Сохранение мира	#
@@ -6492,21 +6492,21 @@ item.fireworksCharge.brown=Коричневый	#
 ## progressScreen.dialog.button.leave=Выйти	#
 ## progressScreen.dialog.button.retry=Повторить	#
 ## progressScreen.dialog.button.wait=Ждать	#
-## 
+
 ## quiz.popup.ok=Пройти тест	#
 ## quiz.popup.text=Тест откроется в другом окне. Вы сможете вернуться в Minecraft, когда пройдете его.	#
 ## quiz.popup.title=Тест	#
-## 
-## raid.name=Налет	#
-## raid.progress=Осталось мобов:	#
-## raid.expiry=Срок действия налета завершился	#
-## 
+
+raid.name=Набѣгъ	#
+raid.progress=Осталось нападающихъ:	#
+raid.expiry=Срок действия набѣга завершился	#
+
 ## recipeBook.setting.full=Заполнено	#
 ## recipeBook.setting.discover=Исследовать	#
 ## recipeBook.setting.off=Выкл.	#
-## 
-## record.nowPlaying=Сейчас играет: %s	#
-## 
+
+record.nowPlaying=Сейчасъ играетъ: %s	#
+
 ## resourcePack.available.title=Доступные наборы ресурсов	#
 ## resourcePack.available.title.behaviorPacks=Доступные наборы параметров	#
 ## resourcePack.available.title.packs=Мои наборы	#
@@ -6577,7 +6577,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## resourcePack.packSettingsTitle=Настройки %s	#
 ## resourcePack.missingPackDescription=Пакет отсутствует!	#
 ## resourcePack.legacyPackName=Набор ресурсов прежних версий	#
-## 
+
 ## sidebar.action=Остросюжетные	#
 ## sidebar.adventure=Приключения	#
 ## sidebar.capes=Плащи	#
@@ -6616,7 +6616,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## sidebar.tts.verboseToggleExpand=Развернуть боковую панель	#
 ## sidebar.tts.verboseToggleCollapse=Свернуть боковую панель	#
 ## sidebar.worlds=Миры	#
-## 
+
 ## storageManager.contentType.world=Мир	#
 ## storageManager.contentType.worldTemplate=Шаблон мира	#
 ## storageManager.contentType.resourcePack=Ресурс	#
@@ -6624,15 +6624,15 @@ item.fireworksCharge.brown=Коричневый	#
 ## storageManager.contentType.skinPack=Набор скинов	#
 ## storageManager.contentType.invalid=Недействительно	#
 ## storageManager.contentType.cachedData=Кэшированные данные	#
-## 
+
 ## storageManager.contentType.worlds=Миры	#
 ## storageManager.contentType.worldTemplates=Шаблоны миров	#
 ## storageManager.contentType.resourcePacks=Наборы ресурсов	#
 ## storageManager.contentType.behaviorPacks=Наборы параметров	#
 ## storageManager.contentType.skinPacks=Наборы скинов	#
-## 
+
 ## storageManager.baseWorld=Базовый мир	#
-## 
+
 ## storageManager.mainSizeLabel=%s (1 элемент)	#
 ## storageManager.mainSizeLabelPlural=%s (элементов: %s)	#
 ## storageManager.delete.title=Удалить %s навсегда?	#
@@ -6669,18 +6669,18 @@ item.fireworksCharge.brown=Коричневый	#
 ## storageManager.multiselectShare=Поделиться	#
 ## storageManager.multiselect=Множественный выбор	#
 ## storageManager.miscellaneous=Разное	#
-## 
+
 ## storageManager.groupType=Тип	#
 ## storageManager.groupPack=Дополнение	#
-## 
+
 ## storageManager.shareTitle=Экспорт ресурсов	#
 ## storageManager.mcpack=Набор Minecraft	#
 ## storageManager.mcaddon=Дополнение Minecraft	#
 ## storageManager.mcworld=Мир Minecraft	#
-## 
+
 ## raycasting.purchase.error=Вы не сможете загрузить этот набор, поскольку ваше устройство не соответствует требованиям к системе, которые должны соблюдаться для его использования. Минимальные требования к системе: %s+ Графический процессор с поддержкой аппаратной трассировки лучей, например NVIDIA GeForce RTX 2060 или более старшая модель. Подробные сведения см. в разделе ответов на часто задаваемые вопросы на сайте minecraft.net. %s+ Оперативная память не менее 8 ГБ. %s+ Процессор Intel Core i5 или аналогичный.	###the %s will be turned into linebreaks. Don't reorder.
 ## raycasting.purchase.error.title=Предупреждение о системных требованиях	#
-## 
+
 ## resourcepack.City=Набор текстур «Город»	#
 ## resourcepack.Plastic=Набор текстур «Пластик»	#
 ## resourcepack.Natural=Набор текстур «Натуральный»	#
@@ -6689,56 +6689,56 @@ item.fireworksCharge.brown=Коричневый	#
 ## resourcepack.Candy=Набор текстур «Конфеты»	#
 ## resourcepack.FestiveMashup2016=Микс «Новый год 2016»	#
 ## resourcepack.ChineseMythology=Микс «Китайская мифология»	#
-## 
+
 ## resourcePack.vanilla.name=Набор текстур Minecraft	#
 ## resourcePack.vanilla.description=Стандартный набор графики Minecraft с обновленными стильными текстурами!	#
-## 
+
 ## resourcePack.city.name=Город	#
 ## resourcePack.city.description=Идеальный выбор для строительства сооружений.	#
-## 
+
 ## resourcePack.plastic.name=Пластик	#
 ## resourcePack.plastic.description=Яркие живые цвета и простота использования.	#
-## 
+
 ## resourcePack.natural.name=Натуральный	#
 ## resourcePack.natural.description=Предназначение этого набора текстур — придать естественность вашим игровым мирам.	#
-## 
+
 ## resourcePack.fantasy.name=Фэнтези	#
 ## resourcePack.fantasy.description=Перенеситесь во времена доблестных рыцарей и их героических подвигов.	#
-## 
+
 ## resourcePack.cartoon.name=Мультфильм	#
 ## resourcePack.cartoon.description=Глаза как у игрушек! Дурацкие ухмылки! С этим набором вы превратите весь мир в мультик.	#
-## 
+
 ## resourcePack.candy.name=Конфеты	#
 ## resourcePack.candy.description=Украсьте свои миры и превратите каждую текстуру в сладость.	#
-## 
+
 ## resourcePack.festivemashup2016.name=Микс «Новый год 2016»	#
 ## resourcePack.festivemashup2016.description=С этим снежным сезонным набором вы создадите зимнюю страну чудес.	#
-## 
+
 ## resourcePack.chinesemythology.name=Микс «Китайская мифология»	#
 ## resourcePack.chinesemythology.description=Текстуры, созданные по мотивам мифов и преданий Китая.	#
-## 
+
 ## resourcepack.Fallout=Микс Fallout	#
 ## resourcePack.Fallout.name=Микс Fallout	#
 ## resourcePack.Fallout.description=Добро пожаловать на Пустошь!	#
-## 
+
 ## resourcepack.MagicTheGathering.name=Magic: The Gathering	#
-## 
+
 ## resourcePack.GreekMythology=Микс «Греческая мифология»	#
 ## resourcePack.GreekMythology.name=Микс «Греческая мифология»	#
 ## resourcePack.GreekMythology.description=Мифическая Греция в ваших руках. 	#
-## 
+
 ## resourcePack.Skyrim.name=Микс Skyrim	#
 ## resourcePack.Skyrim.description=Создавайте свои собственные миры в землях Skyrim.	#
-## 
+
 ## resourcePack.MashupAdventureTime.name=Время приключений	#
 ## resourcePack.MashupAdventureTime.description=	#
-## 
+
 ## resourcePack.skin.name=Скины	#
 ## resourcePack.skin.description=Скин, скин, скин!!!	#
-## 
+
 ## resourcePack.invalid.description=Анализ набора не выполнен. Щелкните для отображения ошибок.	#
 ## resourcePack.loading.description=Продолжается загрузка набора.	#
-## 
+
 ## review.item.post.rating.dropdown.label=Выберите оценку в звездах	#
 ## review.item.post.rating.footer=Вы сможете изменить свою оценку.	#
 ## review.item.post.rating.submit.button=Оценить этот набор	#
@@ -6749,41 +6749,41 @@ item.fireworksCharge.brown=Коричневый	#
 ## review.item.post.rating.5star=Мы рады, что вы получаете удовольствие от игры!	#
 ## review.item.post.rating.submit.toast.line1=Спасибо, что оценили этот набор!	#
 ## review.item.post.rating.submit.toast.line2=Прежде чем отобразится ваша оценка, может пройти некоторое время.	#
-## 
+
 ## roaming.status_brief.limited_usage=Ограниченное использование	#
 ## roaming.status_brief.no_restrictions=Используется на всех платформах	#
 ## roaming.status_hover.limited_usage=Доступно только на определенных платформах.	#
 ## roaming.status_hover.no_restrictions=Доступно только на платформе Bedrock!	#
-## 
-## screenshot.failure=Не удалось сохранить снимок экрана: %s	#
-## screenshot.success=Снимок экрана сохранен как %s	#
+
+screenshot.failure=Не удаётся уберечь фотокарточку экрана: %s	#
+screenshot.success=Фотокарточка экрана сохранена какъ %s	#
 ## screenshot.title=Снимок сделан!	#
 ## screenshot.caption=Добавить подпись и поделиться?	#
 ## screenshot.post=Поделиться	#
-## 
-## seedPicker.search=Поиск	#
+
+seedPicker.search=Поискъ	#
 ## seedPicker.title=Выбор ключа генерации	#
-## 
-## selectServer.add=Добавить сервер	#
-## selectServer.defaultName=Сервер Minecraft	#
-## selectServer.delete=Удалить	#
-## selectServer.deleteButton=Удалить	#
-## selectServer.deleteQuestion=Вы действительно хотите удалить этот сервер?	#
-## selectServer.deleteWarning=будет удален навсегда! (Совсем навсегда!)	#
-## selectServer.direct=Прямое соединение	#
-## selectServer.edit=Изменить	#
+
+selectServer.add=Добавить	#
+selectServer.defaultName=Салонъ Minecraft	#
+selectServer.delete=Удалить	#
+selectServer.deleteButton=Удалить	#
+selectServer.deleteQuestion=Вы дѣйствительно изволите уйти изъ сего салона?	#
+selectServer.deleteWarning=«%s» будетъ удалёнъ на вѣки вѣчные! (Порядочный срокъ!)	#
+selectServer.direct=По адресу	#
+selectServer.edit=Измѣнить	#
 ## selectServer.empty=пусто	#
-## selectServer.hiddenAddress=(Скрыт)	#
-## selectServer.refresh=Обновить	#
-## selectServer.select=Подключиться к серверу	#
-## selectServer.title=Выбор сервера	#
-## 
-## selectWorld.allowCommands=Разрешить читы:	#
-## selectWorld.allowCommands.info=Такие команды, как /gamemode, /xp	#
-## selectWorld.bonusItems=Бонусный сундук:	#
+selectServer.hiddenAddress=(Сокрытъ)	#
+selectServer.refresh=Обновить	#
+selectServer.select=Войти въ салонъ	#
+selectServer.title=Выбор салона	#
+
+selectWorld.allowCommands=Разрѣшить хитрости	#
+selectWorld.allowCommands.info=Приказы по типу /gamemode, /experіence	#
+selectWorld.bonusItems=Наслѣдство	#
 ## selectWorld.trustPlayers=Доверять игрокам:	#
-## selectWorld.cheats=Включить читы	#
-## selectWorld.conversion=Требуется преобразование	#
+selectWorld.cheats=Хитрости	#
+selectWorld.conversion=Напрашивается преобразованіе!	#
 ## selectWorld.convertInProgress.title=Преобразование мира	#
 ## selectWorld.convertInProgress.msg=Преобразование мира... %d%%	#
 ## selectWorld.convertInProgress.tts.msg=Преобразование мира	#
@@ -6792,46 +6792,46 @@ item.fireworksCharge.brown=Коричневый	#
 ## selectWorld.uploadInProgress.title=Отправка старого мира	#
 ## selectWorld.uploadInProgress.msg=Отправка старого мира в Minecraft... %d%%	#
 ## selectWorld.convertFailed.msg=Ой, что-то пошло не так.	#
-## selectWorld.create=Создать новый мир	#
-## selectWorld.createNew=Создать новый	#
+selectWorld.create=Создать новый міръ	#
+selectWorld.createNew=Создать новый	#
 ## selectWorld.createTemplate=Создать из шаблона	#
-## selectWorld.createDemo=Играть в новом демомире	#
-## selectWorld.customizeType=Настроить	#
-## selectWorld.delete=Удалить	#
-## selectWorld.deleteButton=Удалить	#
-## selectWorld.deleteQuestion=Вы действительно хотите удалить этот мир?	#
-## selectWorld.deleteWarning=будет удален навсегда! (Совсем навсегда!)	#
+selectWorld.createDemo=Демонстраціонная игра	#
+selectWorld.customizeType=Настроить	#
+selectWorld.delete=Удалить	#
+selectWorld.deleteButton=Удалить	#
+selectWorld.deleteQuestion=Вы дѣйствительно изволите удалить сей міръ?	#
+selectWorld.deleteWarning=«%s» будетъ удалёнъ навсегда! (Безвозвратно!)	#
 ## selectWorld.empty=пусто	#
-## selectWorld.enterName=Название мира	#
-## selectWorld.enterSeed=Ключ генерации мира	#
-## selectWorld.gameMode=Режим игры	#
-## selectWorld.gameMode.adventure=Приключение	#
-## selectWorld.gameMode.adventure.line1=Подобен режиму выживания, но блоки нельзя	#
-## selectWorld.gameMode.adventure.line2=ни добавлять, ни удалять.	#
-## selectWorld.gameMode.creative=Творческий	#
-## selectWorld.gameMode.creative.line1=Неограниченные ресурсы, свободный полет и	#
-## selectWorld.gameMode.creative.line2=мгновенное уничтожение блоков.	#
-## selectWorld.gameMode.hardcore=Хардкор	#
-## selectWorld.gameMode.hardcore.line1=Подобен режиму выживания, но с наивысшей	#
-## selectWorld.gameMode.hardcore.line2=сложностью и только одной жизнью.	#
-## selectWorld.gameMode.spectator=Зритель	#
-## selectWorld.gameMode.spectator.line1=Можно смотреть, но не трогать.	#
-## selectWorld.gameMode.spectator.line2=	#
-## selectWorld.gameMode.survival=Выживание	#
-## selectWorld.gameMode.survival.line1=Ищите ресурсы, мастерите, повышайте уровень,	#
-## selectWorld.gameMode.survival.line2=следите за здоровьем и голодом.	#
-## selectWorld.hardcoreMode=Хардкор:	#
+selectWorld.enterName=Названіе міра	#
+selectWorld.enterSeed=Ключъ для созидателя міра	#
+selectWorld.gameMode=Режимъ игры	#
+selectWorld.gameMode.adventure=Приключеніе	#
+selectWorld.gameMode.adventure.line1=Подобенъ режиму выживанія, однако блоки нельзя	#
+selectWorld.gameMode.adventure.line2=ни ломать, ни строить	#
+selectWorld.gameMode.creative=Творческій	#
+selectWorld.gameMode.creative.line1=Безконечные ресурсы, свобода полёта и	#
+selectWorld.gameMode.creative.line2=мгновенное разрушеніе блоковъ	#
+selectWorld.gameMode.hardcore=Кошмаръ	#
+selectWorld.gameMode.hardcore.line1=То же, что и режимъ выживанія, но опаснѣе	#
+selectWorld.gameMode.hardcore.line2=сложностью, и жизнь лишь одна	#
+selectWorld.gameMode.spectator=Смотритель	#
+selectWorld.gameMode.spectator.line1=Смотрѣть можно, трогать нельзя	#
+selectWorld.gameMode.spectator.line2=	#
+selectWorld.gameMode.survival=Выживаніе	#
+selectWorld.gameMode.survival.line1=Ищите ресурсы, мастерите, поднимайте свой	#
+selectWorld.gameMode.survival.line2=уровень, слѣдите за здоровьемъ и голодомъ	#
+selectWorld.hardcoreMode=Кошмаръ	#
 ## selectWorld.hardcoreMode.info=После смерти мир удаляется.	#
-## selectWorld.mapFeatures=Генерация строений:	#
-## selectWorld.mapFeatures.info=Деревни, подземелья и др.	#
-## selectWorld.mapType=Тип мира:	#
-## selectWorld.mapType.normal=Нормальный	#
-## selectWorld.moreWorldOptions=Доп. параметры мира...	#
-## selectWorld.newWorld=Новый мир	#
+selectWorld.mapFeatures=Создавать строенія	#
+selectWorld.mapFeatures.info=Дворы, подземелія и т.п.	#
+selectWorld.mapType=Видъ міра	#
+selectWorld.mapType.normal=Обычный	#
+selectWorld.moreWorldOptions=Больше настроекъ міра...	#
+selectWorld.newWorld=Новый міръ	#
 ## selectWorld.newWorld.copyOf=Копия мира «%s»	#
 ## selectWorld.newWorld.educationCopyOf=[EDU] %s	#
 ## selectWorld.worldTags.experimental=Экспериментальный	#
-## ## NOTE: "Realms" is the name of a service and doesn't get localized.
+## NOTE: "Realms" is the name of a service and doesn't get localized.
 ## selectWorld.realmsComingSoon=Вскоре выходит функция Realms!	#
 ## selectWorld.realmsBeta=Бета-версия Realms	#
 ## selectWorld.worldTags=%1$s – %2$s	#
@@ -6840,17 +6840,17 @@ item.fireworksCharge.brown=Коричневый	#
 ## selectWorld.rename=Переименовать	#
 ## selectWorld.renameButton=Переименовать	#
 ## selectWorld.renameTitle=Переименование мира	#
-## selectWorld.resultFolder=Будет сохранен в:	#
-## selectWorld.seedInfo=При пустом поле выбирается случайно	#
-## selectWorld.select=Играть в выбранном мире	#
+selectWorld.resultFolder=Будетъ храниться здѣсь:	#
+selectWorld.seedInfo=Оставьте пустымъ для случайнаго значенія	#
+selectWorld.select=Играть въ сёмъ мірѣ	#
 ## selectWorld.tab.worlds=Миры	#
 ## selectWorld.tab.realms=Realms	#
 ## selectWorld.tab.friends=Друзья	#
 ## selectWorld.tab.classmates=Друзья	#
 ## selectWorld.tab.thirdParty=Серверы	#
 ## selectWorld.title=Выбор мира	#
-## selectWorld.world=Мир	#
-## 
+selectWorld.world=Міръ	#
+
 ## selectTemplate.templateStart=С чего хотите начать?	#
 ## selectTemplate.generateRandom=Создать игровой мир	#
 ## selectTemplate.createRealm=Создать новый Realm	#
@@ -6877,20 +6877,20 @@ item.fireworksCharge.brown=Коричневый	#
 ## selectTemplate.createdBy=Автор: %s	#
 ## selectTemplate.inventory=Мои наборы для Рынка	#
 ## selectTemplate.seeMore=Подробнее	#
-## 
-## 
-## sign.edit=Изменить текст на табличке	#
-## 
-## skin.New=Новый мир	#
-## 
+
+
+sign.edit=Измѣненіе таблички	#
+
+skin.New=Новый міръ	#
+
 ## skin.Standard.Alex=Алекс	#
 ## skin.Standard.Steve=Стив	#
-## skin.Standard.Custom=Пользовательский	#
-## skin.Standard.CustomSlim=Пользовательский	#
-## skin.Standard.Dummy=Пользовательский	#
-## 
+skin.Standard.Custom=Пользовательскій	#
+skin.Standard.CustomSlim=Пользовательскій	#
+skin.Standard.Dummy=Пользовательскій	#
+
 ## skinpack.Education=Скины для Education Edition	#
-## 
+
 ## skins.browse=Обзор	#
 ## skins.buy.buyButton=Купить	#
 ## skins.buy.cancelButton=Отмена	#
@@ -6918,19 +6918,19 @@ item.fireworksCharge.brown=Коричневый	#
 ## skins.store.upsell.seePack=Смотрите набор на рынке	#
 ## skins.store.upsell.unlockPack=Чтобы использовать выбранный скин, разблокируйте этот набор.	#
 ## skins.store.equipped=Вы используете скин «%s».	#
-## 
-## soundCategory.ambient=Окружение	#
-## soundCategory.block=Блоки	#
-## soundCategory.hostile=Враждебные существа	#
-## soundCategory.master=Главная	#
-## soundCategory.music=Музыка	#
-## soundCategory.neutral=Мирные существа	#
-## soundCategory.player=Игроки	#
-## soundCategory.record=Проигрыватель/музыкальные блоки	#
-## soundCategory.weather=Погода	#
-## soundCategory.texttospeech=Синтез речи	#
-## 
-## stat.animalsBred=Выращено животных	#
+
+soundCategory.ambient=Окруженіе	#
+soundCategory.block=Блоки	#
+soundCategory.hostile=Злыя твари	#
+soundCategory.master=Общая громкость	#
+soundCategory.music=Мелодія	#
+soundCategory.neutral=Мирныя твари	#
+soundCategory.player=Игроки	#
+soundCategory.record=Патефонъ/муз. блокъ	#
+soundCategory.weather=Погода	#
+soundCategory.texttospeech=Голосъ/Рѣчь	#
+
+## stat.animalsBred=Приручено животныхъ	#
 ## stat.armorCleaned=Очищено частей брони	#
 ## stat.bannerCleaned=Очищено знамен	#
 ## stat.beaconInteraction=Число использований маяка	#
@@ -6998,12 +6998,12 @@ item.fireworksCharge.brown=Коричневый	#
 ## stat.useItem=Использовано: %1$s	#
 ## stat.walkOneCm=Дистанция пешком	#
 ## stat.workbenchInteraction=Число использований верстака	#
-## 
+
 ## stats.tooltip.type.achievement=Достижение	#
 ## stats.tooltip.type.statistic=Статистика	#
-## 
+
 ## start.beta.icon=Бета-версия	#
-## 
+
 ## store.title=Рынок	#
 ## store.allStores=Все магазины	#
 ## store.menu.home=Главная	#
@@ -7012,14 +7012,14 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.disabledOnBeta=Эта функция в настоящее время отключена в бета-версии.	#
 ## store.disabled.nopermission=В настоящее время у вас нет разрешения на использование Магазина.	#
 ## store.disabled.generic=В настоящее время Магазин недоступен.	#
-## 
+
 ## store.giftPromo.day=День %s			### %s being day number such as "Day 1", "Day 2", etc. Please use short translations. 3 letters if possible
 ## store.equipped=Получено	#
 ## store.promo.title=Летний праздник	#
 ## store.promo.incompatible=Этот мир несовместим с текущим устройством. Вы можете получить мир на устройстве, которое его поддерживает.	#
 ## store.promo.details=См. подробные сведения	#
 ## store.promo.view=См. в средстве создания персонажа	#
-## 
+
 ## store.realmsPlus=Realms Plus	#
 ## store.realmsPlus.content=Контент	#
 ## store.realmsPlus.faq=Вопросы и ответы	#
@@ -7029,36 +7029,36 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.realmsPlus.errorNoOffer=ОШИБКА: ПРЕДЛОЖЕНИЙ НЕ НАЙДЕНО	#
 ## store.realmsPlus.manageSubscription=УПРАВЛЕНИЕ ПОДПИСКОЙ	#
 ## store.realmsPlus.viewAllPacksTitle=ОТЛИЧНОЕ ПРЕДЛОЖЕНИЕ — НАБОРЫ СТОИМОСТЬЮ БОЛЕЕ §g$150 (долларов США)!§r	#
-## 
+
 ## store.realmsPlus.nowActive=Подписка Realms Plus для этого устройства включена. Теперь у вас есть доступ к более чем 150 наборам контента с рынка без дополнительной оплаты. В вашем Realm могут играть одновременно до 10 игроков, и у них у всех будет бесплатный доступ ко всему доступному в рамках подписки контенту!	#
-## 
+
 ## store.realmsPlus.buyNow.buttonText=КУПИТЬ ЗА %s	#
 ## store.realmsPlus.buyNow.viewTerms=УСЛОВИЯ	#
 ## store.realmsPlus.buyNow.viewPrivacyPolicy=ПОЛИТИКА КОНФИД.	#
-## 
+
 ## store.realmsPlus.buyNow.title=Получите подписку на Realms Plus	#
 ## store.realmsPlus.startTrial.description=Вы сразу получите доступ к своему Realm и более чем 150 наборам контента с Рынка. В вашем Realm смогут одновременно играть до 10 игроков, и у них у всех будет бесплатный доступ ко всем мирам в нем! Первый месяц для вас будет бесплатным, затем взимается плата в размере %s в месяц. Отказаться от подписки можно в любой момент.	#
 ## store.realmsPlus.noTrial.description=Вы сразу получите доступ к своему Realm и более чем 150 наборам контента с Рынка. В вашем Realm смогут одновременно играть до 10 игроков, и у них у всех будет бесплатный доступ ко всем мирам в нем! Ваша подписка будет действовать в течение 30 дней и стоить %s:minecoin:.	#
 ## store.realmsPlus.noTrial.description.iap=Вы сразу получите доступ к своему Realm и более чем 150 наборам с Рынка. В вашем Realm смогут одновременно играть до 10 игроков, и у них у всех будет бесплатный доступ ко всем мирам в нем! С вас будет взиматься плата в размере %s в месяц. Отказаться от подписки и прекратить платежи можно в любой момент в настройках подписки.	#
 ## store.realmsPlus.realmName.placeholder=Реалм игрока %s		#The string passed in here is the gamertag of the player to indicate the name of the player's world.	#
-## 
+
 ## store.realmsPlus.recurring.offerTrial=Realms Plus — это постоянная подписка с периодической оплатой за продление, которая автоматически взимается каждый месяц вплоть до отмены подписки.%sВы сразу получите доступ к своему Realm и более чем 150 наборам контента с Рынка. В вашем Realm смогут одновременно играть до 10 игроков, и у них у всех будет бесплатный доступ ко всем мирам в нем! Первые 30 дней для вас будут бесплатными, затем взимается плата в размере %s в месяц. Отказаться от подписки и прекратить платежи можно в любой момент в настройках подписки.	#
 ## store.realmsPlus.recurring.withoutTrial=Realms Plus — это постоянная подписка с периодической оплатой за продление, которая автоматически взимается каждый месяц вплоть до отмены подписки.%sВы сразу получите доступ к своему Realm и более чем 150 наборам контента с Рынка. В вашем Realm смогут одновременно играть до 10 игроков, и у них у всех будет бесплатный доступ ко всем мирам в нем! С вас будет взиматься плата в размере %s в месяц. Отказаться от подписки и прекратить платежи можно в любой момент в настройках подписки.	#
 ## store.realmsPlus.consumable.offerTrial=Вы сразу получите доступ к своему Realm и более чем 150 наборам контента с Рынка. В вашем Realm смогут одновременно играть до 10 игроков, и у них у всех будет бесплатный доступ ко всем мирам в нем! Первые 30 дней подписки будут бесплатными, затем вы сможете продлить ее еще на 30 дней по цене в %s.	#
 ## store.realmsPlus.consumable.withoutTrial=Вы сразу получите доступ к своему Realm и более чем 150 наборам контента с Рынка. В вашем Realm смогут одновременно играть до 10 игроков, и у них у всех будет бесплатный доступ ко всем мирам в нем! Ваша подписка будет действовать в течение 30 дней и стоить %s.	#
-## 
+
 ## store.realmsPlus.landing.header=Подписка включает:	#
 ## store.realmsPlus.landing.headerTrial=Бесплатный 30-дневный пробный период, затем %s в месяц	#
-## 
+
 ## store.realmsPlus.landing.info1.line1=Ваш собственный персональный сервер Realm — постоянный мир, всегда доступный для вас и ваших друзей!	#
 ## store.realmsPlus.landing.info1.line2=Друзья могут играть в вашем Realm бесплатно	#
 ## store.realmsPlus.landing.info1.line3=Переходите с консоли на мобильное устройство или ПК — любое устройство, где есть Рынок Minecraft	#
-## 
+
 ## store.realmsPlus.landing.info2.line1=Бесплатный доступ к каталогу, содержащему более 150 наборов контента с Рынка	#
 ## store.realmsPlus.landing.info2.line2=В комплект входят защищенные резервные копии миров в вашем Realm	#
 ## store.realmsPlus.landing.info2.line3=Первые 30 дней будут для вас бесплатными	#
 ## store.realmsPlus.landing.info2.line4=Подпишитесь сейчас за %s в месяц	#
-## 
+
 ## store.realmsPlus.faq.header=ВОПРОСЫ И ОТВЕТЫ	#
 ## store.realmsPlus.faq.question1=Что такое Realms Plus?	#
 ## store.realmsPlus.faq.answer1=Realms Plus — это подписка на персональный сервер, на котором могут играть до 10 игроков одновременно, включающая также неограниченный доступ к 150 великолепным мирам Minecraft, наборам текстур, наборам скинов и микс-пакетам за небольшую ежемесячную плату.	#
@@ -7078,28 +7078,28 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.realmsPlus.faq.answer8=Входящие в подписку наборы можно использовать для игры по сети, в вашем личном Realm или на локальном устройстве. Необходимо только подключаться к сети каждые 30 дней, чтобы подтвердить активность подписки.	#
 ## store.realmsPlus.faq.question9=Что произойдет с моими мирами и Realms, когда закончится подписка?	#
 ## store.realmsPlus.faq.answer9=Если подписка закончится, вы и ваши друзья больше не сможете играть в Realms по сети и у вас больше не будет доступа к наборам Realms Plus. Вы сможете загрузить любой мир, сохраненный в вашем Realm (в течение 18 месяцев после окончания подписки). Если вы использовали миры, наборы текстур или микс-наборы Realms Plus, то для дальнейшего использования этих шаблонов миров в игре вам необходимо будет приобрести соответствующие наборы в магазине или возобновить подписку (если эти наборы все еще предлагаются в рамках подписки Realms Plus).	#
-## 
-## 
+
+
 ## store.realmsPlus.content.skinDescription=Освежите свой образ с помощью скинов!	#
 ## store.realmsPlus.content.worldDescription=Ознакомьтесь с популярными наборами контента!	#
 ## store.realmsPlus.content.textureDescription=Новые виды для ваших миров!	#
 ## store.realmsPlus.content.mashupDescription=Попробуйте всего понемногу с помощью микс-наборов!	#
 ## store.realmsPlus.content.friendsGetAccess=Ваши друзья получают доступ к контенту, используемому в вашем Realm, бесплатно	#
-## 
+
 ## store.realmsPlus.content.popularPacks=Популярные наборы в Realms Plus:	#
 ## store.realmsPlus.content.viewAllPacks=ПРОСМОТРЕТЬ ВСЕ НАБОРЫ	#
 ## store.realmsPlus.content.contentDescription=Подключитесь к источнику потрясающего контента Minecraft! Realms Plus дает вам немедленный доступ к более чем 150 объектам с рынка, включая микс-наборы, миры, наборы скинов и захватывающие приключения (новинки добавляются каждый месяц). Ваш контент хранится на вашем личном сервере, и вы можете пользоваться им на любой платформе, где есть Realms и Рынок Minecraft. В вашем Realm смогут одновременно играть до 10 игроков, и у них у всех будет бесплатный доступ ко всем мирам в нем!	#
-## 
-## 
+
+
 ## store.realmsPlus.freeTrial=НАЧАТЬ БЕСПЛАТНЫЙ ПРОБНЫЙ ПЕРИОД	#
-## 
+
 ## store.inventory.button=Мой контент	#
 ## store.inventory.title=Мой контент	#
 ## store.inventory.dropdown.owned=Приобретенные	#
 ## store.inventory.dropdown.current=Действующие	#
 ## store.inventory.dropdown.removed=Удаленные	#
 ## store.inventory.button.subscriptions=Подписки	#
-## 
+
 ## store.free=Бесплатно	#
 ## store.redeem=Получить	#
 ## store.view_achievement=Посмотреть достижение	#
@@ -7111,9 +7111,9 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.owned.legacy=Приобретено (P)	#
 ## store.unlocked=Разблокировано	#
 ## store.mypacks=Мой контент	#
-## 
+
 ## store.error=Ошибка Рынка	#
-## 
+
 ## store.toast.downloadStarted=Начато скачивание: %s	#
 ## store.toast.downloadComplete=Скачивание завершено: %s	#
 ## store.toast.downloadResumed=Скачивание возобновлено: %s	#
@@ -7190,24 +7190,24 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.seeMoreBy=Еще от автора %s	#
 ## store.seeMoreBy.multiCreatorBundle=Больше от создателей наборов	#
 ## store.fetchingItem=Подключение к рынку...	#
-##  
+
 ## store.timer.daysAbbreviated=%s дн		### This is to let player know how many days are left in a sale. It needs to be abbreviated with no more than 3 characters
 ## store.timer.hoursAbbreviated=%s ч		### This is to let player know how many days are left in a sale. It needs to be abbreviated with no more than 3 characters
 ## store.timer.minutesAbbreviated=%s мин		### This is to let player know how many days are left in a sale. It needs to be abbreviated with no more than 3 characters
 ## store.timer.secondsAbbreviated=%s с		### This is to let player know how many days are left in a sale. It needs to be abbreviated with no more than 3 characters
 ## store.timer.left=Осталось: %s	#
-## 
+
 ## store.startMenu.sale=Распродажа!	#
-## 
+
 ## store.progress.fetchingProducts=Получение товаров	#
 ## store.progress.checkingDownload=Проверка загрузки	#
-## 
+
 ## store.content.download=Скачать	#
 ## store.content.update=Обновление	#
 ## store.content.updating=Обновление...	#
 ## store.content.requireXbl.signedIn=Скачайте бесплатно с помощью учетной записи Майкрософт.	#
 ## store.content.requireXbl.notSignedIn=Войдите в учетную запись Майкрософт, чтобы разблокировать.	#
-## 
+
 ## store.mashup.count.personaPiece=1 фрагмент персонажа	#
 ## store.mashup.count.personaPieces=Фрагменты персонажа: %s	#
 ## store.mashup.count.skin=1 скин	#
@@ -7216,7 +7216,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.mashup.count.texturePacks=Наборы текстур: %s	#number of texture packs	#
 ## store.mashup.count.world=1 мир 	#
 ## store.mashup.count.worlds=Миры %s	#number of worlds	#
-## 
+
 ## store.mashup.bundle=Пакет	#
 ## store.mashup.bundle.multipleCreators=Несколько создателей	#
 ## store.mashup.continue=Продолжить	#
@@ -7249,11 +7249,11 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.mashup.up_to_date=Версия набора новейшая	#
 ## store.mashup.out_of_date_tooltip=В этом наборе может не быть скинов для предметов или блоков, выпущенных после его последнего обновления	#
 ## store.mashup.description=ОПИСАНИЕ	#
-## 
+
 ## store.new.icon=Новинка	#
-## 
+
 ## store.offerDescription.title=Описание набора	#
-## 
+
 ## store.ratings.ratingsCount=Оценок: %s	#
 ## store.ratings.ratingOutOfFive=%s из 5 звезд	#
 ## store.ratings.rateContent=Оценить этот набор	#
@@ -7261,21 +7261,21 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.ratings.yourRating=Ваша оценка: 	#
 ## store.ratings.stars= Звезд: %s	#
 ## store.ratings.rate=Оцените этот набор!	#
-## 
+
 ## store.ratings.signIn.title=Оцените предложения на рынке	#
 ## store.ratings.signIn.description1=Расскажите автору и всему сообществу о своем опыте использования этого элемента!	#
 ## store.ratings.signIn.description2=Чтобы поставить оценку, необходимо войти в учетную запись Майкрософт.	#
-## 
+
 ## store.purchase.success.realMoney1=Вы разблокировали: %s за %s 	#
 ## store.purchase.success.realMoney2=+%s:minecoin:	#
 ## store.purchase.signIn=Разнообразьте игру массой отличного контента.	#
 ## store.purchase.signInPart2=Чтобы использовать рынок, войдите в учетную запись Майкрософт!	#
 ## store.purchase.realmoney.disclaimer=*Покупка монет (%s) за %s и активация набора за монеты (%s). Остаток монет: %s.	#
 ## store.purchase.notAvailable=Сейчас недоступно	#
-## 
+
 ## store.bundleUpsell.contents.single=+ еще 1 набор	#
 ## store.bundleUpsell.contents.plural=+ еще наборы (%s)	#
-## 
+
 ## store.coins.currentCoins=У вас Minecoins: %s	#
 ## store.coins.purchase.confirmation=Получить больше монет, чтобы разблокировать этот набор?	#
 ## store.coins.purchase.coinsLeftToBuy=Вам нужно больше монет (еще %s), чтобы разблокировать этот набор.	#
@@ -7297,13 +7297,13 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.coins.fixAppReceipt.title=Что-то пошло не так	#
 ## store.coins.fixAppReceipt.body=Похоже, возникла проблема с квитанцией приложения. Войдите, чтобы продолжить.	#
 ## store.coins.fixAppReceipt.button=Войти в магазин	#
-## 
+
 ## store.featured.realms.title=Попробовать Realms бесплатно	#
 ## store.featured.realms.desc=Оцените лучший способ играть в Minecraft с друзьями.	#
-## 
+
 ## store.hyperlink.creator.notFound=Указанный в гиперссылке создатель не найден.	#
 ## store.hyperlink.ingame=В игровом мире нельзя переходить по ссылкам. Выйдите и повторите попытку.	#
-## 
+
 ## store.resource.try=Опробовать	#
 ## store.resource.create=Управляйте наборами ресурсов	#
 ## store.resource.screenshots=Снимки экрана	#
@@ -7329,13 +7329,13 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.importing=Импорт...	#
 ## store.showMore=Показать все	#
 ## store.inventory.no.xbl=Мои наборы	#
-## 
+
 ## store.promo.today=Только сегодня!	#
 ## store.promo.upsell=Не упустите сегодняшний подарок!	#
 ## store.promo.comeBackTomorrow=Завтра вас ждет новый подарок!	#
 ## store.promo.end=С Новым годом!	#
 ## store.promo.comingSoon=Завтра начинаются 12 дней Minecraft!	#
-## 
+
 ## store.promo.holiday.first=В первый день Minecraft	#
 ## store.promo.holiday.second=Во второй день Minecraft	#
 ## store.promo.holiday.third=В третий день Minecraft	#
@@ -7348,7 +7348,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.promo.holiday.tenth=В десятый день Minecraft	#
 ## store.promo.holiday.eleventh=В одиннадцатый день Minecraft	#
 ## store.promo.holiday.twelfth=В двенадцатый день Minecraft	#
-## 
+
 ## store.promo.date.jan=%s янв	#
 ## store.promo.date.feb=%s фев	#
 ## store.promo.date.mar=%s мар	#
@@ -7361,29 +7361,29 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.promo.date.oct=%s окт	#
 ## store.promo.date.nov=%s нов	#
 ## store.promo.date.dec=%s дек	#
-## 
+
 ## store.myAccount=Моя учетная запись	#
 ## store.xbl.signin=Войти	#
 ## store.xbl.signinOrSignUp=Войдите или зарегистрируйтесь бесплатно	#
 ## store.xbl.disconnected=Отключено	#
 ## store.xbl.conversionFailedTitle=Что-то пошло не так	#
 ## store.xbl.conversionFailedMessage=Попробуйте еще раз позже.	#
-## 
+
 ## store.sales.allByCreator=Распродажа!	#
 ## store.sales.bundlesOnSale=Распродажа пакетов!	#
 ## store.sales.mashupsOnSale=Распродажа миксов!	#
 ## store.sales.skinsOnSale=Распродажа скинов!	#
 ## store.sales.texturesOnSale=Распродажа наборов текстур!	#
 ## store.sales.worldsOnSale=Распродажа миров!	#
-## 
+
 ## store.showalloffers.list.title=Магазин %s 	#
 ## store.showalloffers.list.back=Назад	#
-## 
+
 ## store.suggestedOffers.defaultTitle=Играйте с удовольствием	#
-## 
+
 ## store.minecoin.notavailable=Покупка монет недоступна в этой версии Minecraft.	#
-## 
-## 
+
+
 ## store.search.allResults=Результатов: %d	#
 ## store.search.dynamicPlaceHolderText=Попробуйте поискать «%s»!	#
 ## store.search.error.searchStringAndFilters=Нет результатов по запросу «%s» и выбранным фильтрам. Попробуйте расширить поиск...	#
@@ -7400,20 +7400,20 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.search.title=Поиск	#
 ## store.search.trendingRowTitle=Популярный запрос: %s	#
 ## store.search.button=Поиск	#
-## 
+
 ## store.search.filters.bundles=Пакеты	#
 ## store.search.filters.clear=Сбросить фильтры	#
 ## store.search.filters.reset=Сбросить фильтры	#
-## 
+
 ## store.search.filter.clear.creator=Сбросить фильтры по создателю	#
 ## store.search.filter.creator=Создатели	#
 ## store.search.filter.creator.selectedCount=Создатели %d	#
-## 
+
 ## store.search.filter.offer_type=Типы предложений	#
 ## store.search.filter.offer_type.selectedCount=Типы предложений %d	#
 ## store.search.filter.offer_type.bundles=Пакеты	#
 ## store.search.filter.offer_type.realmsplus=Realms Plus	#
-## 
+
 ## store.search.filter.clear.pack_type=Сбросить фильтры по типу пакета	#
 ## store.search.filter.mashupPacks=Миксы	#
 ## store.search.filter.andSelectedText=и %s	#
@@ -7433,7 +7433,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.search.filter.installed=Установлено	#
 ## store.search.filter.notInstalled=Не установлено	#
 ## store.search.filter.clear.installed=Сбросить фильтры по состоянию установки	#
-## 
+
 ## store.search.sort_menu.sortConstWord=Сортировка	#
 ## store.search.sort_menu.Default=По релевантности	#
 ## store.search.sort_menu.NewestFirst=Сначала новые	#
@@ -7447,10 +7447,10 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.search.sort_menu.HighestRating=Оценка: от большей к меньшей	#
 ## store.search.sort_menu.LowestRating=Оценка: от меньшей к большей	#
 ## store.search.sort_menu.resultText=по %s 	#
-## 
+
 ## store.shareDescription=Вот это да! У %s получился замечательный набор. Вам непременно стоит его попробовать.	#
 ## store.copyToastMessage=Ссылка скопирована в буфер обмена!	#
-## 
+
 ## store.uploadContentToRealmsSuccess=Содержимое успешно загружено в выбранный Realm.	#
 ## store.uploadContentToRealmsFail.title=Ошибка	#
 ## store.uploadContentToRealmsProgressTitle=Применение содержимого к Realm	#
@@ -7463,7 +7463,7 @@ item.fireworksCharge.brown=Коричневый	#
 ## store.uploadPackTitle=Заменить набор?	#
 ## store.uploadWorldMessage=Это действие приведет к удалению имеющегося мира из активной ячейки вашего Realm и замене его новым. У членов вашего Realm будет доступ к этому новому миру. Выберите команду «Отмена», чтобы выйти и скачать копию текущего мира для предотвращения потери данных, или команду «Подтвердить», чтобы продолжить и заменить мир.	#
 ## store.uploadPackMessage=Это действие удалит из вашего Realm все текущие действующие наборы ресурсов и параметров, после чего заменит их выбранным набором. Вы хотите продолжить?	#
-## 
+
 ## stream.confirm_start=Вы действительно хотите начать трансляцию?	#
 ## stream.unavailable.account_not_bound=Прежде чем транслировать Minecraft в Twitch, вам нужно привязать свою учетную запись Twitch на mojang.com. Сделать это сейчас?	#
 ## stream.unavailable.account_not_bound.okay=Связать уч. записи	#
@@ -7512,13 +7512,13 @@ item.fireworksCharge.brown=Коричневый	#
 ## stream.userinfo.timeout=Время ожидания	#
 ## stream.userinfo.unban=Разблокировать	#
 ## stream.userinfo.unmod=Забрать права модератора	#
-## 
+
 ## profanity_filter.title=Фильтр сквернословия	#
 ## profanity_filter.msg=Введенный вами текст содержит слова, которые могут быть оскорбительными для других, поэтому использовать их нельзя. Попробуйте еще раз.	#
-## 
+
 ## terms_and_conditions.goBack=Назад	#
 ## terms_and_conditions.viewTermsAndConditions=Чтобы просмотреть положения и условия, откройте страницу https://minecraft.net/terms в любом веб-браузере.	#
-## 
+
 ## tile.acaciaFence.name=Забор из акации	#
 ## tile.acacia_fence_gate.name=Ворота из акации	#
 ## tile.activator_rail.name=Активирующие рельсы	#
