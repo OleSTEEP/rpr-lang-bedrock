@@ -4,14 +4,14 @@
         "description": "Pre-reform russian language on Minecraft Bedrock",
         "name": "RPR for Bedrock",
         "uuid": "eef3e226-f0be-449e-b2f6-ee9bb24c68f8",
-        "version": [1, 9, 2]
+        "version": [0, 1, 0]
     },
     "modules": [
         {
             "description": "RPR (Russian Pre-Reform) language on Minecraft Bedrock",
             "type": "resources",
             "uuid": "9c4766bc-90d3-4e63-923f-230efbea70b7",
-            "version": [1, 9, 2]
+            "version": [0, 1, 0]
         }
     ],
     "metadata": {
