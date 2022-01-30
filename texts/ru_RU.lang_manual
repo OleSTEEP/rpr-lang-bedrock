@@ -2012,7 +2012,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## thirdPartyWorld.playNow=Играйте сейчас!	#
 ## thirdPartyWorld.loadingServers=Получение сведений о серверах, подождите...	#
 ## thirdPartyWorld.loadingFeaturedServers=Получение серверов...	#
-## 
+
 ## realmsSlotsScreen.description=Выберите до трех миров для отправки на сервер Realms. Выберите мир, чтобы активировать или изменить его!	#
 ## realmsSlotsScreen.new=Новый мир	#
 ## realmsSlotsScreen.readyToPlay=Готово к игре	#
@@ -2023,7 +2023,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## realmsSlotsScreen.chooseSlot=Выберите ячейку	#
 ## realmsSlotsScreen.activateWarning=Если вы измените или активируете этот мир, все активные игроки будут выброшены из игры. Не волнуйтесь, они смогут вернуться.	#
 ## realmsSlotsScreen.celebrationMap=Карта праздника Realms	#
-## 
+
 ## realmsSettingsScreen.playerCountLabel=Размер	#
 ## realmsSettingsScreen.forceResourcePackFail=Не удалось принудительно установить значение набора ресурсов	#
 ## realmsSettingsScreen.failedUploadPack=Не удалось загрузить набор «%s».	#
@@ -2108,7 +2108,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## realmsSettingsScreen.consumableToSubscriptionTransitionInfoExpired=Срок действия вашего Realm истек. Включите автоматическое продление подписки сейчас, чтобы больше не беспокоиться о доступности Realm.	#
 ## realmsSettingsScreen.upload.worldtoobig=Сбой отправки. Размер мира превышает предел отправки в %s.	#
 ## realmsSettingsScreen.download.worldtoobig=Сбой загрузки. Размер мира превышает предел загрузки в %s.	#
-## 
+
 ## realmsSettingsScreen.switchStoreDisplayName=Nintendo eShop	#
 ## realmsSettingsScreen.iosStoreDisplayName=App Store	#
 ## realmsSettingsScreen.googlePlayStoreDisplayName="Google Play Маркет"	#
@@ -2135,14 +2135,14 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## realmsSettingsScreen.searchBox=Поиск...	#
 ## realmsSettingsScreen.unknownPackName=Неизвестное название набора	#
 ## realmsSettingsScreen.viewSubscriptionsButton=Просмотреть подписки	#
-## 
+
 ## realmsSettingsScreen.extendConsumableButton=Продлить подписку	#
 ## realmsSettingsScreen.extendConsumableButton.30=Продлить на 30 дней	#
 ## realmsSettingsScreen.extendConsumableButton.180=Продлить на 180 дней	#
-## 
+
 ## xblLogin.LoginMessageTitle=Учетная запись Майкрософт	#
 ## xblLogin.LoginMessage=Подключение…	#
-## 
+
 ## xbl.savePurchase.description.line1=Вы хотите играть во все купленные игры на всех системах с поддержкой Магазина Minecraft? Войдите в бесплатную учетную запись Майкрософт, чтобы синхронизировать приобретенные скины, текстуры, карты и микс-наборы и играть в Minecraft.	#
 ## xbl.savePurchase.description.line2=Если вы удалите Minecraft или переустановите систему, ваши покупки синхронизируются и будут по-прежнему доступны в вашей учетной записи Майкрософт.	#
 ## xbl.savePurchase.leaveOnDevice=Оставить на устройстве	#
@@ -2151,7 +2151,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## xbl.savePurchase.toast.title=Готово!	#
 ## xbl.savePurchase.toast.message=Покупки синхронизированы с учетной записью Майкрософт!	#
 ## xbl.savePurchase.inProgress.message=Перенос покупок в учетную запись Майкрософт...	#
-## 
+
 ## xbl.syncIAP.title=Синхронизировать покупки с учетной записью Майкрософт?	#
 ## xbl.syncIAP.description=Войдите в учетную запись Майкрософт, чтобы синхронизировать свои скины, наборы текстур, миры и миксы. Они будут доступны вам на всех устройствах, на которых вы играете в Minecraft.	#
 ## xbl.syncIAP.syncNow=Синхронизировать сейчас...	#
@@ -2161,14 +2161,14 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## xbl.syncIAP.toast.message=Покупки синхронизированы с учетной записью Майкрософт!	#
 ## xbl.syncIAP.inProgress.message=Синхронизация покупок с учетной записью Майкрософт…	#
 ## xbl.syncIAP.skipSignIn.prompt.description=Эта учетная запись Майкрософт не будет основной учетной записью для этого устройства, если вы не синхронизируете с ней покупки, совершенные на устройстве. При запуске Minecraft не будет выполняться автоматический вход.	#
-## 
+
 ## xbl.syncIAP.confirmSync.prompt.title=Синхронизировать с %s?	#
 ## xbl.syncIAP.confirmSync.prompt.description.line1=Синхронизировать покупки из Магазина приложений в %s?	#
 ## xbl.syncIAP.confirmSync.prompt.description.line2=Вы можете синхронизировать наборы скинов, купленные вне Рынка Minecraft, только один раз. Они будут доступны всем пользователям этого устройства.	#
 ## xbl.syncIAP.confirmSync.prompt.yes=Да, синхронизировать мои покупки	#
-## 
+
 ## xbl.marketplace.account.error.body.nobutton=В вашей учетной записи произошла ошибка. Вы не сможете пользоваться Рынком, пока мы ее не исправим. Если ошибка не будет устранена в течение нескольких дней, обратитесь в службу поддержки.	#
-## 
+
 ## playfab.account.banned.title=Вас заблокировали	#
 ## playfab.account.banned.body=Вам запрещен доступ к многопользовательским играм в Minecraft. Вы не сможете играть на серверах, присоединяться к Realm, организовывать многопользовательские игры или участвовать в них, а также использовать Рынок.	#
 ## playfab.account.banned.body.line1=Вам запрещен доступ к многопользовательским играм в Minecraft по следующей причине: %s. Вы не сможете играть на серверах, присоединяться к Realm, организовывать многопользовательские игры или участвовать в них, а также использовать Рынок.	#
@@ -2178,19 +2178,19 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## playfab.account.banned.body.line2.days=Ваше отстранение продлится еще %d дн.	#
 ## playfab.account.banned.body.line2.forever=Это отстранение является постоянным.	#
 ## playfab.account.banned.body.button=Подробнее	#
-## 
+
 ## store.sign_in_warning.no_xbl_and_local_content=Важно! Приобретенные вами наборы и/или Minecoins, доступные только на этом устройстве, могут быть потеряны из-за неисправности или потери устройства или из-за удаления Minecraft! Войдите в бесплатную учетную запись Майкрософт и перенесите в неё сведения о наборах и Minecoins, чтобы защитить их и иметь к ним доступ с любого устройства.	#
 ## store.sign_in_warning.no_xbl_and_no_local_content.line1=Важно! Приобретенные наборы, доступные только на этом устройстве, могут быть потеряны из-за неисправности или потери устройства или из-за удаления Minecraft!	#
 ## store.sign_in_warning.no_xbl_and_no_local_content.line2=Войдите в бесплатную учетную запись Майкрософт и перенесите в неё сведения о покупках, чтобы защитить приобретенные вами наборы и Minecoins.	#
 ## store.sign_in_warning.no_xbl_and_no_local_content.line3=Кроме того, вы будете иметь к ним доступ с любого устройства, используемого для игры в Minecraft!	#
 ## store.sign_in_warning.no_xbl_and_no_local_content.line4=Контент, приобретенный в магазинах партнеров, будет доступен до тех пор, пока на вашем устройстве выполнен вход в учетную запись магазина партнера.	#
-## 
+
 ## xbl.skipSignIn.prompt.title=Временная учетная запись	#
 ## xbl.skipSignIn.prompt.description=Данная учетная запись Майкрософт не будет основной для этого устройства, если вы не перенесете на нее покупки, совершенные на устройстве. При запуске Minecraft не будет выполняться автоматический вход.	#
 ## xbl.signOut.title=Покупки в учетной записи Майкрософт!	#
 ## xbl.signOut.message1=Пока вы не войдете в учетную запись Майкрософт, у вас не будет доступа к Minecoins и ко всему тому, что вы приобрели в магазине.	#
 ## xbl.signOut.message2=Вы действительно хотите это сделать?	#
-## 
+
 ## date.short_january=Янв	#
 ## date.short_february=Фев	#
 ## date.short_march=Мар	#
@@ -2204,20 +2204,20 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## date.short_november=Ноя	#
 ## date.short_december=Дек	#
 ## date.formatted=%s %d %d	#
-## 
+
 ## dayOneExperience.carousel.title=Добро пожаловать в новый Minecraft!	#
 ## dayOneExperience.carousel.welcome_text=В новой версии Minecraft вас ждет много нового и интересного! Зайдите на рынок, создайте реалм и играйте по сети с друзьями на различных платформах!	#
 ## dayOneExperience.carousel.marketplace=Рынок Minecraft — это место, где можно найти новые скины, миры, текстуры и микс-наборы от разных талантливых авторов.	#
 ## dayOneExperience.carousel.cross_platform=Кроссплатформенная игра позволяет игрокам, использующим разные платформы, играть вместе. Войдите в свою учетную запись Майкрософт, чтобы играть со всеми своими друзьями в Minecraft!	#
 ## dayOneExperience.carousel.realms=Realm — это серверы, которые мы поддерживаем специально для вас и ваших друзей. Пусть ваш мир Minecraft будет доступен в любое время, даже когда вы не в сети.	#
 ## dayOneExperience.carousel.villager=Только в этой версии Minecraft будут доступны дальнейшие обновления: новые функции, мобы, элементы, блоки и многое другое!	#
-## 
+
 ## dayOneExperience.tab.landing=Что нового	#
 ## dayOneExperience.tab.marketplace=Рынок	#
 ## dayOneExperience.tab.crossplatform=Кроссплатформенная игра	#
 ## dayOneExperience.tab.realms=Realms	#
 ## dayOneExperience.tab.villager=Другой контент	#
-## 
+
 ## dayOneExperience.finish=Готово	#
 ## dayOneExperience.next=Далее	#
 ## dayOneExperience.no_internet=Подключитесь к Интернету, чтобы загрузить предыдущий скин	#
@@ -2238,78 +2238,78 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## dayOneExperience.world_import_time=Подсказка: длительность преобразования зависит от размеров мира.	#
 ## dayOneExperience.world_picker_title=Выберите мир для преобразования	#
 ## dayOneExperience.world_picker_skip=Пропустить в этот раз	#
-## 
-## death.attack.anvil=%1$s попадает под упавшую наковальню	#
-## death.attack.arrow=%1$s застрелен(а), убийца: %2$s	#
-## death.attack.arrow.item=%1$s застрелен(а), убийца %2$s, %3$s	#
+
+death.attack.anvil=%1$s раздавленъ упавшей наковальней	#
+death.attack.arrow=%1$s застрѣленъ %2$s	#
+death.attack.arrow.item=%1$s застрѣленъ %2$s съ помощью %3$s	#
 ## death.attack.bullet=%1$s убит(а) пулей, убийца: %2$s	#
-## death.attack.cactus=%1$s закололся(лась) до смерти	#
-## death.attack.cactus.player=%1$s натыкается на кактус, преследователь: %2$s	#
-## death.attack.drown=%1$s утонул(а)	#
-## death.attack.drown.player=%1$s утонул(а), преследователь: %2$s	#
-## death.attack.explosion=%1$s взорвался(лась)	#
-## death.attack.explosion.player=%1$s был(а) взорван(а), убийца: %2$s	#
-## death.attack.fall=%1$s ударился(лась) о землю слишком сильно	#
-## death.attack.fallingBlock=%1$s попадает под падающий блок	#
-## death.attack.fireball=%1$s убит(а) огненным шаром, убийца: %2$s	#
-## death.attack.fireball.item=%1$s убит(а) огненным шаром, убийца: %2$s, %3$s	#
-## death.attack.fireworks=Игрок %1$s ушел красиво	#
-## death.attack.flyIntoWall=Игрок %1$s познал кинетическую энергию	#
-## death.attack.generic=%1$s умер(ла)	#
-## death.attack.indirectMagic=%1$s был(а) убит(а), убийца: %2$s, магия	#
-## death.attack.indirectMagic.item=%1$s был(а) убит(а), убийца: %2$s, %3$s	#
-## death.attack.inFire=%1$s сгорел(а) заживо	#
-## death.attack.inFire.player=%1$s сгорает в огне, противник: %2$s	#
-## death.attack.inWall=%1$s задохнулся(лась) в стене	#
-## death.attack.lava=%1$s решает поплавать в лаве	#
-## death.attack.lava.player=%1$s падает в лаву, преследователь: %2$s	#
-## death.attack.lightningBolt=В игрока %1$s ударила молния	#
-## death.attack.magic=%1$s был(а) убит(а) магией	#
+death.attack.cactus=%1$s былъ исколотъ до смерти	#
+death.attack.cactus.player=%1$s наткнулся на кактусъ, спасаясь отъ %2$s	#
+death.attack.drown=%1$s утонулъ	#
+death.attack.drown.player=%1$s утонулъ, спасаясь отъ %2$s	#
+death.attack.explosion=%1$s взорвался	#
+death.attack.explosion.player=%1$s былъ взорванъ %2$s	#
+death.attack.fall=%1$s разбился вдребезги	#
+death.attack.fallingBlock=%1$s былъ раздавленъ упавшимъ блокомъ	#
+death.attack.fireball=%1$s убитъ огненнымъ шаромъ %2$s	#
+death.attack.fireball.item=%1$s убитъ огненнымъ шаромъ %2$s съ помощью %3$s	#
+death.attack.fireworks=%1$s съ трескомъ разлетѣлся	#
+death.attack.flyIntoWall=%1$s не пережилъ явленіе кинетической энергіи	#
+death.attack.generic=%1$s умеръ	#
+death.attack.indirectMagic=%1$s былъ убитъ %2$s съ помощью магіи	#
+death.attack.indirectMagic.item=%1$s былъ убитъ %2$s съ помощью %3$s	#
+death.attack.inFire=%1$s умеръ въ огнѣ	#
+death.attack.inFire.player=%1$s сгорѣлъ въ огнѣ, пока боролся съ %2$s	#
+death.attack.inWall=%1$s былъ погребёнъ заживо	#
+death.attack.lava=%1$s рѣшилъ поплавать въ лавѣ	#
+death.attack.lava.player=%1$s рѣшилъ поплавать въ лавѣ, спасаясь отъ %2$s	#
+death.attack.lightningBolt=%1$s былъ поражёнъ молніей	#
+death.attack.magic=%1$s былъ убитъ магіей	#
 ## death.attack.magma=%1$s путает лаву с полом	#
 ## death.attack.magma.player=Игрок %1$s вошел в опасную зону (%2$s тому виной)	#
-## death.attack.mob=%1$s был(а) убит(а), убийца: %2$s	#
-## death.attack.onFire=%1$s сгорел(а) заживо	#
-## death.attack.onFire.player=%1$s был(а) сожжен(а) дотла, противник: %2$s	#
-## death.attack.outOfWorld=%1$s выпал(а) из мира	#
-## death.attack.player=%1$s был(а) убит(а), убийца: %2$s	#
-## death.attack.player.item=%1$s был(а) убит(а), убийца: %2$s, %3$s	#
+death.attack.mob=%1$s былъ убитъ %2$s	#
+death.attack.onFire=%1$s сгорѣлъ заживо	#
+death.attack.onFire.player=%1$s сгорѣлъ дотла, борясь съ %2$s	#
+death.attack.outOfWorld=%1$s выпалъ изъ міра	#
+death.attack.player=%1$s убитъ игрокомъ %2$s	#
+death.attack.player.item=%1$s убитъ %2$s съ помощью %3$s	#
 ## death.attack.spit=%1$s убит(а) бумажным шариком, убийца: %2$s	#
-## death.attack.starve=%1$s умер(ла) от голода	#
-## death.attack.thorns=%1$s был(а) убит(а), пытаясь навредить персонажу %2$s	#
-## death.attack.thrown=%2$s избил(а) %1$s досмерти	#
-## death.attack.thrown.item=%1$s был(а) избит(а), убийца: %2$s, %3$s	#
-## death.attack.trident=%1$s проколот(а) до смерти, убийца: %2$s	#
-## death.attack.wither=%1$s высох(ла)	#
-## death.attack.freeze=%1$s замерз(ла) до смерти	#
+death.attack.starve=%1$s умеръ отъ голода	#
+death.attack.thorns=%1$s былъ убитъ, пытаясь навредить %2$s	#
+death.attack.thrown=%1$s былъ избитъ %2$s	#
+death.attack.thrown.item=%1$s былъ избитъ %2$s съ помощью %3$s	#
+death.attack.trident=%1$s былъ пронзёнъ %2$s	#
+death.attack.wither=%1$s былъ изсушёнъ	#
+death.attack.freeze=%1$s замёрзъ насмерть	#
 ## death.attack.stalactite=%1$s пронзен(а) падающим сталактитом	#
-## death.attack.stalagmite=%1$s наколот(а) на сталагмит	#
-## death.fell.accident.generic=%1$s упал(а) с высокого места	#
-## death.fell.accident.ladder=%1$s падает с лестницы	#
-## death.fell.accident.vines=%1$s срывается с лозы	#
+death.attack.stalagmite=%1$s пронзёнъ сталагмитомъ	#
+death.fell.accident.generic=%1$s разбился насмерть	#
+death.fell.accident.ladder=%1$s упалъ съ лѣстницы	#
+death.fell.accident.vines=%1$s сорвался съ ліаны	#
 ## death.fell.accident.water=%1$s выпадает из воды	#
-## death.fell.assist=%1$s был(а) обречен(а) на падение, убийца: %2$s	#
-## death.fell.assist.item=%1$s был(а) обречен(а) на падение, убийца: %2$s, %3$s	#
-## death.fell.finish=%1$s упал(а) с высоты и был(а) прикончен(а), убийца: %2$s	#
-## death.fell.finish.item=%1$s упал(а) с высоты и был(а) прикончен(а), убийца: %2$s, %3$s	#
-## death.fell.killer=%1$s был(а) обречен(а) на падение	#
-## 
+death.fell.assist=%1$s былъ обречёнъ на паденіе %2$s	#
+death.fell.assist.item=%1$s былъ обречёнъ на паденіе %2$s съ помощью %3$s	#
+death.fell.finish=%1$s упалъ съ высоты и былъ добитъ %2$s	#
+death.fell.finish.item=%1$s упалъ съ высоты и былъ добитъ %2$s съ помощью %3$s	#
+death.fell.killer=%1$s былъ обречёнъ на паденіе	#
+
 ## deathScreen.deleteWorld=Удалить мир	#
 ## deathScreen.hardcoreInfo=Вы не можете возродиться в режиме «хардкор»!	#
 ## deathScreen.leaveServer=Покинуть сервер	#
-## deathScreen.message=Вы погибли!	#
-## deathScreen.quit=Главное меню	#
-## deathScreen.quit.confirm=Вы действительно хотите выйти?	#
+deathScreen.message=Вы покинули сей свѣтъ!	#
+deathScreen.quit=Главный экранъ	#
+deathScreen.quit.confirm=Вы увѣрены, что изволите выйти?	#
 ## deathScreen.quit.confirmToMainMenuWarning=Вы действительно хотите выйти в главное меню?	#
 ## deathScreen.quit.confirmToMainMenuTitleWarning=Выйти в главное меню?	#
 ## deathScreen.quit.secondaryClient=Сохранить и выйти	#
 ## deathScreen.quit.secondaryClient.confirmLeaveWarning=Вы действительно хотите сохранить и выйти из игры?	#
 ## deathScreen.quit.secondaryClient.confirmLeaveTitleWarning=Сохранить и выйти	#
-## deathScreen.respawn=Возрождение	#
-## deathScreen.score=Счет	#
-## deathScreen.title=Вы умерли!	#
-## deathScreen.title.hardcore=Конец игры	#
-## deathScreen.titleScreen=Главный экран	#
-## 
+deathScreen.respawn=Воскреснуть	#
+deathScreen.score=Счётъ	#
+deathScreen.title=Вы покинули сей свѣтъ!	#
+deathScreen.title.hardcore=Всё! Конецъ!	#
+deathScreen.titleScreen=Главный экранъ	#
+
 ## demo.day.1=Демонстрация завершится через 5 игровых дней. Проявите себя!	#
 ## demo.day.2=День 2	#
 ## demo.day.3=День 3	#
@@ -2329,14 +2329,14 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## demo.help.title=Демонстрационный режим	#
 ## demo.remainingTime=Оставшееся время: %s	#
 ## demo.reminder=Время демонстрации истекло. Приобретите игру, чтобы продолжить или создать новый мир!	#
-## 
+
 ## difficulty.lock.question=Действительно зафиксировать сложность этого мира? В результате уровень сложности мира всегда будет %1$s, и вы никогда не сможете его изменить.	#
 ## difficulty.lock.title=Зафиксировать сложность мира	#
-## 
+
 ## dimension.dimensionName0=Верхний мир	#
 ## dimension.dimensionName1=Нижний мир	#
 ## dimension.dimensionName2=Край	#
-## 
+
 ## disconnect.closed=Соединение разорвано	#
 ## disconnect.downloadPack=Ошибка при скачивании наборов с сервера. Повторите попытку.	#
 ## disconnect.disconnected=Разрыв соединения сервером	#
@@ -2355,7 +2355,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## disconnect.quitting=Выход	#
 ## disconnect.spam=Изгнание за спам	#
 ## disconnect.timeout=Превышено время ожидания	#
-## 
+
 ## disconnectionScreen.header.realms_hidden=Приглашение к игре по сети	#
 ## disconnectionScreen.body.realms_hidden=Не удается подключиться к данному конкретному серверу.	#
 ## disconnectionScreen.blockMismatch=Несовпадение блоков между клиентом и сервером.	#
@@ -2426,13 +2426,13 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## disconnectionScreen.worldCorruption=Отключено из-за повреждения мира	#
 ## disconnectionScreen.hostSuspended=Соединение разорвано из-за недоступности сервера	#
 ## disconnectionScreen.invalidLevel=Недействительный уровень!	#
-## 
+
 ## storageSpaceWarningScreen.frontend=У вас почти закончилось место для хранения данных! Minecraft ограничил доступ к этой возможности, пока вы не освободите дополнительное место.	#
 ## storageSpaceWarningScreen.lowduringgameplay=На вашем устройстве почти закончилось место, которое Minecraft может использовать для хранения миров и настроек! Удалите старые ненужные файлы, чтобы сохранять новые.	#
 ## storageSpaceWarningScreen.fullduringgameplay=У вас закончилось место для хранения данных, и не удается сохранить ваш прогресс! Minecraft вернет вас в главное меню, чтобы вы освободили место.	#
-## 
+
 ## edu.signin_screen.viewTerms=Просмотреть условия	#
-## 
+
 ## edu.play_screen.view_worlds=МОИ МИРЫ	#
 ## edu.play_screen.view_library=БИБЛИОТЕКА	#
 ## edu.play_screen.create_new=СОЗДАТЬ	#
@@ -2440,7 +2440,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## edu.play_screen.import=ИМПОРТ	#
 ## edu.play_screen.new=НОВЫЙ	#
 ## edu.play_screen.from_template=ШАБЛОНЫ	#
-## 
+
 ## edu.worlds_screen.title=Мои миры	#
 ## edu.worlds_screen.new_world=Новый мир	#
 ## edu.worlds_screen.new=СОЗДАТЬ	#
@@ -2456,7 +2456,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## edu.worlds_screen.share=ПОДЕЛИТЬСЯ	#
 ## edu.worlds_screen.delete=УДАЛИТЬ	#
 ## edu.worlds_screen.courses_title=Мои курсы	#
-## 
+
 ## edu.templates.title=Мои шаблоны	#
 ## edu.templates.local_header=МОИ ШАБЛОНЫ: %1	#
 ## edu.templates.featured_header=ИСПОЛЬЗОВАННЫЕ ШАБЛОНЫ	#
@@ -2466,9 +2466,9 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## edu.templates.quick_play=ИГРАТЬ	#
 ## edu.templates.host=РАЗМЕСТИТЬ	#
 ## edu.templates.create_new=СОЗДАТЬ	#
-## 
+
 ## edu.pause.multiplayer.disabled=Игра по сети недоступна для этого урока.	#
-## 
+
 ## effect.badOmen=Дурное знамение	#
 ## effect.villageHero=Герой деревни	#
 
@@ -6316,93 +6316,93 @@ potion.damageBoost.name=Снадобье силы	#
 potion.damageBoost.splash.name=Взрывное снадобье силы	#
 potion.damageBoost.linger.name=Туманное снадобье силы	#
 potion.digSlowDown=Утомленіе	#
-## potion.digSpeed=Проворство	#
-## potion.effects.whenDrank=После применения:	#
+potion.digSpeed=Спѣшка	#
+potion.effects.whenDrank=При примѣненіи:	#
 potion.empty=Безъ эффектовъ	#
-## potion.emptyPotion.name=Пузырек воды	#
-## potion.emptyPotion.splash.name=Взрывной пузырек воды	#
-## potion.emptyPotion.linger.name=Оседающий пузырек воды	#
+potion.emptyPotion.name=Бутылочка воды	#
+potion.emptyPotion.splash.name=Взрывная бутылочка воды	#
+potion.emptyPotion.linger.name=Туманная бутылочка воды	#
 potion.fireResistance=Огнестойкость	#
-## potion.fireResistance.name=Зелье огнестойкости	#
-## potion.fireResistance.splash.name=Взрывное зелье огнестойкости	#
-## potion.fireResistance.linger.name=Оседающее зелье огнестойкости	#
-## potion.harm=Моментальный урон	#
-## potion.harm.name=Зелье порчи	#
-## potion.harm.splash.name=Взрывное зелье порчи	#
-## potion.harm.linger.name=Оседающее зелье порчи	#
-## potion.heal=Мгновенное оздоровление	#
-## potion.heal.name=Зелье исцеления	#
-## potion.heal.splash.name=Взрывное зелье исцеления	#
-## potion.heal.linger.name=Оседающее зелье исцеления	#
-## potion.healthBoost=Увеличение здоровья	#
-## potion.hunger=Голод	#
-## potion.invisibility=Невидимость	#
-## potion.invisibility.name=Зелье невидимости	#
-## potion.invisibility.splash.name=Взрывное зелье невидимости	#
-## potion.invisibility.linger.name=Оседающее зелье невидимости	#
-## potion.jump=Суперпрыжок	#
-## potion.jump.name=Зелье прыгучести	#
-## potion.jump.splash.name=Взрывное зелье прыгучести	#
-## potion.jump.linger.name=Оседающее зелье прыгучести	#
-## potion.levitation=Левитация	#
-## potion.moveSlowdown=Медлительность	#
-## potion.moveSlowdown.name=Зелье медлительности	#
-## potion.moveSlowdown.splash.name=Взрывное зелье медлительности	#
-## potion.moveSlowdown.linger.name=Оседающее зелье медлительности	#
-## potion.slowFalling=Замедленное падение	#
-## potion.slowFalling.name=Зелье замедленного падения	#
-## potion.slowFalling.splash.name=Взрывное зелье замедленного падения	#
-## potion.slowFalling.linger.name=Оседающее зелье замедленного падения	#
-## potion.moveSpeed=Скорость	#
-## potion.moveSpeed.name=Зелье ускорения	#
-## potion.moveSpeed.splash.name=Взрывное зелье ускорения	#
-## potion.moveSpeed.linger.name=Оседающее зелье ускорения	#
-## potion.nightVision=Ночное зрение	#
-## potion.nightVision.name=Зелье ночного зрения	#
-## potion.nightVision.splash.name=Взрывное зелье ночного зрения	#
-## potion.nightVision.linger.name=Оседающее зелье ночного зрения	#
-## potion.poison=Отравление	#
-## potion.poison.name=Зелье отравления	#
-## potion.poison.splash.name=Взрывное зелье отравления	#
-## potion.poison.linger.name=Оседающее зелье отравления	#
+potion.fireResistance.name=Снадобье огнестойкости	#
+potion.fireResistance.splash.name=Взрывное снадобье огнестойкости	#
+potion.fireResistance.linger.name=Туманное снадобье огнестойкости	#
+potion.harm=Моментальный вредъ	#
+potion.harm.name=Снадобье вреда	#
+potion.harm.splash.name=Взрывное снадобье вреда	#
+potion.harm.linger.name=Туманное снадобье урона	#
+potion.heal=Исцѣленіе	#
+potion.heal.name=Снадобье исцѣленія	#
+potion.heal.splash.name=Взрывное снадобье исцѣленія	#
+potion.heal.linger.name=Туманное снадобье исцѣленія	#
+potion.healthBoost=Приливъ здравія	#
+potion.hunger=Голодъ	#
+potion.invisibility=Незримость	#
+potion.invisibility.name=Снадобье незримости	#
+potion.invisibility.splash.name=Взрывное снадобье незримости	#
+potion.invisibility.linger.name=Туманное снадобье незримости	#
+potion.jump=Прыгучесть	#
+potion.jump.name=Снадобье прыгучести	#
+potion.jump.splash.name=Взрывное снадобье прыгучести	#
+potion.jump.linger.name=Туманное снадобье прыгучести	#
+potion.levitation=Легковѣсность	#
+potion.moveSlowdown=Медлительность	#
+potion.moveSlowdown.name=Снадобье медлительности	#
+potion.moveSlowdown.splash.name=Взрывное снадобье медлительности	#
+potion.moveSlowdown.linger.name=Туманное снадобье медлительности	#
+potion.slowFalling=Плавное паденіе	#
+potion.slowFalling.name=Снадобье плавнаго паденія	#
+potion.slowFalling.splash.name=Взрывное снадобье плавнаго паденія	#
+potion.slowFalling.linger.name=Туманное снадобье плавнаго паденія	#
+potion.moveSpeed=Рѣзвость	#
+potion.moveSpeed.name=Снадобье рѣзвости	#
+potion.moveSpeed.splash.name=Взрывное снадобье рѣзвости	#
+potion.moveSpeed.linger.name=Туманное снадобье рѣзвости	#
+potion.nightVision=Ночное зрѣніе	#
+potion.nightVision.name=Снадобье ночного зрѣнія	#
+potion.nightVision.splash.name=Взрывное снадобье ночного зрѣнія	#
+potion.nightVision.linger.name=Туманное снадобье ночного зрѣнія	#
+potion.poison=Отравленіе	#
+potion.poison.name=Снадобье отравленія	#
+potion.poison.splash.name=Взрывное снадобье отравленія	#
+potion.poison.linger.name=Туманное снадобье отравленія	#
 potion.potency.0=	#
 potion.potency.1=II	#
 potion.potency.2=III	#
 potion.potency.3=IV	#
 potion.potency.4=V	#
 potion.potency.5=VI	#
-## potion.awkward.name=Неловкое зелье	#
-## potion.awkward.splash.name=Взрывное неловкое зелье	#
-## potion.awkward.linger.name=Оседающее неловкое зелье	#
-## potion.mundane.name=Заурядное зелье	#
-## potion.mundane.splash.name=Взрывное заурядное зелье	#
-## potion.mundane.linger.name=Оседающее заурядное зелье	#
+potion.awkward.name=Мутное снадобье	#
+potion.awkward.splash.name=Мутное взрывное снадобье	#
+potion.awkward.linger.name=Мутное туманное снадобье	#
+potion.mundane.name=Заурядное снадобье	#
+potion.mundane.splash.name=Заурядное взрывное снадобье	#
+potion.mundane.linger.name=Заурядное туманное снадобье	#
 ## potion.mundane.extended.name=Сильное заурядное зелье	#
 ## potion.mundane.extended.splash.name=Взрывное сильное заурядное зелье	#
 ## potion.mundane.extended.linger.name=Оседающее сильное заурядное зелье	#
-## potion.thick.name=Густое зелье	#
-## potion.thick.splash.name=Взрывное густое зелье	#
-## potion.thick.linger.name=Оседающее густое зелье	#
-## potion.regeneration=Регенерация	#
-## potion.regeneration.name=Зелье регенерации	#
-## potion.regeneration.splash.name=Взрывное зелье регенерации	#
-## potion.regeneration.linger.name=Оседающее зелье регенерации	#
-## potion.resistance=Стойкость	#
-## potion.saturation=Насыщенность	#
-## potion.turtleMaster=Медлительность	#
-## potion.turtleMaster2=Стойкость	#
-## potion.turtleMaster.name=Зелье знатока черепах	#
-## potion.turtleMaster.splash.name=Взрывное зелье знатока черепах	#
-## potion.turtleMaster.linger.name=Оседающее зелье знатока черепах	#
-## potion.waterBreathing=Дыхание под водой	#
-## potion.waterBreathing.name=Зелье подводного дыхания	#
-## potion.waterBreathing.splash.name=Взрывное зелье подводного дыхания	#
-## potion.waterBreathing.linger.name=Оседающее зелье подводного дыхания	#
-## potion.weakness=Слабость	#
-## potion.weakness.name=Зелье слабости	#
-## potion.weakness.splash.name=Взрывное зелье слабости	#
-## potion.weakness.linger.name=Оседающее зелье слабости	#
-## potion.wither=Иссушение	#
+potion.thick.name=Густое снадобье	#
+potion.thick.splash.name=Густое взрывное снадобье	#
+potion.thick.linger.name=Густое туманное снадобье	#
+potion.regeneration=Возстановленіе	#
+potion.regeneration.name=Снадобье возстановленія	#
+potion.regeneration.splash.name=Взрывное снадобье возстановленія	#
+potion.regeneration.linger.name=Туманное снадобье возстановленія	#
+potion.resistance=Сопротивленіе	#
+potion.saturation=Насыщеніе	#
+potion.turtleMaster=Медлительность	#
+potion.turtleMaster2=Сопротивленіе	#
+potion.turtleMaster.name=Снадобье черепашьей мощи	#
+potion.turtleMaster.splash.name=Взрывное снадобье черепашьей мощи	#
+potion.turtleMaster.linger.name=Туманное снадобье черепашьей мощи	#
+potion.waterBreathing=Дыханіе въ водѣ	#
+potion.waterBreathing.name=Снадобье дыханія въ водѣ	#
+potion.waterBreathing.splash.name=Взрывное снадобье дыханія въ водѣ	#
+potion.waterBreathing.linger.name=Туманное снадобье дыханія въ водѣ	#
+potion.weakness=Слабость	#
+potion.weakness.name=Снадобье слабости	#
+potion.weakness.splash.name=Взрывное снадобье слабости	#
+potion.weakness.linger.name=Туманное снадобье слабости	#
+potion.wither=Изсушеніе	#
 ## potion.wither.name=Зелье разложения	#
 ## potion.wither.splash.name=Взрывное зелье разложения	#
 ## potion.wither.linger.name=Оседающее зелье разложения	#
@@ -6836,7 +6836,7 @@ selectWorld.newWorld=Новый міръ	#
 ## selectWorld.realmsBeta=Бета-версия Realms	#
 ## selectWorld.worldTags=%1$s – %2$s	#
 ## selectWorld.learnMore=Подробнее	#
-## selectWorld.recreate=Создать заново	#
+selectWorld.recreate=Пересоздать	#
 ## selectWorld.rename=Переименовать	#
 ## selectWorld.renameButton=Переименовать	#
 ## selectWorld.renameTitle=Переименование мира	#
@@ -6844,7 +6844,7 @@ selectWorld.resultFolder=Будетъ храниться здѣсь:	#
 selectWorld.seedInfo=Оставьте пустымъ для случайнаго значенія	#
 selectWorld.select=Играть въ сёмъ мірѣ	#
 ## selectWorld.tab.worlds=Миры	#
-## selectWorld.tab.realms=Realms	#
+selectWorld.tab.realms=Realms	#
 ## selectWorld.tab.friends=Друзья	#
 ## selectWorld.tab.classmates=Друзья	#
 ## selectWorld.tab.thirdParty=Серверы	#
@@ -6930,77 +6930,77 @@ soundCategory.record=Патефонъ/муз. блокъ	#
 soundCategory.weather=Погода	#
 soundCategory.texttospeech=Голосъ/Рѣчь	#
 
-## stat.animalsBred=Приручено животныхъ	#
-## stat.armorCleaned=Очищено частей брони	#
-## stat.bannerCleaned=Очищено знамен	#
-## stat.beaconInteraction=Число использований маяка	#
+stat.animalsBred=Приручено животныхъ	#
+stat.armorCleaned=Очищено брони	#
+stat.bannerCleaned=Очищено флаговъ	#
+stat.beaconInteraction=Взаимодѣйствій съ маякомъ	#
 ## stat.blocksButton=Блоки	#
-## stat.boatOneCm=Пройдено на лодке	#
-## stat.breakItem=Сломано: %1$s	#
-## stat.brewingstandInteraction=Число использований варочной стойки	#
-## stat.cakeSlicesEaten=Съедено кусочков торта	#
-## stat.cauldronFilled=Наполнено котлов	#
-## stat.cauldronUsed=Взято воды из котла	#
-## stat.chestOpened=Открыто сундуков	#
-## stat.climbOneCm=Дистанция подъема	#
-## stat.crafted=Создано раз	#
-## stat.craftItem=Создано: %1$s	#
+stat.boatOneCm=Преодолено на лодкѣ	#
+stat.breakItem=Сломано: %1$s	#
+stat.brewingstandInteraction=Взаимодѣйствій съ варочной стойкой	#
+stat.cakeSlicesEaten=Съѣдено кусковъ торта	#
+stat.cauldronFilled=Наполнено котловъ	#
+stat.cauldronUsed=Взято воды изъ котла	#
+stat.chestOpened=Открыто сундуковъ	#
+stat.climbOneCm=Преодолено взбираясь	#
+stat.crafted=Создано	#
+stat.craftItem=Создано: %1$s	#
 ## stat.createWorld=Созданные миры	#
-## stat.crouchOneCm=Пройдено расстояние в приседе	#
-## stat.damageDealt=Урона нанесено	#
-## stat.damageTaken=Урона получено	#
-## stat.deaths=Кол-во смертей	#
-## stat.depleted=Сломано раз	#
-## stat.dispenserInspected=Обыскано раздатчиков	#
-## stat.diveOneCm=Дистанция под водой	#
-## stat.drop=Предметов выброшено	#
-## stat.dropperInspected=Обыскано выбрасывателей	#
-## stat.enderchestOpened=Открыто сундуков Края	#
-## stat.entityKilledBy=%s убил(а) вас %d раз(а)	#
-## stat.entityKilledBy.none=Вас никогда не убивало существо «%s»	#
-## stat.entityKills=Вы убили %d %s	#
-## stat.entityKills.none=Вы никогда не убивали существо «%s»	#
-## stat.fallOneCm=Дистанция падения	#
-## stat.fishCaught=Выловлено рыбы	#
-## stat.flowerPotted=Посажено растений	#
-## stat.flyOneCm=Дистанция в полете	#
-## stat.furnaceInteraction=Число использований печи	#
-## stat.generalButton=Общее	#
-## stat.hopperInspected=Обыскано воронок	#
-## stat.horseOneCm=Проехано на лошади	#
-## stat.itemEnchanted=Зачаровано предметов	#
-## stat.itemsButton=Предметы	#
+stat.crouchOneCm=Преодолено крадучись	#
+stat.damageDealt=Нанесено урона	#
+stat.damageTaken=Получено урона	#
+stat.deaths=Число гибелей	#
+stat.depleted=Сломано разъ	#
+stat.dispenserInspected=Взаимодействій съ раздатчиками	#
+stat.diveOneCm=Преодолено пѣшкомъ по водѣ	#
+stat.drop=Выброшено вещей	#
+stat.dropperInspected=Взаимодействій съ выбрасывателемъ	#
+stat.enderchestOpened=Открыто эндеръ-ларцовъ	#
+stat.entityKilledBy=%s убилъ васъ %d разъ(а)	#
+stat.entityKilledBy.none=Васъ никогда не убивало существо %s	#
+stat.entityKills=Вы убили %d %s	#
+stat.entityKills.none=Вы никогда не убивали %s	#
+stat.fallOneCm=Преодолено въ паденіи	#
+stat.fishCaught=Поймано рыбы	#
+stat.flowerPotted=Высажено растеній въ горшки	#
+stat.flyOneCm=Преодолено въ полётѣ	#
+stat.furnaceInteraction=Взаимодѣйствій съ печью	#
+stat.generalButton=Основное	#
+stat.hopperInspected=Взаимодействій съ пріёмной воронкой	#
+stat.horseOneCm=Преодолено верхомъ на лошади	#
+stat.itemEnchanted=Зачаровано вещей	#
+stat.itemsButton=Вещи	#
 ## stat.joinMultiplayer=Игры по сети	#
-## stat.jump=Прыжки	#
-## stat.junkFished=Выловлено мусора	#
-## stat.leaveGame=Выходов из игры	#
+stat.jump=Прыжковъ	#
+stat.junkFished=Выловлено мусора	#
+stat.leaveGame=Выходовъ изъ игры	#
 ## stat.loadWorld=Сохранений загружено	#
-## stat.mineBlock=Добыто: %1$s	#
-## stat.minecartOneCm=Проехано на вагонетке	#
-## stat.mined=Добыто раз	#
-## stat.mobKills=Убито мобов	#
-## stat.mobsButton=Мобы	#
-## stat.noteblockPlayed=Сыграно музыкальных блоков	#
-## stat.noteblockTuned=Настроено музыкальных блоков	#
-## stat.pigOneCm=Проехано на свинье	#
+stat.mineBlock=Добыто: %1$s	#
+stat.minecartOneCm=Преодолено въ вагонеткѣ	#
+stat.mined=Добыто разъ	#
+stat.mobKills=Убито тварей	#
+stat.mobsButton=Твари	#
+stat.noteblockPlayed=Воспроизведено муз-хъ блоковъ	#
+stat.noteblockTuned=Настроено музыкальныхъ блоковъ	#
+stat.pigOneCm=Преодолено верхомъ на свиньѣ	#
 ## stat.playerKills=Убито игроков	#
 ## stat.playOneMinute=Минут в игре	#
-## stat.recordPlayed=Сыграно записей	#
-## stat.sprintOneCm=Расстояние, пройденное бегом	#
-## stat.startGame=Сыграно раз	#
-## stat.swimOneCm=Дистанция вплавь	#
-## stat.talkedToVillager=Число разговоров с деревенскими жителями	#
-## stat.timeSinceDeath=Со времени последней смерти	#
-## stat.tradedWithVillager=Число обменов с деревенскими жителями	#
-## stat.trappedChestTriggered=Активировано сундуков-ловушек	#
-## stat.treasureFished=Выловлено сокровищ	#
-## stat.used=Использовано раз	#
-## stat.useItem=Использовано: %1$s	#
-## stat.walkOneCm=Дистанция пешком	#
-## stat.workbenchInteraction=Число использований верстака	#
+stat.recordPlayed=Прослушано пластинокъ	#
+stat.sprintOneCm=Преодолено бѣгомъ	#
+stat.startGame=Сыграно разъ	#
+stat.swimOneCm=Преодолено вплавь	#
+stat.talkedToVillager=Бесѣдъ съ крестьянами	#
+stat.timeSinceDeath=Время послѣ послѣдней смерти	#
+stat.tradedWithVillager=Сдѣлокъ съ крестьянами	#
+stat.trappedChestTriggered=Активировано сундуковъ-ловушекъ	#
+stat.treasureFished=Выловлено сокровищъ	#
+stat.used=Использовано разъ	#
+stat.useItem=Использовано: %1$s	#
+stat.walkOneCm=Преодолено въ пути	#
+stat.workbenchInteraction=Взаимодѣйствій съ верстакомъ	#
 
-## stats.tooltip.type.achievement=Достижение	#
-## stats.tooltip.type.statistic=Статистика	#
+stats.tooltip.type.achievement=Достиженіе	#
+stats.tooltip.type.statistic=Статистика	#
 
 ## start.beta.icon=Бета-версия	#
 
@@ -7557,7 +7557,7 @@ tile.beetroot.name=Свёкла	#
 tile.big_dripleaf.name=Большая бросянка	#
 tile.small_dripleaf_block.name=Маленькая бросянка	#
 tile.hanging_roots.name=Свисающіе корни	#
-## tile.dirt_with_roots.name=Земля с корнями	#
+tile.dirt_with_roots.name=Корнистая земля	#
 tile.spore_blossom.name=Спороцвѣтъ	#
 tile.azalea_leaves.name=Листья азаліи	#
 tile.azalea_leaves_flowered.name=Листья цвѣтущей азаліи	#
@@ -7801,656 +7801,656 @@ tile.doorWood.name=Дубовая дверь	#
 tile.double_plant.fern.name=Раскидистый папоротникъ	#
 tile.double_plant.grass.name=Высокая трава	#
 ## tile.double_plant.name=Растение	#
-## tile.double_plant.paeonia.name=Пион	#
-## tile.double_plant.rose.name=Розовый куст	#
-## tile.double_plant.sunflower.name=Подсолнух	#
-## tile.double_plant.syringa.name=Сирень	#
-## tile.dragon_egg.name=Яйцо дракона	#
-## tile.dropper.name=Выбрасыватель	#
-## tile.enchanting_table.name=Стол зачарований	#
-## tile.enderChest.name=Сундук Края	#
-## tile.end_portal_frame.name=Портал Края	#
-## tile.farmland.name=Ферма	#
-## tile.fletching_table.name=Стол лучника	#
-## tile.fence.name=Забор из дуба	#
-## tile.fence_gate.name=Ворота из дуба	#
-## tile.iron_bars.name=Железная решетка	#
-## tile.fire.name=Огонь	#
-## tile.yellow_flower.dandelion.name=Одуванчик	#
-## tile.yellow_flower.name=Цветок	#
-## tile.crimson_roots.crimsonRoots.name=Багровые корни	#
-## tile.warped_roots.warpedRoots.name=Искаженные корни	#
-## tile.red_flower.allium.name=Лук	#
-## tile.red_flower.blueOrchid.name=Синяя орхидея	#
-## tile.red_flower.cornflower.name=Василек	#
-## tile.red_flower.houstonia.name=Голубой василек	#
-## tile.red_flower.name=Цветок	#
-## tile.red_flower.lilyOfTheValley.name=Ландыш	#
-## tile.red_flower.oxeyeDaisy.name=Ромашка	#
-## tile.red_flower.poppy.name=Мак	#
-## tile.red_flower.tulipOrange.name=Оранжевый тюльпан	#
-## tile.red_flower.tulipPink.name=Розовый тюльпан	#
-## tile.red_flower.tulipRed.name=Красный тюльпан	#
-## tile.red_flower.tulipWhite.name=Белый тюльпан	#
-## tile.wither_rose.name=Роза Иссушителя	#
-## tile.furnace.name=Печка	#
-## tile.glass.name=Стекло	#
-## tile.golden_rail.name=Электрические рельсы	#
-## tile.grass.name=Блок травы	#
-## tile.grass_path.name=Грунтовая тропинка	#
-## tile.gravel.name=Гравий	#
-## tile.hay_block.name=Сноп сена	#
-## tile.netherrack.name=Камень Нижнего мира	#
-## tile.soul_sand.name=Песок душ	#
-## tile.hopper.name=Воронка	#
-## tile.ice.name=Лед	#
-## tile.packed_ice.name=Плотный лед	#
-## tile.blue_ice.name=Синий лед	#
-## tile.frosted_ice.name=Морозный лед	#
-## tile.iron_trapdoor.name=Железный люк	#
-## tile.jukebox.name=Проигрыватель	#
-## tile.jungleFence.name=Забор из тропического дерева	#
-## tile.jungle_fence_gate.name=Ворота из тропического дерева	#
-## tile.ladder.name=Лестница	#
-## tile.flowing_lava.name=Лава	#
-## tile.leaves.acacia.name=Листва акации	#
-## tile.leaves2.acacia.name=Листва акации	#
-## tile.leaves.big_oak.name=Листва темного дуба	#
-## tile.leaves2.big_oak.name=Листва темного дуба	#
-## tile.leaves.birch.name=Листва березы	#
-## tile.leaves.jungle.name=Листва тропического дерева	#
-## tile.leaves.name=Листва	#
-## tile.leaves.oak.name=Листва дуба	#
-## tile.leaves.spruce.name=Хвоя	#
-## tile.lever.name=Рычаг	#
-## tile.glowstone.name=Светящийся камень	#
-## tile.glow_lichen.name=Светящийся лишайник	#
-## tile.lightning_rod.name=Громоотвод	#
-## tile.lit_pumpkin.name=Светильник Джека	#
+tile.double_plant.paeonia.name=Пiонъ	#
+tile.double_plant.rose.name=Кустъ розъ	#
+tile.double_plant.sunflower.name=Подсолнухъ	#
+tile.double_plant.syringa.name=Сирень	#
+tile.dragon_egg.name=Яйцо змѣя	#
+tile.dropper.name=Выбрасыватель	#
+tile.enchanting_table.name=Чародѣйскій алтарь	#
+tile.enderChest.name=Эндеръ-ларецъ	#
+tile.end_portal_frame.name=Рамка вратъ въ Эндъ	#
+tile.farmland.name=Пашня	#
+tile.fletching_table.name=Столъ лучника	#
+tile.fence.name=Дубовый заборъ	#
+tile.fence_gate.name=Дубовая калитка	#
+tile.iron_bars.name=Желѣзная рѣшётка	#
+tile.fire.name=Пламя	#
+tile.yellow_flower.dandelion.name=Одуванчикъ	#
+tile.yellow_flower.name=Цвѣтокъ	#
+tile.crimson_roots.crimsonRoots.name=Багровые корни	#
+tile.warped_roots.warpedRoots.name=Искажённые корни	#
+tile.red_flower.allium.name=Лукъ-батунъ	#
+tile.red_flower.blueOrchid.name=Лазурная орхидея	#
+tile.red_flower.cornflower.name=Синій василёкъ	#
+tile.red_flower.houstonia.name=Голубой василёкъ	#
+tile.red_flower.name=Цвѣтокъ	#
+tile.red_flower.lilyOfTheValley.name=Ландышъ	#
+tile.red_flower.oxeyeDaisy.name=Ромашка	#
+tile.red_flower.poppy.name=Макъ	#
+tile.red_flower.tulipOrange.name=Оранжевый тюльпанъ	#
+tile.red_flower.tulipPink.name=Розовый тюльпанъ	#
+tile.red_flower.tulipRed.name=Червонный тюльпанъ	#
+tile.red_flower.tulipWhite.name=Бѣлый тюльпанъ	#
+tile.wither_rose.name=Роза визера	#
+tile.furnace.name=Печь	#
+tile.glass.name=Стекло	#
+tile.golden_rail.name=Запитанные рельсы	#
+tile.grass.name=Дернина	#
+tile.grass_path.name=Тропинка	#
+tile.gravel.name=Гравій	#
+tile.hay_block.name=Снопъ сѣна	#
+tile.netherrack.name=Нѣдракъ	#
+tile.soul_sand.name=Песокъ душъ	#
+tile.hopper.name=Пріёмная воронка	#
+tile.ice.name=Лёдъ	#
+tile.packed_ice.name=Плотный лёдъ	#
+tile.blue_ice.name=Синій лёдъ	#
+tile.frosted_ice.name=Талый лёдъ	#
+tile.iron_trapdoor.name=Желѣзный люкъ	#
+tile.jukebox.name=Патефонъ	#
+tile.jungleFence.name=Заборъ изъ тропическаго дерева	#
+tile.jungle_fence_gate.name=Калитка изъ тропическаго дерева	#
+tile.ladder.name=Лѣстница	#
+tile.flowing_lava.name=Лава	#
+tile.leaves.acacia.name=Листья акаціи	#
+tile.leaves2.acacia.name=Листья акаціи	#
+tile.leaves.big_oak.name=Листья тёмнаго дуба	#
+tile.leaves2.big_oak.name=Листья тёмнаго дуба	#
+tile.leaves.birch.name=Берёзовые листья	#
+tile.leaves.jungle.name=Листья тропическаго дерева	#
+tile.leaves.name=Листья	#
+tile.leaves.oak.name=Дубовые листья	#
+tile.leaves.spruce.name=Хвоя	#
+tile.lever.name=Рычагъ	#
+tile.glowstone.name=Свѣтокамень	#
+tile.glow_lichen.name=Свѣтящійся лишайникъ	#
+tile.lightning_rod.name=Громоотводъ	#
+tile.lit_pumpkin.name=Свѣтильникъ Джека	#
 ## tile.lockedchest.name=Запертый сундук	#
-## tile.log.acacia.name=Акациевое бревно	#
-## tile.log.big_oak.name=Бревно темного дуба	#
-## tile.log.birch.name=Березовое бревно	#
-## tile.log.jungle.name=Бревно тропического дерева	#
-## tile.log.name=Бревно	#
-## tile.log.oak.name=Дубовое бревно	#
-## tile.log.spruce.name=Сосновое бревно	#
-## tile.magma.name=Блок магмы	#
-## tile.melon_block.name=Арбуз	#
-## tile.mob_spawner.name=Спаунер монстров	#
-## tile.monster_egg.brick.name=Зараженный каменный кирпич	#
-## tile.monster_egg.chiseledbrick.name=Зараженный резной каменный кирпич	#
-## tile.monster_egg.cobble.name=Зараженный булыжник	#
-## tile.monster_egg.crackedbrick.name=Зараженный потрескавшийся каменный кирпич	#
-## tile.monster_egg.mossybrick.name=Зараженный замшелый каменный кирпич	#
-## tile.monster_egg.name=Зараженный камень	#
-## tile.monster_egg.stone.name=Зараженный камень	#
-## tile.mushroom.name=Гриб	#
-## tile.noteblock.name=Музыкальный блок	#
-## tile.mycelium.name=Мицелий	#
-## tile.nether_brick.name=Блок кирпича Нижнего мира	#
-## tile.red_nether_brick.name=Красный кирпич Нижнего мира	#
-## tile.nether_brick_fence.name=Забор из кирпичей Нижнего мира	#
-## tile.quartz_ore.name=Кварцевая руда Нижнего мира	#
+tile.log.acacia.name=Бревно акаціи	#
+tile.log.big_oak.name=Бревно тёмнаго дуба	#
+tile.log.birch.name=Берёзовое бревно	#
+tile.log.jungle.name=Бревно тропическаго дерева	#
+tile.log.name=Бревно	#
+tile.log.oak.name=Дубовое бревно	#
+tile.log.spruce.name=Еловое бревно	#
+tile.magma.name=Магма	#
+tile.melon_block.name=Арбузъ	#
+tile.mob_spawner.name=Разсадникъ	#
+tile.monster_egg.brick.name=Заражённые каменные кирпичи	#
+tile.monster_egg.chiseledbrick.name=Заражённые рѣзные каменные кирпичи	#
+tile.monster_egg.cobble.name=Заражённый булыжникъ	#
+tile.monster_egg.crackedbrick.name=Заражённые потрескавшіеся каменные кирпичи	#
+tile.monster_egg.mossybrick.name=Заражённые мшистые каменные кирпичи	#
+tile.monster_egg.name=Заражённый камень	#
+tile.monster_egg.stone.name=Заражённый камень	#
+tile.mushroom.name=Грибъ	#
+tile.noteblock.name=Музыкальный блокъ	#
+tile.mycelium.name=Мицелій	#
+tile.nether_brick.name=Нѣдрскіе кирпичи	#
+tile.red_nether_brick.name=Червонный нѣдрскій кирпичъ	#
+tile.nether_brick_fence.name=Нѣдрскій заборъ	#
+tile.quartz_ore.name=Нѣдръ-кварцевая руда	#
 ## tile.netherreactor.active=Действует!	#
 ## tile.netherreactor.builtTooHigh=Реактор Нижнего мира необходимо построить ниже.	#
 ## tile.netherreactor.builtTooLow=Реактор Нижнего мира необходимо построить выше.	#
 ## tile.netherreactor.name=Ядро реактора Нижнего мира	#
 ## tile.netherreactor.playersTooFar=Все игроки должны находиться вблизи реактора.	#
 ## tile.netherreactor.wrongPattern=Неправильный шаблон!	#
-## tile.nether_wart.name=Нарост Нижнего мира	#
-## tile.nether_wart_block.name=Блок нароста Нижнего мира	#
-## tile.warped_wart_block.name=Блок искаженного нароста	#
-## tile.unlit_redstone_torch.name=Факел из красного камня	#
-## tile.redstone_torch.name=Факел из красного камня	#
-## tile.soul_torch.name=Факел с огнем душ	#
-## tile.obsidian.name=Обсидиан	#
-## tile.coal_ore.name=Угольная руда	#
-## tile.diamond_ore.name=Алмазная руда	#
-## tile.emerald_ore.name=Изумрудная руда	#
-## tile.gold_ore.name=Золотая руда	#
-## tile.iron_ore.name=Железная руда	#
-## tile.copper_ore.name=Медная руда	#
-## tile.lapis_ore.name=Лазуритовая руда	#
-## tile.redstone_ore.name=Руда красного камня	#
+tile.nether_wart.name=Нѣдрскій наростъ	#
+tile.nether_wart_block.name=Блокъ нѣдрскаго нароста	#
+tile.warped_wart_block.name=Блокъ искажённаго нароста	#
+tile.unlit_redstone_torch.name=Редстоуновый факелъ	#
+tile.redstone_torch.name=Редстоуновый факелъ	#
+tile.soul_torch.name=Факелъ душъ	#
+tile.obsidian.name=Обсидіанъ	#
+tile.coal_ore.name=Угольная руда	#
+tile.diamond_ore.name=Діамантовая руда	#
+tile.emerald_ore.name=Смарагдовая руда	#
+tile.gold_ore.name=Золотая руда	#
+tile.iron_ore.name=Желѣзная руда	#
+tile.copper_ore.name=Мѣдная руда	#
+tile.lapis_ore.name=Лазуриковая руда	#
+tile.redstone_ore.name=Редстоуновая руда	#
 ## tile.oreRuby.name=Рубиновая руда	#
-## tile.observer.name=Наблюдатель	#
-## tile.piston.name=Поршень	#
-## tile.sticky_piston.name=Липкий поршень	#
-## tile.portal.name=Портал	#
-## tile.potatoes.name=Картофель	#
-## tile.stone_pressure_plate.name=Каменная нажимная пластина	#
-## tile.wooden_pressure_plate.name=Нажимная пластина из дуба	#
-## tile.acacia_pressure_plate.name=Нажимная пластина из акации	#
-## tile.birch_pressure_plate.name=Нажимная пластина из березы	#
-## tile.dark_oak_pressure_plate.name=Нажимная пластина из темного дуба	#
-## tile.jungle_pressure_plate.name=Нажимная пластина из тропического дерева	#
-## tile.spruce_pressure_plate.name=Нажимная пластина из сосны	#
-## tile.prismarine.bricks.name=Призмариновые кирпичи	#
-## tile.prismarine.dark.name=Темный призмарин	#
-## tile.prismarine.rough.name=Призмарин	#
-## tile.pumpkin.name=Тыква	#
-## tile.pumpkin_stem.name=Стебель тыквы	#
-## tile.quartz_block.chiseled.name=Резной кварцевый блок	#
-## tile.quartz_block.default.name=Кварцевый блок	#
-## tile.quartz_block.lines.name=Кварцевая колонна	#
-## tile.quartz_block.smooth.name=Гладкий кварцевый блок	#
-## tile.quartz_block.name=Кварцевый блок	#
-## tile.rail.name=Рельсы	#
-## tile.red_mushroom.name=Красный гриб	#
-## tile.crimson_fungus.name=Багровый грибок	#
-## tile.warped_fungus.name=Искаженный грибок	#
-## tile.red_mushroom_block.name=Блок красного гриба	#
-## tile.red_sandstone.chiseled.name=Резной красный песчаник	#
-## tile.red_sandstone.default.name=Красный песчаник	#
-## tile.red_sandstone.name=Красный песчаник	#
-## tile.red_sandstone.smooth.name=Гладкий красный песчаник	#
-## tile.red_sandstone.cut.name=Тесаный красный песчаник	#
-## tile.redstone_wire.name=Пыль красного камня	#
-## tile.redstone_lamp.name=Лампа из красного камня	#
-## tile.reeds.name=Сахарный тростник	#
-## tile.sand.default.name=Песок	#
-## tile.sand.name=Песок	#
-## tile.sand.red.name=Красный песок	#
-## tile.sandstone.chiseled.name=Обработанный песчаник	#
-## tile.sandstone.default.name=Песчаник	#
-## tile.sandstone.name=Песчаник	#
-## tile.sandstone.smooth.name=Гладкий песчаник	#
-## tile.sandstone.cut.name=Тесаный песчаник	#
-## tile.sapling.acacia.name=Саженец акации	#
-## tile.sapling.big_oak.name=Саженец темного дуба	#
-## tile.sapling.birch.name=Саженец березы	#
-## tile.sapling.jungle.name=Саженец тропического дерева	#
-## tile.sapling.oak.name=Саженец дуба	#
-## tile.sapling.spruce.name=Саженец сосны	#
-## tile.seaLantern.name=Морской фонарь	#
-## tile.standing_sign.name=Табличка	#
-## tile.spruce_standing_sign.name=Табличка из сосны	#
-## tile.birch_standing_sign.name=Табличка из березы	#
-## tile.jungle_standing_sign.name=Табличка из тропического дерева	#
-## tile.acacia_standing_sign.name=Табличка из акации	#
-## tile.darkoak_standing_sign.name=Табличка из темного дуба	#
-## tile.slime.name=Блок слизи	#
-## tile.snow.name=Снег	#
-## tile.sponge.dry.name=Губка	#
-## tile.sponge.wet.name=Мокрая губка	#
-## tile.spruceFence.name=Забор из сосны	#
-## tile.spruce_fence_gate.name=Ворота из сосны	#
-## tile.brick_stairs.name=Кирпичные ступени	#
-## tile.nether_brick_stairs.name=Ступени из кирпичей Нижнего мира	#
-## tile.quartz_stairs.name=Кварцевые ступени	#
-## tile.smooth_quartz_stairs.name=Ступени из гладкого кварца	#
-## tile.red_sandstone_stairs.name=Ступени из красного песчаника	#
-## tile.sandstone_stairs.name=Ступени из песчаника	#
-## tile.stone_stairs.name=Ступени из булыжника	#
-## tile.normal_stone_stairs.name=Ступени из камня	#
-## tile.stone_brick_stairs.name=Ступени из каменных кирпичей	#
-## tile.oak_stairs.name=Ступени из древесины дуба	#
-## tile.acacia_stairs.name=Ступени из древесины акации	#
-## tile.birch_stairs.name=Ступени из древесины березы	#
-## tile.dark_oak_stairs.name=Ступени из древесины темного дуба	#
-## tile.jungle_stairs.name=Ступени из древесины тропического дерева	#
-## tile.spruce_stairs.name=Ступени из древесины сосны	#
-## tile.purpur_stairs.name=Пурпурные ступени	#
-## tile.prismarine_stairs.name=Призмариновые ступени	#
-## tile.dark_prismarine_stairs.name=Ступени из темного призмарина	#
-## tile.prismarine_bricks_stairs.name=Ступени из призмариновых кирпичей	#
-## tile.granite_stairs.name=Ступени из гранита	#
-## tile.diorite_stairs.name=Ступени из диорита	#
-## tile.andesite_stairs.name=Ступени из андезита	#
-## tile.polished_granite_stairs.name=Ступени из полированного гранита	#
-## tile.polished_diorite_stairs.name=Ступени из полированного диорита	#
-## tile.polished_andesite_stairs.name=Ступени из полированного андезита	#
-## tile.mossy_stone_brick_stairs.name=Ступени из замшелого каменного кирпича	#
-## tile.smooth_red_sandstone_stairs.name=Ступени из гладкого красного песчаника	#
-## tile.smooth_sandstone_stairs.name=Ступени из гладкого песчаника	#
-## tile.end_brick_stairs.name=Ступени из каменного кирпича Края	#
-## tile.mossy_cobblestone_stairs.name=Ступени из замшелого булыжника	#
-## tile.red_nether_brick_stairs.name=Ступени из красного кирпича Нижнего мира	#
-## tile.smooth_stone.name=Гладкий камень	#
-## tile.standing_banner.black.name=Черное знамя	#
-## tile.standing_banner.blue.name=Синее знамя	#
-## tile.standing_banner.brown.name=Коричневое знамя	#
-## tile.standing_banner.cyan.name=Бирюзовое знамя	#
-## tile.standing_banner.gray.name=Серое знамя	#
-## tile.standing_banner.green.name=Зеленое знамя	#
-## tile.standing_banner.lightBlue.name=Голубое знамя	#
-## tile.standing_banner.lime.name=Лаймовое знамя	#
-## tile.standing_banner.magenta.name=Пурпурное знамя	#
-## tile.standing_banner.name=Знамя	#
-## tile.standing_banner.orange.name=Оранжевое знамя	#
-## tile.standing_banner.pink.name=Розовое знамя	#
-## tile.standing_banner.purple.name=Фиолетовое знамя	#
-## tile.standing_banner.red.name=Красное знамя	#
-## tile.standing_banner.silver.name=Светло-серое знамя	#
-## tile.standing_banner.white.name=Знамя	#
-## tile.standing_banner.yellow.name=Желтое знамя	#
-## tile.stone.andesite.name=Андезит	#
-## tile.stone.andesiteSmooth.name=Полированный андезит	#
-## tile.stone.diorite.name=Диорит	#
-## tile.stone.dioriteSmooth.name=Полированный диорит	#
-## tile.stone.granite.name=Гранит	#
-## tile.stone.graniteSmooth.name=Полированный гранит	#
-## tile.stone.stone.name=Камень	#
-## tile.cobblestone.name=Булыжник	#
-## tile.stonebrick.chiseled.name=Резные каменные кирпичи	#
-## tile.stonebrick.cracked.name=Потрескавшиеся каменные кирпичи	#
-## tile.stonebrick.default.name=Каменные кирпичи	#
-## tile.stonebrick.mossy.name=Замшелые каменные кирпичи	#
-## tile.stonebrick.name=Каменные кирпичи	#
+tile.observer.name=Смотритель	#
+tile.piston.name=Поршень	#
+tile.sticky_piston.name=Липкій поршень	#
+tile.portal.name=Врата въ Нѣдръ	#
+tile.potatoes.name=Картофель	#
+tile.stone_pressure_plate.name=Каменная нажимная плита	#
+tile.wooden_pressure_plate.name=Дубовая нажимная плита	#
+tile.acacia_pressure_plate.name=Акаціевая нажимная плита	#
+tile.birch_pressure_plate.name=Берёзовая нажимная плита	#
+tile.dark_oak_pressure_plate.name=Нажимная плита изъ тёмнаго дуба	#
+tile.jungle_pressure_plate.name=Нажимная плита изъ тропическаго дерева	#
+tile.spruce_pressure_plate.name=Еловая нажимная плита	#
+tile.prismarine.bricks.name=Призмариновые кирпичи	#
+tile.prismarine.dark.name=Тёмный призмаринъ	#
+tile.prismarine.rough.name=Призмаринъ	#
+tile.pumpkin.name=Тыква	#
+tile.pumpkin_stem.name=Стебель тыквы	#
+tile.quartz_block.chiseled.name=Рѣзной кварцевый блокъ	#
+tile.quartz_block.default.name=Кварцевый блокъ	#
+tile.quartz_block.lines.name=Кварцевая колонна	#
+tile.quartz_block.smooth.name=Гладкій нѣдрскій кварцъ	#
+tile.quartz_block.name=Кварцевый блокъ	#
+tile.rail.name=Рельсы	#
+tile.red_mushroom.name=Мухоморъ	#
+tile.crimson_fungus.name=Багровый грибъ	#
+tile.warped_fungus.name=Искажённый грибъ	#
+tile.red_mushroom_block.name=Блокъ мухомора	#
+tile.red_sandstone.chiseled.name=Рѣзной червонный песчаникъ	#
+tile.red_sandstone.default.name=Червонный песчаникъ	#
+tile.red_sandstone.name=Червонный песчаникъ	#
+tile.red_sandstone.smooth.name=Гладкій червонный песчаникъ	#
+tile.red_sandstone.cut.name=Рѣзной червонный песчаникъ	#
+tile.redstone_wire.name=Редстоуновый проводъ	#
+tile.redstone_lamp.name=Редстоуновый фонарь	#
+tile.reeds.name=Сахарный тростникъ	#
+tile.sand.default.name=Песокъ	#
+tile.sand.name=Песокъ	#
+tile.sand.red.name=Червонный песокъ	#
+tile.sandstone.chiseled.name=Декоративный песчаникъ	#
+tile.sandstone.default.name=Песчаникъ	#
+tile.sandstone.name=Песчаникъ	#
+tile.sandstone.smooth.name=Гладкій песчаникъ	#
+tile.sandstone.cut.name=Рѣзной песчаникъ	#
+tile.sapling.acacia.name=Саженецъ акаціи	#
+tile.sapling.big_oak.name=Саженецъ тёмнаго дуба	#
+tile.sapling.birch.name=Саженецъ берёзы	#
+tile.sapling.jungle.name=Саженецъ тропическаго дерева	#
+tile.sapling.oak.name=Саженецъ дуба	#
+tile.sapling.spruce.name=Саженецъ ели	#
+tile.seaLantern.name=Морской фонарь	#
+tile.standing_sign.name=Табличка	#
+tile.spruce_standing_sign.name=Еловая табличка	#
+tile.birch_standing_sign.name=Берёзовая табличка	#
+tile.jungle_standing_sign.name=Табличка изъ тропическаго дерева	#
+tile.acacia_standing_sign.name=Акаціевая табличка	#
+tile.darkoak_standing_sign.name=Табличка изъ тёмнаго дуба	#
+tile.slime.name=Блокъ слизи	#
+tile.snow.name=Блокъ снѣга	#
+tile.sponge.dry.name=Губка	#
+tile.sponge.wet.name=Мокрая губка	#
+tile.spruceFence.name=Еловый заборъ	#
+tile.spruce_fence_gate.name=Еловая калитка	#
+tile.brick_stairs.name=Кирпичныя ступеньки	#
+tile.nether_brick_stairs.name=Нѣдрскіе ступеньки	#
+tile.quartz_stairs.name=Кварцевыя ступеньки	#
+tile.smooth_quartz_stairs.name=Ступеньки изъ гладкаго кварца	#
+tile.red_sandstone_stairs.name=Ступеньки изъ червоннаго песчаника	#
+tile.sandstone_stairs.name=Песчаниковыя ступеньки	#
+tile.stone_stairs.name=Булыжныя ступеньки	#
+tile.normal_stone_stairs.name=Каменныя ступеньки	#
+tile.stone_brick_stairs.name=Ступеньки изъ каменнаго кирпича	#
+tile.oak_stairs.name=Дубовыя ступеньки	#
+tile.acacia_stairs.name=Акаціевыя ступеньки	#
+tile.birch_stairs.name=Берёзовыя ступеньки	#
+tile.dark_oak_stairs.name=Ступеньки изъ тёмнаго дуба	#
+tile.jungle_stairs.name=Ступеньки изъ тропическаго дерева	#
+tile.spruce_stairs.name=Еловыя ступеньки	#
+tile.purpur_stairs.name=Пурпуровыя ступеньки	#
+tile.prismarine_stairs.name=Призмариновыя ступеньки	#
+tile.dark_prismarine_stairs.name=Ступеньки изъ тёмнаго призмарина	#
+tile.prismarine_bricks_stairs.name=Ступеньки изъ призмариновыхъ кирпичей	#
+tile.granite_stairs.name=Гранитныя ступеньки	#
+tile.diorite_stairs.name=Діоритовыя ступеньки	#
+tile.andesite_stairs.name=Андезитовыя ступеньки	#
+tile.polished_granite_stairs.name=Ступеньки изъ полированнаго гранита	#
+tile.polished_diorite_stairs.name=Ступеньки изъ полированнаго діорита	#
+tile.polished_andesite_stairs.name=Ступеньки изъ полированнаго андезита	#
+tile.mossy_stone_brick_stairs.name=Ступеньки изъ мшистаго каменнаго кирпича	#
+tile.smooth_red_sandstone_stairs.name=Ступеньки изъ гладкаго червоннаго песчаника	#
+tile.smooth_sandstone_stairs.name=Ступеньки изъ гладкаго песчаника	#
+tile.end_brick_stairs.name=Ступеньки изъ эндерняковаго кирпича	#
+tile.mossy_cobblestone_stairs.name=Ступеньки изъ мшистаго булыжника	#
+tile.red_nether_brick_stairs.name=Ступеньки изъ червоннаго нѣдрскаго кирпича	#
+tile.smooth_stone.name=Гладкій камень	#
+tile.standing_banner.black.name=Чёрный флагъ	#
+tile.standing_banner.blue.name=Лазурный флагъ	#
+tile.standing_banner.brown.name=Коричневый флагъ	#
+tile.standing_banner.cyan.name=Бирюзовый флагъ	#
+tile.standing_banner.gray.name=Сѣрый флагъ	#
+tile.standing_banner.green.name=Зелёный флагъ	#
+tile.standing_banner.lightBlue.name=Голубой флагъ	#
+tile.standing_banner.lime.name=Яркозелёный флагъ	#
+tile.standing_banner.magenta.name=Пурпурный флагъ	#
+tile.standing_banner.name=Флагъ	#
+tile.standing_banner.orange.name=Оранжевый флагъ	#
+tile.standing_banner.pink.name=Розовый флагъ	#
+tile.standing_banner.purple.name=Фіолетовый флагъ	#
+tile.standing_banner.red.name=Червонный флагъ	#
+tile.standing_banner.silver.name=Свѣтлосѣрый флагъ	#
+tile.standing_banner.white.name=Бѣлый флагъ	#
+tile.standing_banner.yellow.name=Жёлтый флагъ	#
+tile.stone.andesite.name=Андезитъ	#
+tile.stone.andesiteSmooth.name=Полированный андезитъ	#
+tile.stone.diorite.name=Діоритъ	#
+tile.stone.dioriteSmooth.name=Полированный діоритъ	#
+tile.stone.granite.name=Гранитъ	#
+tile.stone.graniteSmooth.name=Полированный гранитъ	#
+tile.stone.stone.name=Камень	#
+tile.cobblestone.name=Булыжникъ	#
+tile.stonebrick.chiseled.name=Рѣзные каменные кирпичи	#
+tile.stonebrick.cracked.name=Потрескавшіеся каменные кирпичи	#
+tile.stonebrick.default.name=Каменные кирпичи	#
+tile.stonebrick.mossy.name=Мшистые каменные кирпичи	#
+tile.stonebrick.name=Каменные кирпичи	#
 ## tile.stonebrick.smooth.name=Гладкие каменные кирпичи	#
-## tile.stonecutter.name=Камнетес	#
-## tile.stonecutter_block.name=Камнетес	#
-## tile.mossy_cobblestone.name=Замшелый булыжник	#
-## tile.double_stone_slab.brick.name=Кирпичная плита	#
-## tile.double_stone_slab.cobble.name=Плита из булыжника	#
-## tile.double_stone_slab.name=Каменная плита	#
-## tile.double_stone_slab.nether_brick.name=Плита из кирпичей Нижнего мира	#
-## tile.double_stone_slab.quartz.name=Кварцевая плита	#
-## tile.double_stone_slab.sand.name=Плита из песчаника	#
-## tile.double_stone_slab.smoothStoneBrick.name=Плита из каменных кирпичей	#
-## tile.double_stone_slab.stone.name=Каменная плита	#
+tile.stonecutter.name=Камнерѣзъ	#
+tile.stonecutter_block.name=Камнерѣзъ	#
+tile.mossy_cobblestone.name=Мшистый булыжникъ	#
+tile.double_stone_slab.brick.name=Кирпичная плита	#
+tile.double_stone_slab.cobble.name=Булыжная плита	#
+tile.double_stone_slab.name=Каменная плита	#
+tile.double_stone_slab.nether_brick.name=Нѣдрская плита	#
+tile.double_stone_slab.quartz.name=Кварцевая плита	#
+tile.double_stone_slab.sand.name=Песчаниковая плита	#
+tile.double_stone_slab.smoothStoneBrick.name=Плита изъ каменнаго кирпича	#
+tile.double_stone_slab.stone.name=Каменная плита	#
 ## tile.double_stone_slab.wood.name=Деревянная плита	#
-## tile.stone_slab.name=Каменная плита	#
-## tile.stone_slab.brick.name=Кирпичная плита	#
-## tile.stone_slab.cobble.name=Плита из булыжника	#
-## tile.stone_slab.stone.name=Плита из гладкого камня	#
-## tile.stone_slab.nether_brick.name=Плита из кирпичей Нижнего мира	#
-## tile.stone_slab.quartz.name=Кварцевая плита	#
-## tile.stone_slab.sand.name=Плита из песчаника	#
-## tile.stone_slab.smoothStoneBrick.name=Плита из каменных кирпичей	#
+tile.stone_slab.name=Каменная плита	#
+tile.stone_slab.brick.name=Кирпичная плита	#
+tile.stone_slab.cobble.name=Булыжная плита	#
+tile.stone_slab.stone.name=Каменная плита	#
+tile.stone_slab.nether_brick.name=Нѣдрская плита	#
+tile.stone_slab.quartz.name=Кварцевая плита	#
+tile.stone_slab.sand.name=Песчаниковая плита	#
+tile.stone_slab.smoothStoneBrick.name=Плита изъ каменнаго кирпича	#
 ## tile.stone_slab.wood.name=Деревянная плита	#
-## tile.double_stone_slab2.red_sandstone.name=Плита из красного песчаника	#
-## tile.stone_slab2.red_sandstone.name=Плита из красного песчаника	#
-## tile.stone_slab2.purpur.name=Пурпурная плита	#
-## tile.stone_slab2.prismarine.rough.name=Призмариновая плита	#
-## tile.stone_slab2.prismarine.dark.name=Плита из темного призмарина	#
-## tile.stone_slab2.prismarine.bricks.name=Плита из призмариновых кирпичей	#
-## tile.stone_slab2.mossy_cobblestone.name=Плита из замшелого булыжника	#
-## tile.stone_slab2.red_nether_brick.name=Плита из красного кирпича Нижнего мира	#
-## tile.stone_slab2.sandstone.smooth.name=Плита из гладкого песчаника	#
-## tile.stone_slab3.end_brick.name=Плита из каменного кирпича Края	#
-## tile.stone_slab3.red_sandstone.smooth.name=Плита из гладкого красного песчаника	#
-## tile.stone_slab3.andesite.smooth.name=Плита из полированного андезита	#
-## tile.stone_slab3.andesite.name=Плита из андезита	#
-## tile.stone_slab3.diorite.name=Плита из диорита	#
-## tile.stone_slab3.diorite.smooth.name=Плита из полированного диорита	#
-## tile.stone_slab3.granite.name=Плита из гранита	#
-## tile.stone_slab3.granite.smooth.name=Плита из полированного гранита	#
-## tile.stone_slab4.mossy_stone_brick.name=Плита из замшелого каменного кирпича	#
-## tile.stone_slab4.smooth_quartz.name=Плита из гладкого кварца	#
-## tile.stone_slab4.stone.name=Плита из камня	#
-## tile.stone_slab4.cut_sandstone.name=Плита из тесаного песчаника	#
-## tile.stone_slab4.cut_red_sandstone.name=Плита из тесаного красного песчаника	#
-## tile.coral_block.blue.name=Блок трубчатых кораллов	#
-## tile.coral_block.pink.name=Блок кораллов-мозговиков	#
-## tile.coral_block.purple.name=Блок пузырчатых кораллов	#
-## tile.coral_block.red.name=Блок огненных кораллов	#
-## tile.coral_block.yellow.name=Блок роговых кораллов	#
-## tile.coral_block.blue_dead.name=Блок мертвых трубчатых кораллов	#
-## tile.coral_block.pink_dead.name=Блок мертвых кораллов-мозговиков	#
-## tile.coral_block.purple_dead.name=Блок мертвых пузырчатых кораллов	#
-## tile.coral_block.red_dead.name=Блок мертвых огненных кораллов	#
-## tile.coral_block.yellow_dead.name=Блок мертвых роговых кораллов	#
-## tile.tallgrass.fern.name=Папоротник	#
-## tile.tallgrass.grass.name=Трава	#
-## tile.tallgrass.name=Трава	#
+tile.double_stone_slab2.red_sandstone.name=Плита изъ червоннаго песчаника	#
+tile.stone_slab2.red_sandstone.name=Плита изъ червоннаго песчаника	#
+tile.stone_slab2.purpur.name=Пурпуровая плита	#
+tile.stone_slab2.prismarine.rough.name=Призмариновая плита	#
+tile.stone_slab2.prismarine.dark.name=Плита изъ тёмнаго призмарина	#
+tile.stone_slab2.prismarine.bricks.name=Плита изъ призмариноваго кирпича	#
+tile.stone_slab2.mossy_cobblestone.name=Мшистая булыжная плита	#
+tile.stone_slab2.red_nether_brick.name=Плита изъ червоннаго нѣдрскаго кирпича	#
+tile.stone_slab2.sandstone.smooth.name=Плита изъ гладкаго песчаника	#
+tile.stone_slab3.end_brick.name=Плита изъ эндерняковаго кирпича	#
+tile.stone_slab3.red_sandstone.smooth.name=Плита изъ гладкаго червоннаго песчаника	#
+tile.stone_slab3.andesite.smooth.name=Плита изъ полированнаго андезита	#
+tile.stone_slab3.andesite.name=Андезитовая плита	#
+tile.stone_slab3.diorite.name=Діоритовая плита	#
+tile.stone_slab3.diorite.smooth.name=Плита изъ полированнаго діорита	#
+tile.stone_slab3.granite.name=Гранитная плита	#
+tile.stone_slab3.granite.smooth.name=Плита изъ полированнаго гранита	#
+tile.stone_slab4.mossy_stone_brick.name=Плита изъ мшистаго каменнаго кирпича	#
+tile.stone_slab4.smooth_quartz.name=Плита изъ гладкаго кварца	#
+tile.stone_slab4.stone.name=Каменная плита	#
+tile.stone_slab4.cut_sandstone.name=Плита изъ рѣзного песчаника	#
+tile.stone_slab4.cut_red_sandstone.name=Плита изъ рѣзного червоннаго песчаника	#
+tile.coral_block.blue.name=Блокъ трубчатаго коралла	#
+tile.coral_block.pink.name=Блокъ коралла-мозговика	#
+tile.coral_block.purple.name=Блокъ пузырчатаго коралла	#
+tile.coral_block.red.name=Блокъ огненнаго коралла	#
+tile.coral_block.yellow.name=Блокъ рогового коралла	#
+tile.coral_block.blue_dead.name=Блокъ мёртваго трубчатаго коралла	#
+tile.coral_block.pink_dead.name=Блокъ мёртваго коралла-мозговика	#
+tile.coral_block.purple_dead.name=Блокъ мёртваго пузырчатаго коралла	#
+tile.coral_block.red_dead.name=Блокъ мёртваго огненнаго коралла	#
+tile.coral_block.yellow_dead.name=Блокъ мёртваго рогового коралла	#
+tile.tallgrass.fern.name=Папоротникъ	#
+tile.tallgrass.grass.name=Трава	#
+tile.tallgrass.name=Трава	#
 ## tile.tallgrass.shrub.name=Куст	#
-## tile.seagrass.seagrass.name=Морская трава	#
-## tile.sea_pickle.name=Морской огурец	#
-## tile.turtle_egg.name=Яйцо морской черепахи	#
-## tile.coral.blue.name=Трубчатый коралл	#
-## tile.coral.pink.name=Коралл-мозговик	#
-## tile.coral.purple.name=Пузырчатый коралл	#
-## tile.coral.red.name=Огненный коралл	#
-## tile.coral.yellow.name=Роговой коралл	#
-## tile.coral.blue_dead.name=Мертвый трубчатый коралл	#
-## tile.coral.pink_dead.name=Мертвый трубчатый коралл	#
-## tile.coral.purple_dead.name=Мертвый пузырчатый коралл	#
-## tile.coral.red_dead.name=Мертвый огненный коралл	#
-## tile.coral.yellow_dead.name=Мертвый роговой коралл	#
-## tile.coral_fan.blue_fan.name=Веер из трубчатых кораллов	#
-## tile.coral_fan.pink_fan.name=Веер из кораллов-мозговиков	#
-## tile.coral_fan.purple_fan.name=Веер из пузырчатых кораллов	#
-## tile.coral_fan.red_fan.name=Веер из огненных кораллов	#
-## tile.coral_fan.yellow_fan.name=Веер из роговых кораллов	#
-## tile.coral_fan_dead.blue_fan.name=Веер из мертвых трубчатых кораллов	#
-## tile.coral_fan_dead.pink_fan.name=Веер из мертвых кораллов-мозговиков	#
-## tile.coral_fan_dead.purple_fan.name=Веер из мертвых пузырчатых кораллов	#
-## tile.coral_fan_dead.red_fan.name=Веер из мертвых огненных кораллов	#
-## tile.coral_fan_dead.yellow_fan.name=Веер из мертвых роговых кораллов	#
-## tile.glass_pane.name=Стеклянная панель	#
-## tile.tnt.name=Динамит	#
-## tile.snow_layer.name=Снежный покров	#
-## tile.torch.name=Факел	#
-## tile.trapdoor.name=Люк из дуба	#
-## tile.acacia_trapdoor.name=Люк из акации	#
-## tile.birch_trapdoor.name=Люк из березы	#
-## tile.dark_oak_trapdoor.name=Люк из темного дуба	#
-## tile.jungle_trapdoor.name=Люк из тропического дерева	#
-## tile.spruce_trapdoor.name=Люк из сосны	#
-## tile.tripWire.name=Растяжка	#
-## tile.tripwire_hook.name=Натяжной датчик	#
-## tile.vine.name=Лоза	#
-## tile.weeping_vines.name=Плакучая лоза	#
-## tile.twisting_vines.name=Извилистые лозы	#
-## tile.flowing_water.name=Вода	#
-## tile.water.name=Вода	#
-## tile.waterlily.name=Кувшинка	#
-## tile.web.name=Паутина	#
-## tile.heavy_weighted_pressure_plate.name=Утяжеленная нажимная пластина (тяжелая)	#
-## tile.light_weighted_pressure_plate.name=Утяжеленная нажимная пластина (легкая)	#
-## tile.end_stone.name=Камень Края	#
-## tile.end_bricks.name=Кирпичи из камня Края	#
-## tile.planks.acacia.name=Доски из древесины акации	#
-## tile.planks.big_oak.name=Доски из древесины темного дуба	#
-## tile.planks.birch.name=Доски из древесины березы	#
-## tile.planks.jungle.name=Доски из тропического дерева	#
-## tile.planks.name=Доски	#
-## tile.planks.oak.name=Доски из древесины дуба	#
-## tile.planks.spruce.name=Доски из древесины сосны	#
-## tile.wooden_slab.acacia.name=Плита из древесины акации	#
-## tile.wooden_slab.big_oak.name=Плита из древесины темного дуба	#
-## tile.wooden_slab.birch.name=Плита из древесины березы	#
-## tile.wooden_slab.jungle.name=Плита из тропического дерева	#
+tile.seagrass.seagrass.name=Водоросли	#
+tile.sea_pickle.name=Морской огурецъ	#
+tile.turtle_egg.name=Черепашье яйцо	#
+tile.coral.blue.name=Трубчатый кораллъ	#
+tile.coral.pink.name=Кораллъ-мозговикъ	#
+tile.coral.purple.name=Пузырчатый кораллъ	#
+tile.coral.red.name=Огненный кораллъ	#
+tile.coral.yellow.name=Роговой кораллъ	#
+tile.coral.blue_dead.name=Мёртвый трубчатый кораллъ	#
+tile.coral.pink_dead.name=Мёртвый волнистый кораллъ	#
+tile.coral.purple_dead.name=Мёртвый пузырчатый кораллъ	#
+tile.coral.red_dead.name=Мёртвый огненный кораллъ	#
+tile.coral.yellow_dead.name=Мёртвый роговой кораллъ	#
+tile.coral_fan.blue_fan.name=Вѣерный трубчатый кораллъ	#
+tile.coral_fan.pink_fan.name=Вѣерный кораллъ-мозговикъ	#
+tile.coral_fan.purple_fan.name=Вѣерный пузырчатый кораллъ	#
+tile.coral_fan.red_fan.name=Вѣерный огненный кораллъ	#
+tile.coral_fan.yellow_fan.name=Вѣерный роговой кораллъ	#
+tile.coral_fan_dead.blue_fan.name=Мёртвый вѣерный трубчатый кораллъ	#
+tile.coral_fan_dead.pink_fan.name=Мёртвый вѣерный волновой кораллъ	#
+tile.coral_fan_dead.purple_fan.name=Мёртвый вѣерный пузырчатый кораллъ	#
+tile.coral_fan_dead.red_fan.name=Мёртвый вѣерный огненный кораллъ	#
+tile.coral_fan_dead.yellow_fan.name=Мёртвый вѣерный роговой кораллъ	#
+tile.glass_pane.name=Стеклянная панель	#
+tile.tnt.name=Динамитъ	#
+tile.snow_layer.name=Снѣгъ	#
+tile.torch.name=Факелъ	#
+tile.trapdoor.name=Дубовый люкъ	#
+tile.acacia_trapdoor.name=Акаціевый люкъ	#
+tile.birch_trapdoor.name=Берёзовый люкъ	#
+tile.dark_oak_trapdoor.name=Люкъ изъ тёмнаго дуба	#
+tile.jungle_trapdoor.name=Люкъ изъ тропическаго дерева	#
+tile.spruce_trapdoor.name=Еловый люкъ	#
+tile.tripWire.name=Растяжка	#
+tile.tripwire_hook.name=Крюкъ	#
+tile.vine.name=Ліаны	#
+tile.weeping_vines.name=Плакучая лоза	#
+tile.twisting_vines.name=Вьющаяся лоза	#
+tile.flowing_water.name=Вода	#
+tile.water.name=Вода	#
+tile.waterlily.name=Кувшинка	#
+tile.web.name=Паутина	#
+tile.heavy_weighted_pressure_plate.name=Тяжеловѣсная нажимная плита	#
+tile.light_weighted_pressure_plate.name=Легковѣсная нажимная плита	#
+tile.end_stone.name=Эндернякъ	#
+tile.end_bricks.name=Эндерняковые кирпичи	#
+tile.planks.acacia.name=Акаціевыя доски	#
+tile.planks.big_oak.name=Доски изъ тёмнаго дуба	#
+tile.planks.birch.name=Берёзовыя доски	#
+tile.planks.jungle.name=Доски изъ тропическаго дерева	#
+tile.planks.name=Доски	#
+tile.planks.oak.name=Дубовыя доски	#
+tile.planks.spruce.name=Еловыя доски	#
+tile.wooden_slab.acacia.name=Акаціевыя доски	#
+tile.wooden_slab.big_oak.name=Доски изъ тёмнаго дуба	#
+tile.wooden_slab.birch.name=Берёзовыя доски	#
+tile.wooden_slab.jungle.name=Доски изъ тропическаго дерева	#
 ## tile.wooden_slab.name=Деревянная плита	#
-## tile.wooden_slab.oak.name=Плита из древесины дуба	#
-## tile.wooden_slab.spruce.name=Плита из древесины сосны	#
-## tile.carpet.black.name=Черный ковер	#
-## tile.carpet.blue.name=Синий ковер	#
-## tile.carpet.brown.name=Коричневый ковер	#
-## tile.carpet.cyan.name=Бирюзовый ковер	#
-## tile.carpet.gray.name=Серый ковер	#
-## tile.carpet.green.name=Зеленый ковер	#
-## tile.carpet.lightBlue.name=Голубой ковер	#
-## tile.carpet.lime.name=Лаймовый ковер	#
-## tile.carpet.magenta.name=Пурпурный ковер	#
-## tile.carpet.name=Ковер	#
-## tile.carpet.orange.name=Оранжевый ковер	#
-## tile.carpet.pink.name=Розовый ковер	#
-## tile.carpet.purple.name=Фиолетовый ковер	#
-## tile.carpet.red.name=Красный ковер	#
-## tile.carpet.silver.name=Светло-серый ковер	#
-## tile.carpet.white.name=Белый ковер	#
-## tile.carpet.yellow.name=Желтый ковер	#
-## tile.crafting_table.name=Верстак	#
-## 
-## tile.glazedTerracotta.white.name=Белая глазурованная терракота	#
-## tile.glazedTerracotta.orange.name=Оранжевая глазурованная терракота	#
-## tile.glazedTerracotta.magenta.name=Пурпурная глазурованная терракота	#
-## tile.glazedTerracotta.light_blue.name=Голубая глазурованная терракота	#
-## tile.glazedTerracotta.yellow.name=Желтая глазурованная терракота	#
-## tile.glazedTerracotta.lime.name=Лаймовая глазурованная терракота	#
-## tile.glazedTerracotta.pink.name=Розовая глазурованная терракота	#
-## tile.glazedTerracotta.gray.name=Серая глазурованная терракота	#
-## tile.glazedTerracotta.silver.name=Светло-серая глазурованная терракота	#
-## tile.glazedTerracotta.cyan.name=Бирюзовая глазурованная терракота	#
-## tile.glazedTerracotta.purple.name=Фиолетовая глазурованная терракота	#
-## tile.glazedTerracotta.blue.name=Синяя глазурованная терракота	#
-## tile.glazedTerracotta.brown.name=Коричневая глазурованная терракота	#
-## tile.glazedTerracotta.green.name=Зеленая глазурованная терракота	#
-## tile.glazedTerracotta.red.name=Красная глазурованная терракота	#
-## tile.glazedTerracotta.black.name=Черная глазурованная терракота	#
-## tile.concrete.black.name=Черный бетон	#
-## tile.concrete.red.name=Красный бетон	#
-## tile.concrete.green.name=Зеленый бетон	#
-## tile.concrete.brown.name=Коричневый бетон	#
-## tile.concrete.blue.name=Синий бетон	#
-## tile.concrete.purple.name=Фиолетовый бетон	#
-## tile.concrete.cyan.name=Бирюзовый бетон	#
-## tile.concrete.silver.name=Светло-серый бетон	#
-## tile.concrete.gray.name=Серый бетон	#
-## tile.concrete.pink.name=Розовый бетон	#
-## tile.concrete.lime.name=Лаймовый бетон	#
-## tile.concrete.yellow.name=Желтый бетон	#
-## tile.concrete.lightBlue.name=Голубой бетон	#
-## tile.concrete.magenta.name=Пурпурный бетон	#
-## tile.concrete.orange.name=Оранжевый бетон	#
-## tile.concrete.white.name=Белый бетон	#
-## tile.glazedTerracottaWhite.name=Белая глазурованная терракота	#
-## tile.glazedTerracottaOrange.name=Оранжевая глазурованная терракота	#
-## tile.glazedTerracottaMagenta.name=Пурпурная глазурованная терракота	#
-## tile.glazedTerracottaLightBlue.name=Голубая глазурованная терракота	#
-## tile.glazedTerracottaYellow.name=Желтая глазурованная терракота	#
-## tile.glazedTerracottaLime.name=Лаймовая глазурованная терракота	#
-## tile.glazedTerracottaPink.name=Розовая глазурованная терракота	#
-## tile.glazedTerracottaGray.name=Серая глазурованная терракота	#
-## tile.glazedTerracottaSilver.name=Светло-серая глазурованная терракота	#
-## tile.glazedTerracottaCyan.name=Бирюзовая глазурованная терракота	#
-## tile.glazedTerracottaPurple.name=Фиолетовая глазурованная терракота	#
-## tile.glazedTerracottaBlue.name=Синяя глазурованная терракота	#
-## tile.glazedTerracottaBrown.name=Коричневая глазурованная терракота	#
-## tile.glazedTerracottaGreen.name=Зеленая глазурованная терракота	#
-## tile.glazedTerracottaRed.name=Красная глазурованная терракота	#
-## tile.glazedTerracottaBlack.name=Черная глазурованная терракота	#
-## tile.concretePowder.black.name=Черный цемент	#
-## tile.concretePowder.red.name=Красный цемент	#
-## tile.concretePowder.green.name=Зеленый цемент	#
-## tile.concretePowder.brown.name=Коричневый цемент	#
-## tile.concretePowder.blue.name=Синий цемент	#
-## tile.concretePowder.purple.name=Фиолетовый цемент	#
-## tile.concretePowder.cyan.name=Бирюзовый цемент	#
-## tile.concretePowder.silver.name=Светло-серый цемент	#
-## tile.concretePowder.gray.name=Серый цемент	#
-## tile.concretePowder.pink.name=Розовый цемент	#
-## tile.concretePowder.lime.name=Лаймовый цемент	#
-## tile.concretePowder.yellow.name=Желтый цемент	#
-## tile.concretePowder.lightBlue.name=Голубой цемент	#
-## tile.concretePowder.magenta.name=Пурпурный цемент	#
-## tile.concretePowder.orange.name=Оранжевый цемент	#
-## tile.concretePowder.white.name=Белый цемент	#
-## 
-## tile.stripped_spruce_log.name=Ошкуренное сосновое бревно	#
-## tile.stripped_dark_oak_log.name=Ошкуренное бревно темного дуба	#
-## tile.stripped_birch_log.name=Ошкуренное березовое бревно	#
-## tile.stripped_jungle_log.name=Ошкуренное бревно тропического дерева	#
-## tile.stripped_oak_log.name=Ошкуренное дубовое бревно	#
-## tile.stripped_acacia_log.name=Ошкуренное акациевое бревно	#
-## 
-## tile.bamboo.name=Бамбук	#
-## tile.scaffolding.name=Строительные леса	#
-## tile.grindstone.name=Точило	#
-## tile.cartography_table.name=Картографический стол	#
-## tile.lantern.name=Фонарь	#
-## tile.soul_lantern.name=Фонарь с огнем душ	#
-## tile.smoker.name=Коптильня	#
-## tile.smithing_table.name=Кузнечный станок	#
-## tile.barrel.name=Бочка	#
-## tile.campfire.name=Костер	#
-## tile.loom.name=Ткацкий станок	#
-## tile.lectern.name=Кафедра	#
-## tile.sweet_berry_bush.name=Куст сладких ягод	#
-## 
-## tile.wood.oak.name=Древесина дуба	#
-## tile.wood.spruce.name=Древесина сосны	#
-## tile.wood.birch.name=Древесина березы	#
-## tile.wood.jungle.name=Древесина тропического дерева	#
-## tile.wood.acacia.name=Древесина акации	#
-## tile.wood.dark_oak.name=Древесина темного дуба	#
-## tile.wood.stripped.oak.name=Ошкуренная древесина дуба	#
-## tile.wood.stripped.spruce.name=Ошкуренная древесина сосны	#
-## tile.wood.stripped.birch.name=Ошкуренная древесина березы	#
-## tile.wood.stripped.jungle.name=Ошкуренная древесина тропического дерева	#
-## tile.wood.stripped.acacia.name=Ошкуренная древесина акации	#
-## tile.wood.stripped.dark_oak.name=Ошкуренная древесина темного дуба	#
-## 
-## tile.netherite_block.name=Блок незерита	#
-## tile.ancient_debris.name=Древние обломки	#
-## tile.nether_gold_ore.name=Золотая руда Нижнего мира	#
-## 
-## tile.respawn_anchor.name=Якорь возрождения	#
-## tile.crying_obsidian.name=Плачущий обсидиан	#
-## 
-## tile.powder_snow.name=Снежная пыль	#
-## tile.deepslate.name=Глубинный сланец	#
-## tile.infested_deepslate.name=Зараженный глубинный сланец	#
-## tile.cobbled_deepslate.name=Дробленый сланец	#
-## tile.dripstone_block.name=Блок капельника	#
-## tile.pointed_dripstone.name=Капельник	#
-## tile.cobbled_deepslate_slab.name=Плита из дробленого сланца	#
-## tile.cobbled_deepslate_stairs.name=Ступени из дробленого сланца	#
-## tile.cobbled_deepslate_wall.name=Стена из дробленого сланца	#
-## tile.polished_deepslate.name=Полированный глубинный сланец	#
-## tile.polished_deepslate_slab.name=Полированная плита из глубинного сланца	#
-## tile.polished_deepslate_stairs.name=Полированные ступени из глубинного сланца	#
-## tile.polished_deepslate_wall.name=Полированная стена из глубинного сланца	#
-## tile.deepslate_tiles.name=Плитки из глубинного сланца	#
-## tile.deepslate_tile_slab.name=Плита из плиток из глубинного сланца	#
-## tile.deepslate_tile_stairs.name=Ступени из плиток из глубинного сланца	#
-## tile.deepslate_tile_wall.name=Стена из плиток из глубинного сланца	#
-## tile.deepslate_bricks.name=Кирпичи из глубинного сланца	#
-## tile.deepslate_brick_slab.name=Плита из кирпичей из глубинного сланца	#
-## tile.deepslate_brick_stairs.name=Кирпичные ступени из глубинного сланца	#
-## tile.deepslate_brick_wall.name=Стена из кирпичей из глубинного сланца	#
-## tile.chiseled_deepslate.name=Резной глубинный сланец	#
-## tile.cobbled_deepslate_double_slab.name=Двойная плита из дробленого сланца	#
-## tile.polished_deepslate_double_slab.name=Двойная плита из полированного глубинного сланца	#
-## tile.deepslate_tile_double_slab.name=Двойная плита из плиток из глубинного сланца	#
-## tile.deepslate_brick_double_slab.name=Двойная плита из кирпичей из глубинного сланца	#
-## tile.deepslate_lapis_ore.name=Глубинная лазуритовая руда	#
-## tile.deepslate_iron_ore.name=Глубинная железная руда	#
-## tile.deepslate_gold_ore.name=Глубинная золотая руда	#
-## tile.deepslate_redstone_ore.name=Глубинная руда красного камня	#
-## tile.deepslate_diamond_ore.name=Глубинная алмазная руда	#
-## tile.deepslate_coal_ore.name=Глубинная угольная руда	#
-## tile.deepslate_emerald_ore.name=Глубинная изумрудная руда	#
-## tile.deepslate_copper_ore.name=Глубинная медная руда	#
-## tile.cracked_deepslate_tiles.name=Потрескавшиеся плитки из глубинного сланца	#
-## tile.cracked_deepslate_bricks.name=Потрескавшийся кирпич из глубинного сланца	#
-## item.copper_ingot.name=Медный слиток	#
-## item.raw_copper.name=Необработанная медь	#
-## item.raw_iron.name=Необработанное железо	#
-## item.raw_gold.name=Необработанное золото	#
-## tile.copper_block.name=Медный блок	#
-## tile.exposed_copper.name=Слегка окисленная медь	#
-## tile.weathered_copper.name=Полуокисленная медь	#
-## tile.oxidized_copper.name=Окисленная медь	#
-## tile.waxed_copper.name=Вощеный медный блок	#
-## tile.waxed_exposed_copper.name=Вощеная слегка окисленная медь	#
-## tile.waxed_weathered_copper.name=Вощеная полуокисленная медь	#
-## tile.waxed_oxidized_copper.name=Вощеная окисленная медь	#
-## 
-## tile.cut_copper.name=Резная медь	#
-## tile.exposed_cut_copper.name=Слегка окисленная резная медь	#
-## tile.weathered_cut_copper.name=Полуокисленная резная медь	#
-## tile.oxidized_cut_copper.name=Окисленная резная медь	#
-## tile.waxed_cut_copper.name=Вощеная резная медь	#
-## tile.waxed_exposed_cut_copper.name=Вощеная слегка окисленная резная медь	#
-## tile.waxed_weathered_cut_copper.name=Вощеная полуокисленная резная медь	#
-## tile.waxed_oxidized_cut_copper.name=Вощеная окисленная резная медь	#
-## 
-## tile.cut_copper_stairs.name=Резные медные ступени	#
-## tile.exposed_cut_copper_stairs.name=Слегка окисленные резные медные ступени	#
-## tile.weathered_cut_copper_stairs.name=Полуокисленные резные медные ступени	#
-## tile.oxidized_cut_copper_stairs.name=Окисленные резные медные ступени	#
-## tile.waxed_cut_copper_stairs.name=Вощеные резные медные ступени	#
-## tile.waxed_exposed_cut_copper_stairs.name=Вощеные слегка окисленные резные медные ступени	#
-## tile.waxed_weathered_cut_copper_stairs.name=Вощеные полуокисленные резные медные ступени	#
-## tile.waxed_oxidized_cut_copper_stairs.name=Вощеные окисленные резные медные ступени	#
-## 
-## tile.cut_copper_slab.name=Резная медная плита	#
-## tile.exposed_cut_copper_slab.name=Слегка окисленная резная медная плита	#
-## tile.weathered_cut_copper_slab.name=Полуокисленная резная медная плита	#
-## tile.oxidized_cut_copper_slab.name=Окисленная резная медная плита	#
-## tile.waxed_cut_copper_slab.name=Вощеная резная медная плита	#
-## tile.waxed_exposed_cut_copper_slab.name=Вощеная слегка окисленная резная медная плита	#
-## tile.waxed_weathered_cut_copper_slab.name=Вощеная полуокисленная резная медная плита	#
-## tile.waxed_oxidized_cut_copper_slab.name=Вощеная окисленная резная медная плита	#
-## tile.raw_copper_block.name=Блок необработанной меди	#
-## tile.raw_iron_block.name=Блок необработанного железа	#
-## tile.raw_gold_block.name=Блок необработанного золота	#
-## itemGroup.name.copper=Медь	#
+tile.wooden_slab.oak.name=Дубовая плита	#
+tile.wooden_slab.spruce.name=Еловая плита	#
+tile.carpet.black.name=Чёрный ковёръ	#
+tile.carpet.blue.name=Лазурный ковёръ	#
+tile.carpet.brown.name=Коричневый ковёръ	#
+tile.carpet.cyan.name=Бирюзовый ковёръ	#
+tile.carpet.gray.name=Сѣрый ковёръ	#
+tile.carpet.green.name=Зелёный ковёръ	#
+tile.carpet.lightBlue.name=Голубой ковёръ	#
+tile.carpet.lime.name=Яркозелёный ковёръ	#
+tile.carpet.magenta.name=Пурпурный ковёръ	#
+tile.carpet.name=Ковёръ	#
+tile.carpet.orange.name=Оранжевый ковёръ	#
+tile.carpet.pink.name=Розовый ковёръ	#
+tile.carpet.purple.name=Фіолетовый ковёръ	#
+tile.carpet.red.name=Червонный ковёръ	#
+tile.carpet.silver.name=Свѣтлосѣрый ковёръ	#
+tile.carpet.white.name=Бѣлый ковёръ	#
+tile.carpet.yellow.name=Жёлтый ковёръ	#
+tile.crafting_table.name=Верстакъ	#
+
+tile.glazedTerracotta.white.name=Бѣлая глазированная керамика	#
+tile.glazedTerracotta.orange.name=Оранжевая глазурованная керамика	#
+tile.glazedTerracotta.magenta.name=Пурпурная глазурованная керамика	#
+tile.glazedTerracotta.light_blue.name=Голубая глазурованная керамика	#
+tile.glazedTerracotta.yellow.name=Жёлтая глазурованная керамика	#
+tile.glazedTerracotta.lime.name=Яркозелёная глазурованная керамика	#
+tile.glazedTerracotta.pink.name=Розовая глазурованная керамика	#
+tile.glazedTerracotta.gray.name=Сѣрая глазурованная керамика	#
+tile.glazedTerracotta.silver.name=Свѣтлосѣрая глазурованная керамика	#
+tile.glazedTerracotta.cyan.name=Бирюзовая глазурованная керамика	#
+tile.glazedTerracotta.purple.name=Фіолетовая глазурованная керамика	#
+tile.glazedTerracotta.blue.name=Лазурная глазурованная керамика	#
+tile.glazedTerracotta.brown.name=Коричневая глазурованная керамика	#
+tile.glazedTerracotta.green.name=Зелёная глазурованная керамика	#
+tile.glazedTerracotta.red.name=Червонная глазурованная керамика	#
+tile.glazedTerracotta.black.name=Чёрная глазурованная керамика	#
+tile.concrete.black.name=Чёрный бетонъ	#
+tile.concrete.red.name=Червонный бетонъ	#
+tile.concrete.green.name=Зелёный бетонъ	#
+tile.concrete.brown.name=Коричневый бетонъ	#
+tile.concrete.blue.name=Лазурный бетонъ	#
+tile.concrete.purple.name=Фіолетовый бетонъ	#
+tile.concrete.cyan.name=Бирюзовый бетонъ	#
+tile.concrete.silver.name=Свѣтлосѣрый бетонъ	#
+tile.concrete.gray.name=Сѣрый бетонъ	#
+tile.concrete.pink.name=Розовый бетонъ	#
+tile.concrete.lime.name=Яркозелёный бетонъ	#
+tile.concrete.yellow.name=Жёлтый бетонъ	#
+tile.concrete.lightBlue.name=Голубой бетонъ	#
+tile.concrete.magenta.name=Пурпурный бетонъ	#
+tile.concrete.orange.name=Оранжевый бетонъ	#
+tile.concrete.white.name=Бѣлый бетонъ	#
+tile.glazedTerracottaWhite.name=Бѣлая глазированная керамика	#
+tile.glazedTerracottaOrange.name=Оранжевая глазурованная керамика	#
+tile.glazedTerracottaMagenta.name=Пурпурная глазурованная керамика	#
+tile.glazedTerracottaLightBlue.name=Голубая глазурованная керамика	#
+tile.glazedTerracottaYellow.name=Жёлтая глазурованная керамика	#
+tile.glazedTerracottaLime.name=Яркозелёная глазурованная керамика	#
+tile.glazedTerracottaPink.name=Розовая глазурованная керамика	#
+tile.glazedTerracottaGray.name=Сѣрая глазурованная керамика	#
+tile.glazedTerracottaSilver.name=Свѣтлосѣрая глазурованная керамика	#
+tile.glazedTerracottaCyan.name=Бирюзовая глазурованная керамика	#
+tile.glazedTerracottaPurple.name=Фіолетовая глазурованная керамика	#
+tile.glazedTerracottaBlue.name=Лазурная глазурованная керамика	#
+tile.glazedTerracottaBrown.name=Коричневая глазурованная керамика	#
+tile.glazedTerracottaGreen.name=Зелёная глазурованная керамика	#
+tile.glazedTerracottaRed.name=Червонная глазурованная керамика	#
+tile.glazedTerracottaBlack.name=Чёрная глазурованная керамика	#
+tile.concretePowder.black.name=Черный бетонный порошокъ	#
+tile.concretePowder.red.name=Червонный бетонный порошокъ	#
+tile.concretePowder.green.name=Зелёный бетонный порошокъ	#
+tile.concretePowder.brown.name=Коричневый бетонный порошокъ	#
+tile.concretePowder.blue.name=Лазурный бетонный порошокъ	#
+tile.concretePowder.purple.name=Фіолетовый бетонный порошокъ	#
+tile.concretePowder.cyan.name=Бирюзовый бетонный порошокъ	#
+tile.concretePowder.silver.name=Свѣтлосѣрый бетонный порошокъ	#
+tile.concretePowder.gray.name=Сѣрый бетонный порошокъ	#
+tile.concretePowder.pink.name=Розовый бетонный порошокъ	#
+tile.concretePowder.lime.name=Яркозелёный бетонный порошокъ	#
+tile.concretePowder.yellow.name=Жёлтый бетонный порошокъ	#
+tile.concretePowder.lightBlue.name=Голубой бетонный порошокъ	#
+tile.concretePowder.magenta.name=Пурпурный бетонный порошокъ	#
+tile.concretePowder.orange.name=Оранжевый бетонный порошокъ	#
+tile.concretePowder.white.name=Бѣлый бетонный порошокъ	#
+
+tile.stripped_spruce_log.name=Обтёсанное еловое бревно	#
+tile.stripped_dark_oak_log.name=Обтёсанное бревно тёмнаго дуба	#
+tile.stripped_birch_log.name=Обтёсанное берёзовое бревно	#
+tile.stripped_jungle_log.name=Обтёсанное бревно тропическаго дерева	#
+tile.stripped_oak_log.name=Обтёсанное дубовое бревно	#
+tile.stripped_acacia_log.name=Обтёсанное бревно акаціи	#
+
+tile.bamboo.name=Бамбукъ	#
+tile.scaffolding.name=Строительные лѣса	#
+tile.grindstone.name=Точило	#
+tile.cartography_table.name=Картографическій столъ	#
+tile.lantern.name=Фонарь	#
+tile.soul_lantern.name=Фонарь душъ	#
+tile.smoker.name=Коптильня	#
+tile.smithing_table.name=Столъ кузнеца	#
+tile.barrel.name=Кадка	#
+tile.campfire.name=Костёръ	#
+tile.loom.name=Ткацкій станокъ	#
+tile.lectern.name=Каѳедра	#
+tile.sweet_berry_bush.name=Кустъ сладкихъ ягодъ	#
+
+tile.wood.oak.name=Дубъ	#
+tile.wood.spruce.name=Ель	#
+tile.wood.birch.name=Берёза	#
+tile.wood.jungle.name=Тропическое дерево	#
+tile.wood.acacia.name=Акація	#
+tile.wood.dark_oak.name=Тёмный дубъ	#
+tile.wood.stripped.oak.name=Обтёсанная дубовая древесина	#
+tile.wood.stripped.spruce.name=Обтёсанная еловая древесина	#
+tile.wood.stripped.birch.name=Обтёсанная берёзовая древесина	#
+tile.wood.stripped.jungle.name=Обтёсанная тропическая древесина	#
+tile.wood.stripped.acacia.name=Обтёсанная акаціевая древесина	#
+tile.wood.stripped.dark_oak.name=Обтёсанная древесина тёмнаго дуба	#
+
+tile.netherite_block.name=Нѣдритовый блокъ	#
+tile.ancient_debris.name=Древніе обломки	#
+tile.nether_gold_ore.name=Нѣдрская золотая руда	#
+
+tile.respawn_anchor.name=Якорь возрожденія	#
+tile.crying_obsidian.name=Плачущій обсидіанъ	#
+
+tile.powder_snow.name=Рыхлый снѣгъ	#
+tile.deepslate.name=Глубинный сланецъ	#
+tile.infested_deepslate.name=Заражённый глубинный сланецъ	#
+tile.cobbled_deepslate.name=Дроблённый глубинный сланецъ	#
+tile.dripstone_block.name=Натечный камень	#
+tile.pointed_dripstone.name=Капельникъ	#
+tile.cobbled_deepslate_slab.name=Плита изъ дроблёнаго глубиннаго сланца	#
+tile.cobbled_deepslate_stairs.name=Ступеньки изъ дроблёнаго глубиннаго сланца	#
+tile.cobbled_deepslate_wall.name=Ограда изъ дроблёнаго глубиннаго сланца	#
+tile.polished_deepslate.name=Полированный глубинный сланецъ	#
+tile.polished_deepslate_slab.name=Плита изъ полированнаго глубиннаго сланца	#
+tile.polished_deepslate_stairs.name=Ступеньки изъ полированнаго глубиннаго сланца	#
+tile.polished_deepslate_wall.name=Ограда изъ полированнаго глубиннаго сланца	#
+tile.deepslate_tiles.name=Глубинносланцевый кафель	#
+tile.deepslate_tile_slab.name=Плита изъ глубинносланцеваго кафеля	#
+tile.deepslate_tile_stairs.name=Ступеньки изъ глубинносланцеваго кафеля	#
+tile.deepslate_tile_wall.name=Ограда изъ глубинносланцеваго кафеля	#
+tile.deepslate_bricks.name=Глубинносланцевые кирпичи	#
+tile.deepslate_brick_slab.name=Плита изъ глубинносланцевыхъ кирпичей	#
+tile.deepslate_brick_stairs.name=Ступеньки изъ глубинносланцеваго кирпича	#
+tile.deepslate_brick_wall.name=Ограда изъ глубинносланцеваго кирпича	#
+tile.chiseled_deepslate.name=Рѣзной глубинный сланецъ	#
+tile.cobbled_deepslate_double_slab.name=Двойная плита изъ дроблёнаго глубиннаго сланца	#
+tile.polished_deepslate_double_slab.name=Двойная плита изъ полированнаго глубиннаго сланца	#
+tile.deepslate_tile_double_slab.name=Двойная плита из плиток из глубинного сланца	#
+tile.deepslate_brick_double_slab.name=Двойная плита изъ глубинносланцевыхъ кирпичей	#
+tile.deepslate_lapis_ore.name=Лазуриконосный глубинный сланецъ	#
+tile.deepslate_iron_ore.name=Желѣзоносный глубинный сланецъ	#
+tile.deepslate_gold_ore.name=Золотоносный глубинный сланецъ	#
+tile.deepslate_redstone_ore.name=Редстоуноносный глубинный сланецъ	#
+tile.deepslate_diamond_ore.name=Діамантоносный глубинный сланецъ	#
+tile.deepslate_coal_ore.name=Угленосный глубинный сланецъ	#
+tile.deepslate_emerald_ore.name=Смарагдоносный глубинный сланецъ	#
+tile.deepslate_copper_ore.name=Мѣдоносный глубинный сланецъ	#
+tile.cracked_deepslate_tiles.name=Потрескавшійся глубинносланцевый кафель	#
+tile.cracked_deepslate_bricks.name=Потрескавшіеся глубинносланцевые кирпичи	#
+item.copper_ingot.name=Мѣдный слитокъ	#
+item.raw_copper.name=Рудная мѣдь	#
+item.raw_iron.name=Рудное желѣзо	#
+item.raw_gold.name=Рудное золото	#
+tile.copper_block.name=Мѣдный блокъ	#
+tile.exposed_copper.name=Патиновый мѣдный блокъ	#
+tile.weathered_copper.name=Состаренный мѣдный блокъ	#
+tile.oxidized_copper.name=Окисленный мѣдный блокъ	#
+tile.waxed_copper.name=Вощёный мѣдный блокъ	#
+tile.waxed_exposed_copper.name=Вощёный патиновый мѣдный блокъ	#
+tile.waxed_weathered_copper.name=Вощёный состаренный мѣдный блокъ	#
+tile.waxed_oxidized_copper.name=Вощёный окисленный мѣдный блокъ	#
+
+tile.cut_copper.name=Рѣзной мѣдный блокъ	#
+tile.exposed_cut_copper.name=Патиновый рѣзной мѣдный блокъ	#
+tile.weathered_cut_copper.name=Состаренный рѣзной мѣдный блокъ	#
+tile.oxidized_cut_copper.name=Окисленный рѣзной мѣдный блокъ	#
+tile.waxed_cut_copper.name=Вощёный рѣзной мѣдный блокъ	#
+tile.waxed_exposed_cut_copper.name=Вощёный патиновый рѣзной мѣдный блокъ	#
+tile.waxed_weathered_cut_copper.name=Вощёный состаренный рѣзной мѣдный блокъ	#
+tile.waxed_oxidized_cut_copper.name=Вощёный окисленный рѣзной мѣдный блокъ	#
+
+tile.cut_copper_stairs.name=Рѣзныя мѣдныя ступеньки	#
+tile.exposed_cut_copper_stairs.name=Патиновыя рѣзныя мѣдныя ступеньки	#
+tile.weathered_cut_copper_stairs.name=Состаренныя рѣзныя мѣдныя ступеньки	#
+tile.oxidized_cut_copper_stairs.name=Окисленныя рѣзныя мѣдныя ступеньки	#
+tile.waxed_cut_copper_stairs.name=Вощёныя рѣзныя мѣдныя ступеньки	#
+tile.waxed_exposed_cut_copper_stairs.name=Вощёныя патиновыя рѣзныя мѣдныя ступеньки	#
+tile.waxed_weathered_cut_copper_stairs.name=Вощёныя состаренныя рѣзныя мѣдныя ступеньки	#
+tile.waxed_oxidized_cut_copper_stairs.name=Вощёныя окисленныя рѣзныя мѣдныя ступеньки	#
+
+tile.cut_copper_slab.name=Рѣзная мѣдная плита	#
+tile.exposed_cut_copper_slab.name=Патиновая рѣзная мѣдная плита	#
+tile.weathered_cut_copper_slab.name=Состаренная рѣзная мѣдная плита	#
+tile.oxidized_cut_copper_slab.name=Окисленная рѣзная мѣдная плита	#
+tile.waxed_cut_copper_slab.name=Вощёная рѣзная мѣдная плита	#
+tile.waxed_exposed_cut_copper_slab.name=Вощёная патиновая рѣзная мѣдная плита	#
+tile.waxed_weathered_cut_copper_slab.name=Вощёная состаренная рѣзная мѣдная плита	#
+tile.waxed_oxidized_cut_copper_slab.name=Вощёная окисленная рѣзная мѣдная плита	#
+tile.raw_copper_block.name=Блокъ рудной мѣди	#
+tile.raw_iron_block.name=Блокъ руднаго желѣза	#
+tile.raw_gold_block.name=Блокъ руднаго золота	#
+itemGroup.name.copper=Мѣдь	#
 ## hudScreen.tooltip.waxOn=Воск вкл.	#
 ## hudScreen.tooltip.waxOff=Воск выкл.	#
 ## hudScreen.tooltip.scrape=Очистка	#
-## 
-## tile.candle.name=Свеча	#
-## tile.white_candle.name=Белая свеча	#
-## tile.orange_candle.name=Оранжевая свеча	#
-## tile.magenta_candle.name=Пурпурная свеча	#
-## tile.light_blue_candle.name=Голубая свеча	#
-## tile.yellow_candle.name=Желтая свеча	#
-## tile.lime_candle.name=Светло-зеленая свеча	#
-## tile.pink_candle.name=Розовая свеча	#
-## tile.gray_candle.name=Серая свеча	#
-## tile.light_gray_candle.name=Светло-серая свеча	#
-## tile.cyan_candle.name=Бирюзовая свеча	#
-## tile.purple_candle.name=Фиолетовая свеча	#
-## tile.blue_candle.name=Синяя свеча	#
-## tile.brown_candle.name=Коричневая свеча	#
-## tile.green_candle.name=Зеленая свеча	#
-## tile.red_candle.name=Красная свеча	#
-## tile.black_candle.name=Черная свеча	#
-## tile.candle_cake.name=Торт со свечой	#
-## tile.white_candle_cake.name=Торт с белой свечой	#
-## tile.orange_candle_cake.name=Торт с оранжевой свечой	#
-## tile.magenta_candle_cake.name=Торт с пурпурной свечой	#
-## tile.light_blue_candle_cake.name=Торт с голубой свечой	#
-## tile.yellow_candle_cake.name=Торт с желтой свечой	#
-## tile.lime_candle_cake.name=Торт со светло-зеленой свечой	#
-## tile.pink_candle_cake.name=Торт с розовой свечой	#
-## tile.gray_candle_cake.name=Торт с серой свечой	#
-## tile.light_gray_candle_cake.name=Торт со светло-серой свечой	#
-## tile.cyan_candle_cake.name=Торт с бирюзовой свечой	#
-## tile.purple_candle_cake.name=Торт с фиолетовой свечой	#
-## tile.blue_candle_cake.name=Торт с синей свечой	#
-## tile.brown_candle_cake.name=Торт с коричневой свечой	#
-## tile.green_candle_cake.name=Торт с зеленой свечой	#
-## tile.red_candle_cake.name=Торт с красной свечой	#
-## tile.black_candle_cake.name=Торт с черной свечой	#
-## 
-## item.spyglass.name=Подзорная труба	#
-## item.amethyst_shard.name=Осколок аметиста	#
-## tile.amethyst_block.name=Блок аметиста	#
-## tile.budding_amethyst.name=Почкующийся аметист	#
-## tile.amethyst_cluster.name=Аметистовый кластер	#
-## tile.large_amethyst_bud.name=Большая почка аметиста	#
-## tile.medium_amethyst_bud.name=Средняя почка аметиста	#
-## tile.small_amethyst_bud.name=Малая почка аметиста	#
-## tile.tuff.name=Туф	#
-## tile.calcite.name=Кальцит	#
-## tile.tinted_glass.name=Тонированное стекло	#
-## tile.smooth_basalt.name=Гладкий базальт	#
-## 
-## tipped_arrow.effect.empty=Стрела с эффектом	#
-## tipped_arrow.effect.mundane=Стрела с эффектом	#
-## tipped_arrow.effect.thick=Стрела с эффектом	#
-## tipped_arrow.effect.awkward=Стрела с эффектом	#
-## tipped_arrow.effect.nightVision=Стрела ночного зрения	#
-## tipped_arrow.effect.invisibility=Стрела невидимости	#
-## tipped_arrow.effect.jump=Стрела прыгучести	#
-## tipped_arrow.effect.fireResistance=Стрела огнестойкости	#
-## tipped_arrow.effect.moveSpeed=Стрела ускорения	#
-## tipped_arrow.effect.moveSlowdown=Стрела медлительности	#
-## tipped_arrow.effect.water=Стрела брызг	#
-## tipped_arrow.effect.waterBreathing=Стрела подводного дыхания	#
-## tipped_arrow.effect.heal=Стрела исцеления	#
-## tipped_arrow.effect.harm=Стрела порчи	#
-## tipped_arrow.effect.poison=Стрела отравления	#
-## tipped_arrow.effect.regeneration=Стрела регенерации	#
-## tipped_arrow.effect.damageBoost=Стрела силы	#
-## tipped_arrow.effect.weakness=Стрела слабости	#
-## tipped_arrow.effect.levitation=Стрела левитации	#
-## tipped_arrow.effect.luck=Стрела удачи	#
+
+tile.candle.name=Свѣча	#
+tile.white_candle.name=Бѣлая свѣча	#
+tile.orange_candle.name=Оранжевая свѣча	#
+tile.magenta_candle.name=Пурпурная свѣча	#
+tile.light_blue_candle.name=Голубая свѣча	#
+tile.yellow_candle.name=Жёлтая свѣча	#
+tile.lime_candle.name=Яркозелёная свѣча	#
+tile.pink_candle.name=Розовая свѣча	#
+tile.gray_candle.name=Сѣрая свѣча	#
+tile.light_gray_candle.name=Свѣтлосѣрая свѣча	#
+tile.cyan_candle.name=Бирюзовая свѣча	#
+tile.purple_candle.name=Фіолетовая свѣча	#
+tile.blue_candle.name=Лазурная свѣча	#
+tile.brown_candle.name=Коричневая свѣча	#
+tile.green_candle.name=Зелёная свѣча	#
+tile.red_candle.name=Червонная свѣча	#
+tile.black_candle.name=Чёрная свѣча	#
+tile.candle_cake.name=Тортъ со свѣчой	#
+tile.white_candle_cake.name=Тортъ съ бѣлой свѣчой	#
+tile.orange_candle_cake.name=Тортъ съ оранжевой свѣчой	#
+tile.magenta_candle_cake.name=Тортъ съ пурпурной свѣчой	#
+tile.light_blue_candle_cake.name=Тортъ съ голубой свѣчой	#
+tile.yellow_candle_cake.name=Тортъ съ жёлтой свѣчой	#
+tile.lime_candle_cake.name=Тортъ съ яркозелёной свѣчой	#
+tile.pink_candle_cake.name=Тортъ съ розовой свѣчой	#
+tile.gray_candle_cake.name=Тортъ съ сѣрой свѣчой	#
+tile.light_gray_candle_cake.name=Тортъ со свѣтлосѣрой свѣчой	#
+tile.cyan_candle_cake.name=Тортъ съ бирюзовой свѣчой	#
+tile.purple_candle_cake.name=Тортъ съ фіолетовой свѣчой	#
+tile.blue_candle_cake.name=Тортъ съ лазурной свѣчой	#
+tile.brown_candle_cake.name=Тортъ съ коричневой свѣчой	#
+tile.green_candle_cake.name=Тортъ съ зелёной свѣчой	#
+tile.red_candle_cake.name=Тортъ съ червонной свѣчой	#
+tile.black_candle_cake.name=Тортъ съ чёрной свѣчой	#
+
+item.spyglass.name=Подзорная труба	#
+item.amethyst_shard.name=Осколокъ аметиста	#
+tile.amethyst_block.name=Аметистовый блокъ	#
+tile.budding_amethyst.name=Цвѣтущій аметистъ	#
+tile.amethyst_cluster.name=Аметистовая друза	#
+tile.large_amethyst_bud.name=Большой аметистовый бутонъ	#
+tile.medium_amethyst_bud.name=Средній аметистовый бутонъ	#
+tile.small_amethyst_bud.name=Малый аметистовый бутонъ	#
+tile.tuff.name=Туфъ	#
+tile.calcite.name=Кальцитъ	#
+tile.tinted_glass.name=Затемнённое стекло	#
+tile.smooth_basalt.name=Гладкій базальтъ	#
+
+tipped_arrow.effect.empty=Стрѣла, обработанная несоздаваемымъ снадобьемъ	#
+tipped_arrow.effect.mundane=Обработанная стрѣла	#
+tipped_arrow.effect.thick=Обработанная стрѣла	#
+tipped_arrow.effect.awkward=Обработанная стрѣла	#
+tipped_arrow.effect.nightVision=Стрѣла ночного зрѣнія	#
+tipped_arrow.effect.invisibility=Стрѣла незримости	#
+tipped_arrow.effect.jump=Стрѣла прыгучести	#
+tipped_arrow.effect.fireResistance=Стрѣла огнестойкости	#
+tipped_arrow.effect.moveSpeed=Стрѣла рѣзвости	#
+tipped_arrow.effect.moveSlowdown=Стрѣла медлительности	#
+tipped_arrow.effect.water=Взрывная стрѣла	#
+tipped_arrow.effect.waterBreathing=Стрѣла дыханія въ водѣ	#
+tipped_arrow.effect.heal=Стрѣла исцѣленія	#
+tipped_arrow.effect.harm=Стрѣла вреда	#
+tipped_arrow.effect.poison=Стрѣла отравленія	#
+tipped_arrow.effect.regeneration=Стрѣла возстановленія	#
+tipped_arrow.effect.damageBoost=Стрѣла силы	#
+tipped_arrow.effect.weakness=Стрѣла слабости	#
+tipped_arrow.effect.levitation=Стрѣла легковѣсности	#
+tipped_arrow.effect.luck=Стрѣла везенія	#
 ## tipped_arrow.effect.wither=Стрела разложения	#
-## tipped_arrow.effect.turtleMaster=Стрела знатока черепах	#
-## tipped_arrow.effect.slowFalling=Стрела замедленного падения	#
-## 
-## structure_block.title=Структурный блок	#
-## structure_block.structure_name=Имя структуры	#
-## structure_block.mode=Режим:	#
-## structure_block.mode.save=Сохранение	#
-## structure_block.mode.load=Загрузка	#
-## structure_block.mode.corner=Угол	#
-## structure_block.mode.data=Данные	#
+tipped_arrow.effect.turtleMaster=Стрѣла черепашьей мощи	#
+tipped_arrow.effect.slowFalling=Стрѣла плавнаго паденія	#
+
+structure_block.title=Структурный блокъ	#
+structure_block.structure_name=Названіе конструкціи	#
+structure_block.mode=Режимъ:	#
+structure_block.mode.save=Запись	#
+structure_block.mode.load=Чтеніе	#
+structure_block.mode.corner=Уголъ	#
+structure_block.mode.data=Cвѣдѣнія	#
 ## structure_block.mode.export=Трехмерный экспорт	#
 ## structure_block.mode.invalid=Недопустимый режим	#
-## structure_block.size=Размер:	#
-## structure_block.data_label=Данные:	#
+structure_block.size=Размѣры конструкціи	#
+structure_block.data_label=Cвѣдѣнія:	#
 ## structure_block.offset=Смещение:	#
-## structure_block.invisible_blocks=Невидимые блоки:	#
-## structure_block.include_entities=Включить сущности:	#
-## structure_block.show_bounding_box=Показать граничную рамку:	#
+structure_block.invisible_blocks=Показывать невидимые блоки:	#
+structure_block.include_entities=Учитывать сущности:	#
+structure_block.show_bounding_box=Показать границы:	#
 ## structure_block.mirror=Отражение:	#
 ## structure_block.animation_mode=Режим анимации:	#
 ## structure_block.animation_time=Время анимации:	#
@@ -8466,31 +8466,31 @@ tile.double_plant.grass.name=Высокая трава	#
 ## structure_block.include=Включить	#
 ## structure_block.detect=Определить	#
 ## structure_block.export=Экспорт	#
-## structure_block.corner=Угол	#
+structure_block.corner=Уголъ	#
 ## structure_block.corner.text.1.title=Угловой режим:	#
 ## structure_block.corner.text.2.paragraph=Угловой режим используется вместе с кнопкой «Обнаружить» в режиме сохранения, чтобы обозначить область для сохранения. Распознаются только те угловые блоки, которые называются так же, как сохраняемая структура.	#
 ## structure_block.export.disabled_message=Экспорт шаблонов миров с Рынка Minecraft выключен.	#
 ## structure_block.reset=Сбросить	#
-## structure_block.save=Сохранить	#
+structure_block.save=Запись	#
 ## structure_block.redstone_save_mode=Состояние сохранения красного камня	#
 ## structure_block.save_to_disk=Сохранить на диск	#
 ## structure_block.save_to_memory=Сохранить в памяти	#
-## structure_block.save.successful=Структура сохранена.	#
+structure_block.save.successful=Конструкція сохранена	#
 ## structure_block.load=Загрузить	#
 ## structure_block.mirror.none=Отсутствует	#
 ## structure_block.mirror.left_right=Слева направо	#
 ## structure_block.mirror.front_back=Спереди назад	#
 ## structure_block.rotation.none=Без поворота	#
-## structure_block.rotation.90=90	#
-## structure_block.rotation.180=180	#
-## structure_block.rotation.270=270	#
+structure_block.rotation.90=90	#
+structure_block.rotation.180=180	#
+structure_block.rotation.270=270	#
 ## structure_block.progress.generating=Создание модели...	#
 ## structure_block.extensionDescription=Файл строения	#
 ## structure_block.exportFileTitle=Экспорт строения	#
 ## structure_block.exportFailedTitle=Сбой экспорта	#
 ## structure_block.exportFailedDescription=Не удалось экспортировать строение.	#
 ## structure_block.exportProgressTitle=Экспорт структуры	#
-## 
+
 ## 3d_export.title=Трехмерный экспорт	#
 ## 3d_export.include_players=Включить игроков:	#
 ## 3d_export.remove_blocks=Удалить блоки:	#
@@ -8501,13 +8501,13 @@ tile.double_plant.grass.name=Высокая трава	#
 ## 3d_export.export=Экспорт	#
 ## 3d_export.reset=Сбросить	#
 ## 3d_export.remixServiceDiscontinued=Примечание. Сервис Remix3D больше не доступен, вместо него используйте "Экспорт" для локального сохранения.	#
-## 
-## title.oldgl1=Обнаружена старая видеокарта; это может помешать вам	#
-## title.oldgl2=играть в дальнейшем, когда потребуется OpenGL 2.0.	#
-## 
+
+title.oldgl1=Обнаружена устарѣвшая видеокарта; сіе можетъ вамъ помешать	#
+title.oldgl2=играть въ будущемъ, когда OpenGL 2.0 будетъ необходимъ!	#
+
 ## toolboxMode.text=уже скоро	#
-## 
-## ## These are being used by TextObject tests. Changing them will break the test.
+
+## These are being used by TextObject tests. Changing them will break the test.
 ## translation.test.args=%s %s	#
 ## translation.test.complex=Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!	#
 ## translation.test.escape=%%s %%%s %%%%s %%%%%s	#
@@ -8515,14 +8515,14 @@ tile.double_plant.grass.name=Высокая трава	#
 ## translation.test.invalid2=привет, %s	#
 ## translation.test.none=Здравствуй, мир!	#
 ## translation.test.world=мир	#
-## 
-## ## NOTE: Please do not localize the typeface names
+
+## NOTE: Please do not localize the typeface names
 ## typeface.mojangles=Mojangles	#
 ## typeface.notoSans=Noto Sans	#
-## 
+
 ## worldConversionErrorPrompt.title=Сбой преобразования мира	#
 ## worldConversionErrorPrompt.message=Ой! При преобразовании мира что-то пошло не так. Повторите попытку позже.	#
-## 
+
 ## worldError.corrupted=поврежден, запуск невозможен.	#
 ## worldError.invalidArguments=создан с недопустимыми аргументами.	#
 ## worldError.IO=невозможно открыть.	#
@@ -8535,20 +8535,20 @@ tile.double_plant.grass.name=Высокая трава	#
 ## worldError.recoveredCorruptedWorldWarning=Во время восстановления могли быть потеряны последние изменения.	#
 ## worldError.worldFailedRecovery=Ошибка восстановления	#
 ## worldError.worldFailedRecoveryText=Мы обнаружили поврежденный мир, но не смогли его восстановить.	#
-## 
+
 ## userData.recovered.title=Сохраненные данные восстановлены	#
 ## userData.recovered.text=Ваши поврежденные пользовательские настройки успешно восстановлены.	#
 ## userData.recovered.warning=Во время восстановления могли быть потеряны последние изменения.	#
 ## userData.unrecoverable.title=Сбой при восстановлении сохраненных данных	#
 ## userdata.unrecoverable.text=Мы обнаружили, что ваши пользовательские настройки были повреждены, но не смогли восстановить их.	#
-## 
+
 ## trial.pauseScreen.remainingTime=Осталось времени до окончания пробного периода: %s	#
 ## trial.pauseScreen.buyGame=Полная версия	#
 ## trial.survival.welcome=Благодарим за приобретение пробной версии Minecraft!	#
 ## trial.survival.remainingTime=осталось %d мин.	#
-## 
+
 ## trial.noInvitesOrJoining=Для игры вместе с друзьями необходимо купить полную версию игры	#
-## 
+
 ## trial.upsell.trialLabel=Пробная версия Minecraft	#
 ## trial.upsell.title=Да начнется испытание!	#
 ## trial.upsell.description=Эта пробная версия включает 90 минут игры. Изготавливайте предметы, стройте, исследуйте мир и получайте удовольствие! Но помните, что чтобы сохранить созданный мир, необходимо купить полную версию игры.	#
@@ -8558,12 +8558,12 @@ tile.double_plant.grass.name=Высокая трава	#
 ## trial.upsell.unlock=Разблокировать игру	#
 ## trial.upsell.startTrial=Запустить пробную версию	#
 ## trial.upsell.continueTrial=Продолжить пробное использование	#
-## 
+
 ## ratingPopUp.title=Нравится ли вам Minecraft?	#
 ## feedbackPopup.title=Хотите оставить отзыв?	#
-## 
-## ## NOTE: The following five lines are all related and shown together. When localizing, you may add line breaks to fit the paragraph,
-## ## as opposed to trying to literally translate each line.
+
+## NOTE: The following five lines are all related and shown together. When localizing, you may add line breaks to fit the paragraph,
+## as opposed to trying to literally translate each line.
 ## trial.upsell.expiredDescription.line1=Время истекло. Купите игру, чтобы разблокировать ее.	#
 ## trial.upsell.expiredDescription.line2=Исследуйте безграничные миры	#
 ## trial.upsell.expiredDescription.line3=Играйте с друзьями	#
@@ -8573,8 +8573,8 @@ tile.double_plant.grass.name=Высокая трава	#
 ## trial.upsell.expiredNewDescription.worldsDontTransferToFullGame.line1=Хотите и дальше исследовать, создавать и строить?! Разблокируйте полную игру, чтобы играть в бесконечных мирах сколько угодно!*	#
 ## trial.upsell.expiredTitle=Время вышло!	#
 ## trial.upsell.expiredViewWorld=Посмотреть мир	#
-## 
-## ## tabbedUpsell content
+
+## tabbedUpsell content
 ## trial.tabbed_upsell.title=Разблокируйте полную версию	#
 ## trial.tabbed_upsell.button=Купить Minecraft!	#
 ## trial.tabbed_upsell.buttonAlternate=Разблокируйте полную версию Minecraft	#
@@ -8597,11 +8597,11 @@ tile.double_plant.grass.name=Высокая трава	#
 ## trial.tabbed_upsell.addon.description=Хотите, чтобы волки вели себя как кролики? Все деревья превратились в сладкую вату? Вы можете изменить что угодно в полной версии Minecraft с дополнениями! Плюс вам станут доступны игра по сети, творческий режим, достижения и многое другое. Купите Minecraft сейчас, чтобы получить полный доступ!	#
 ## trial.tabbed_upsell.seeds.title=КЛЮЧИ ГЕНЕРАЦИИ	#
 ## trial.tabbed_upsell.seeds.description=Разблокируйте полную версию Minecraft и получите доступ к ключам генерации! Ключи генерации помогают вам открывать новые биомы – выживайте на ледяных равнинах, покоряйте высокогорье или пересекайте песчаные пустыни. Используйте уникальные шаблоны или исследуйте новые случайные миры. Получите доступ к ключам генерации, творческому режиму, игре по сети и многому другому, купив Minecraft сегодня!	#
-## 
+
 ## trial.tabbed_upsell.navleft=Вкладка навигации слева	#
 ## trial.tabbed_upsell.navRight=Вкладка навигации справа	#
-## 
-## ## Trial Collection content:
+
+## Trial Collection content:
 ## trial.starter.collection.title=Коллекция новичка Minecraft	#
 ## trial.master.collection.title=Коллекция мастера Minecraft	#
 ## trial.starter.collection.button=Купить коллекцию новичка	#
@@ -8633,8 +8633,8 @@ tile.double_plant.grass.name=Высокая трава	#
 ## trial.collection.12.title=Набор скинов «Злодеи»	#
 ## trial.collection.12.description=Примерьте костюм Cake Maniac, Frankencrafter или кого похуже!	#
 ## trial.includes=Включает	#
-## 
-## ## Trial Game content:
+
+## Trial Game content:
 ## trial.survival.mode.title=ВЫЖИВАНИЕ	#
 ## trial.creative.mode.title=ТВОРЧЕСТВО	#
 ## trial.survival.mode.1.intro_description=Оригинальный режим Minecraft: собирайте ресурсы, чтобы создавать инструменты и возводить строения, находите и выращивайте еду, чтобы утолять голод, деритесь с опасными мобами и исследуйте огромный мир.	#
@@ -8643,24 +8643,24 @@ tile.double_plant.grass.name=Высокая трава	#
 ## trial.creative.mode.2.intro_description=Вы получите пропуск на Остров вдохновения — учебный мир, где можно познакомиться с творческим режимом. Здесь вы быстро овладеете всеми секретами строительства! Еще больше потрясающих миров ждет вас на Рынке Minecraft.	#
 ## trial.tour.marketplace=ПРОЙТИСЬ ПО РЫНКУ	#
 ## trial.world.title=Какой пробный мир?	#
-## 
-## ## Edu Tutorial strings
+
+## Edu Tutorial strings
 ## tutorial.edu.menuTitle=Научиться играть	#
 ## tutorial.edu.title=Руководства	#
-## 
+
 ## utility.zipFile=Zip-файл	#
 ## utility.pdfFile=Файл PDF	#
 ## verification.nolicense.title=Ошибка лицензии	#
 ## verification.nolicense.description=Не удалось подтвердить, что вы приобрели Minecraft, на этом устройстве. Убедитесь, что вы загрузили и установили Minecraft из магазина. Или просто переподключитесь к Интернету и попробуйте еще раз.	#
-## 
-## ## Autosave Info strings
+
+## Autosave Info strings
 ## autosave.title=Автосохранение	#
 ## autosave.info.general=Когда вы видите этот значок, игра сохраняется. Не выключайте свое устройство, пока он не исчезнет.	#
 ## autosave.info.nx=Когда вы видите этот значок, игра сохраняется. Не выключайте Nintendo Switch, пока он не исчезнет.	#
 ## autosave.info.xbox=Когда вы видите этот значок, игра сохраняется. Не выключайте Xbox, пока он не исчезнет.	#
 ## autosave.info.desktop=Когда вы видите этот значок, игра сохраняется. Не выключайте компьютер, пока он не исчезнет.	#
-## 
-## ## Xbox Live Strings
+
+## Xbox Live Strings
 ## xbox.signin.error=Войдите в учетную запись Майкрософт, чтобы играть с друзьями, набирать счет игрока и получать достижения.	#
 ## xbox.signin.error.pocket.line1=Благодарим за участие в тестировании Realms! Функции приложения еще дорабатываются, так что вы можете столкнуться с ошибками. Сообщайте нам о них! Эта информация очень важна для нас.	#
 ## xbox.signin.error.pocket.line2=	#
@@ -8709,20 +8709,20 @@ tile.double_plant.grass.name=Высокая трава	#
 ## xbox.signOutLong=Выход из учетной записи Майкрософт	#
 ## xbox.externalServer.title=Игра на сервере	#
 ## xbox.externalServer.line1=Серверы предлагают одни из самых невероятных способов игры в Minecraft! Вам нужно лишь войти в систему, чтобы мы удостоверились, что у вас есть разрешение на игру по сети с новыми людьми.	#
-## 
+
 ## xbox.genericsignin.line1=Учетная запись Minecraft позволяет играть по сети с друзьями на компьютерах и мобильных устройствах. А знаете, что главное? 	#
 ## xbox.genericsignin.line2=Она бесплатна!	#
 ## xbox.genericsignin.line3=Используйте ее там, где вы играете в Minecraft.	#
-## 
+
 ## xbox.disconectionscreen.notSignedIn=Войдите в учетную запись Майкрософт, чтобы играть с друзьями.	#
 ## xbox.disconectionscreen.multiplayerNotAllowed=У этой учетной записи Майкрософт нет разрешений на присоединение к играм по сети.	#
 ## xbox.disconectionscreen.accessDenied=Чтобы присоединиться к игре, сначала необходимо завести в игре друзей.	#
-## 
+
 ## xbox.friendfinder.enterGamertag=Введите тег игрока	#
 ## xbox.friendfinder.findFriends=Поиск друзей по тегу игрока	#
 ## xbox.friendfinder.searchingForGamertag=Поиск	#
 ## xbox.friendfinder.gamertagNotFound=Тег игрока не найден	#
-## 
+
 ## xbox.profile.addFriend=Добавить друга	#
 ## xbox.profile.addFriend.success=Получилось! Игрок %s добавлен в список ваших друзей.	#
 ## xbox.profile.block=Заблокировать	#
@@ -8735,14 +8735,14 @@ tile.double_plant.grass.name=Высокая трава	#
 ## xbox.profile.realName=Настройте показ своего настоящего имени в приложениях Xbox с помощью параметров конфиденциальности.	#
 ## xbox.profile.removeFriend=Прекратить дружбу	#
 ## xbox.profile.report=Пожаловаться	#
-## 
+
 ## xbox.report.gamertag=Пожаловаться на игрока %s	#
 ## xbox.report.optionalText=Введите здесь текст (необязательно)	#
 ## xbox.report.toast=Вы пожаловались на игрока %s	#
 ## xbox.report.toastError=Не удалось отправить жалобу. Попробуйте еще раз позже.	#
 ## xbox.report.whyReport=Почему вы жалуетесь на игрока %s?	#
-## 
-## ## Player safety ban reasons defined by legal/compliance
+
+## Player safety ban reasons defined by legal/compliance
 ## xbox.report.cyberbullying=Виртуальная травля	#
 ## xbox.report.falseReporting=Слишком много ложных или неточных сообщений	#
 ## xbox.report.exploits=Эксплойты и сторонние приложения	#
@@ -8780,13 +8780,13 @@ tile.double_plant.grass.name=Высокая трава	#
 ## xbox.report.quittingEarly=Преждевременный выход	#
 ## xbox.report.unsportingBehavior=Неспортивное поведение	#
 ## xbox.report.voiceCommunication=Голосовое общение	#
-## 
+
 ## authserver.notavailable=Что-то пошло не так. Мы не можем подтвердить, что сервер, к которому вы пытаетесь подключиться, принадлежит к числу доверенных. Рекомендуем повторить попытку позже.	#
 ## authserver.authfailed=Ай-ай-ай! Сервер не прошел нашу проверку. Возможно, сервер, не принадлежащий к числу доверенных, выдает себя за доверенный сервер.	#
-## 
+
 ## platform.model.unknown=НЕИЗВЕСТНО	#
-## 
-## ## resource pack validation errors
+
+## resource pack validation errors
 ## packdiscoveryerror.manifest_pack_error=Не удалось открыть набор.	#
 ## packdiscoveryerror.incomplete_pack=Неполный набор.	#
 ## packdiscoveryerror.unsupported_file_format=Недопустимый ZIP-архив.	#
@@ -8809,8 +8809,8 @@ tile.double_plant.grass.name=Высокая трава	#
 ## packdiscoveryerror.version_too_high=Свойство "%s" имеет значение "%s", которое значительно превышает допустимое. Максимальное допустимое значение: "%s".	#
 ## packdiscoveryerror.version_too_low=Свойство "%s" имеет значение "%s", которое значительно ниже допустимого. Минимальное допустимое значение: "%s".	#
 ## packdiscoveryerror.format_version_1_engine_version_cap=Для свойства «%s» должно быть указано значение меньше, чем «%s». Чтобы использовать более новую версию, нужна версия формата 2.	#
-## 
-## ## pack upgrading
+
+## pack upgrading
 ## packupgradewarning.invalidpacktype=Предоставленный элемент «%s» в манифесте набора имеет недопустимое значение; по умолчанию выбирается набор ресурсов.	#
 ## packupgradewarning.required_manifest_property_missing=В манифесте набора отсутствует элемент «%s»; по умолчанию выбирается «%s».	#
 ## packupgradewarning.required_manifest_property_empty=Требуемый элемент «%s» в манифесте набора является пустым; по умолчанию выбирается «%s».	#
@@ -8819,12 +8819,12 @@ tile.double_plant.grass.name=Высокая трава	#
 ## packupgradewarning.manifest_upgraded=Манифест набора обновлен.	#
 ## packupgradewarning.duplicate_uuid=Предоставленный элемент UUID «%s» уже есть в манифесте набора; по умолчанию выбирается «%s».	#
 ## packupgradewarning.multiple_modules=В манифесте набора обнаружены многочисленные конфликтующие модули; по умолчанию выбирается «%s».	#
-## 
-## ## pack strings
+
+## pack strings
 ## pack.authors.label=Автор: %s	#
 ## pack.authors.none=Неизвестен	#
-## 
-## ## manifest pack validation
+
+## manifest pack validation
 ## manifestvalidation.title=Информация о наборе	#
 ## manifestvalidation.error=Ошибка	#
 ## manifestvalidation.info=Информация	#
@@ -8847,8 +8847,8 @@ tile.double_plant.grass.name=Высокая трава	#
 ## manifestvalidation.unkown.packid=Неизвестный ID набора	#
 ## manifestvalidation.unkown.packversion=Неизвестная версия набора	#
 ## manifestvalidation.noname=Отсутствует имя	#
-## 
-## ## UI pack warnings and errors
+
+## UI pack warnings and errors
 ## uiPackError.invalidChildNames=%s: дочерние элементы управления должны иметь уникальные имена (%s). В дальнейшем это приведет к возникновению ошибки, и файл не загрузится.	#
 ## uiPackError.parseError=%s: не удалось анализировать файл JSON интерфейса со стеком %s	#
 ## uiPackError.missingControl=%s: не удается найти элемент управления %s	#
@@ -8858,15 +8858,15 @@ tile.double_plant.grass.name=Высокая трава	#
 ## uiPackError.missingValue=%s (%s): отсутствует значение для операции «%s».	#
 ## uiPackError.missingOperation=%s (%s): отсутствует операция.	#
 ## uiPackError.invalidOperationName=%s (%s): недопустимая операция «%s».	#
-## 
+
 ## jsonValidationError.typeError=«%s»: недопустимый тип свойства. Ожидалось «%s», получено «%s»	#
 ## jsonValidationError.requiredPropertyError=«%s»: не удалось найти требуемое свойство «%s»	#
 ## jsonValidationError.invalidValueError=«%s»: не удалось найти допустимое значение для свойства. Ожидалось «%s»	#
-## 
+
 ## serverUI.errorTitle=Ошибка при создании формы.	#
 ## serverUI.errorDescription=Получена недопустимая форма JSON. Ошибка: %s	#
-## 
-## ## Content importing
+
+## Content importing
 ## content.import.failed=Не удалось импортировать «%s»	#
 ## content.import.failed.subtitle=Подробнее смотрите в выходном журнале	#
 ## content.import.failed.subtitle_duplicate=Обнаружен дубликат набора	#
@@ -8877,14 +8877,14 @@ tile.double_plant.grass.name=Высокая трава	#
 ## content.import.succeeded_with_warnings=Успешный импорт с предупреждениями: «%s»	#
 ## content.import.succeeded_with_warnings.subtitle=Щелкните здесь, чтобы узнать подробнее	#
 ## content.import.started=Импорт запущен...	#
-## 
-## ## World Templates
+
+## World Templates
 ## worldTemplate.festivemashup2016.name=Микс «Новый год 2016»	#
 ## worldTemplate.redstonemansion.name=Особняк из красного камня	#
 ## worldTemplate.chinesemythology.name=Микс «Китайская мифология»	#
 ## worldTemplate.GreekMythology.name=Микс «Греческая мифология»	#
 ## worldTemplate.Skyrim.name=Микс Skyrim	#
-## 
+
 ## eduTemplateWorld.theAgentTrials.name=Эксперименты агента	#
 ## eduTemplateWorld.tutorialWorld.name=Мир обучения	#
 ## eduTemplateWorld.mushroomIsland.name=Грибной остров	#
@@ -8892,24 +8892,24 @@ tile.double_plant.grass.name=Высокая трава	#
 ## eduTemplateWorld.starterTown.name=Начальный город	#
 ## eduTemplateWorld.tutorialVolumeII.name=Обучение, выпуск II	#
 ## eduTemplateWorld.blocksOfGrass.name=Блок травы	#
-## 
-## ## World Conversion Complete Popup
+
+## World Conversion Complete Popup
 ## worldConversionComplete.title=Преобразование завершено	#
 ## worldConversionComplete.load_prompt=Хотите теперь начать игру в этом мире?	#
-## 
-## ## the following strings are still in-use in 15.* and should not be removed until we are done servicing the 15.* releases
-## addServer.add=Готово	#
+
+## the following strings are still in-use in 15.* and should not be removed until we are done servicing the 15.* releases
+addServer.add=Готово	#
 ## externalServerScreen.addServer=Добавить сервер	#
 ## externalServerScreen.addServerTitle=Добавить сервер:	#
 ## externalServerScreen.addServerDescription=Чтобы добавить внешний сервер, необходимо знать его имя и IP-адрес. После добавления сервер можно будет найти в списке серверов для игры.	#
-## addServer.enterIp=Адрес сервера	#
-## addServer.enterName=Имя сервера	#
-## addServer.hideAddress=Скрыть адрес	#
-## addServer.resourcePack=Серверные наборы ресурсов	#
-## addServer.resourcePack.disabled=Отключено	#
-## addServer.resourcePack.enabled=Включено	#
-## addServer.resourcePack.prompt=Запрашивать	#
-## addServer.title=Сведения о сервере	#
+addServer.enterIp=Адресъ салона	#
+addServer.enterName=Названіе салона	#
+addServer.hideAddress=Сокрыть адресъ	#
+addServer.resourcePack=Наборы вещей	#
+addServer.resourcePack.disabled=Отключены	#
+addServer.resourcePack.enabled=Включены	#
+addServer.resourcePack.prompt=Запрашивать	#
+addServer.title=Свѣдѣнія о салонѣ	#
 ## addServer.alreadyAdded=Этот сервер уже добавлен	#
 ## externalServerScreen.header=Добавить внешний сервер	#
 ## externalServerScreen.label=Добавить сервер по IP/адресу	#
@@ -8928,8 +8928,8 @@ tile.double_plant.grass.name=Высокая трава	#
 ## survey.line5=Я считал(а), что мне нужна консоль Xbox	#
 ## survey.line6=Не интересно	#
 ## survey.title=Обратная связь: почему вы не вошли?	#
-## ## end of 15.* release branch strings
-## 
+## end of 15.* release branch strings
+
 ## tips.edu.1=Удерживайте SHIFT, чтобы делать снимки крупным планом с помощью камеры.	#
 ## tips.edu.2=В отличие от обычных табличек, грифельные таблички, плакаты и доски можно редактировать много раз.	#
 ## tips.edu.3=Используйте CTRL+B, чтобы включить преобразование текста в речь в игровом чате.	#
@@ -8960,7 +8960,7 @@ tile.double_plant.grass.name=Высокая трава	#
 ## tips.edu.28=Хотите использовать Code Builder? Убедитесь, что включены читы.	#
 ## tips.edu.29=Нажмите клавишу F5, чтобы изменить перспективу игрока.	#
 ## tips.edu.30=Используйте команду «/spawnpoint», чтобы изменить точку своего появления. Это как будто проснуться в кровати!	#
-## 
+
 ## tips.game.1=Приманивайте и кормите морских черепах морской травой.	#
 ## tips.game.2=Защитите черепашат от хищных мобов!	#
 ## tips.game.3=По мере роста черепашата будут сбрасывать щитки, из которых можно составлять панцири.	#
@@ -9023,18 +9023,18 @@ tile.double_plant.grass.name=Высокая трава	#
 ## tips.game.60=Для возрождения в Нижнем мире нужен заряженный якорь возрождения.	#
 ## tips.game.61=Зарядить якорь возрождения можно с помощью светящегося камня.	#
 ## tips.game.62=Играете на iOS, Android или FireOS? Получите на рынке бесплатный набор оригинальной музыки Minecraft для полного погружения в Minecraft.	#
-## 
+
 ## splitscreen.joinPrompt=Войдите как игрок %s	#
 ## splitscreen.unavailable.toastHeader=Разделенный экран недоступен	#
 ## splitscreen.unavailable.toastMessage=Второй игрок сейчас не может присоединиться.	#
 ## splitscreen.unavailable.toastBodyInfo=Нажмите, чтобы получить дополнительную информацию.	#
 ## splitscreen.joyconError.toastHeader=Не удается подключиться к Joy-Con!	#
 ## splitscreen.joyconError.toastMessage=Не удается присоединиться к игре, поскольку в режиме локальной сети у вас подключено слишком много устройств управления.	#
-## 
+
 ## usermanagement.changeUser=Сменить пользователя	#
-## 
+
 ## lateJoinScreen.waitingForUserReady=Идет подготовка	#
-## 
+
 ## hbui.AchievementDetails.anotherPlatform=Завершено на другой платформе	#
 ## hbui.AchievementDetails.completed=Завершено	#
 ## hbui.AchievementDetails.gamerscore=Счет игрока	#
@@ -9286,12 +9286,12 @@ tile.double_plant.grass.name=Высокая трава	#
 ## hbui.Toggle.elementType=переключение выбора	#
 ## hbui.Toggle.select=Выбрать	#
 ## hbui.Toggle.selected=выбрано	#
-## 
-## ## Storage Migration
+
+## Storage Migration
 ## storage_migration.progress.title=Перемещение файлов	#
 ## storage_migration.progress.message=Перемещение "%s"...	#
 ## storage_migration.worlds_error=Некоторые миры недоступны, поскольку их не удалось переместить. Перезапустите Minecraft, чтобы повторить попытку.	#
-## 
+
 ## storage_migration.button.get_started=Начало работы	#
 ## storage_migration.button.retry=Повторить	#
 ## storage_migration.button.go_to_faq=Перейти к ответам на часто задаваемые вопросы	#
@@ -9304,16 +9304,16 @@ tile.double_plant.grass.name=Высокая трава	#
 ## storage_migration.button.faq=Прочитайте ответы на часто задаваемые вопросы, чтобы получить более подробные сведения.	#
 ## storage_migration.button.microsoft_store=Перейти в Microsoft Store	#
 ## storage_migration.button.help=Справка	#
-## 
+
 ## storage_migration.title.initializing=Оптимизация данных	#
 ## storage_migration.gathering_info.description=Сбор информации...	#
 ## storage_migration.description.out_of_space=У вас недостаточно свободного места для перемещения файлов в новое местоположение.	#
-## 
+
 ## storage_migration.start_transfer.generic.title=Новое место хранения	#
 ## storage_migration.start_transfer.description=Нам нужно переместить ваши файлы в другое место на вашем устройстве.	#
 ## storage_migration.start_transfer.total_file_size=Общий размер файлов:	#
 ## storage_migration.start_transfer.new_location=Новое место: %s	#
-## 
+
 ## storage_migration.resume_transfer.title=Перемещение прервано	#
 ## storage_migration.resume_transfer.description=Идет перемещение ваших данных в новое место на вашем устройстве. Нажмите кнопку «Продолжить», чтобы завершить перемещение.	#
 ## storage_migration.resume_transfer.description.out_of_space=Идет перемещение ваших данных в новое место на вашем устройстве, однако у вас недостаточно свободного места.	#
@@ -9321,16 +9321,16 @@ tile.double_plant.grass.name=Высокая трава	#
 ## storage_migration.resume_transfer.available=(имеется %s)	#
 ## storage_migration.resume_transfer.location=Местоположение: %s	#
 ## storage_migration.resume_transfer.free_up=Освободите не менее %s, чтобы продолжить.	#
-## 
+
 ## storage_migration.transfer_error_out_of_space.title=Недостаточно свободного места	#
 ## storage_migration.transfer_error_out_of_space.files_left=Осталось файлов:	#
-## 
+
 ## storage_migration.finished.generic.title=Готово!	#
 ## storage_migration.finished.generic.description=Ваши файлы успешно перемещены. Перезапустите Minecraft.	#
-## 
+
 ## storage_migration.transfer_error.title=Возникла проблема при перемещении файлов!	#
 ## storage_migration.transfer_error.description=Нам не удалось переместить все ваши файлы. Мы столкнулись со следующей ошибкой: (%s).	#
-## 
+
 ## storage_migration.progress.starting=Запуск...	#
 ## storage_migration.progress.gathering=Получение файлов из исходной папки...	#
 ## storage_migration.progress.copying=Копирование файлов...	#
@@ -9340,24 +9340,24 @@ tile.double_plant.grass.name=Высокая трава	#
 ## storage_migration.progress.error.io_error=Сбой (ошибка ввода-вывода файлов)	#
 ## storage_migration.progress.error.io_no_space=Сбой (ошибка ввода-вывода файлов или отсутствие места)	#
 ## storage_migration.progress.error.internal=Сбой (внутренняя ошибка)	#
-## 
+
 ## trade.doesNotWant=Торговцу такой предмет не нужен	#
-## trade.excalamation=!	#
+trade.excalamation=!	#
 ## trade.expProgress=Опыт: %d/%d	#
 ## trade.expMax=Опыт: MAКСИМУМ	#
 ## trade.levelPrefix=Уровень %d	#
 ## trade.levelPrefixAndName=Уровень %d — %s	#
 ## trade.levelPrefixAndName.max=Максимальный уровень — %s	#
-## trade.level.1=Новичок	#
-## trade.level.2=Ученик	#
-## trade.level.3=Подмастерье	#
-## trade.level.4=Эксперт	#
-## trade.level.5=Мастер	#
+trade.level.1=Неопытный	#
+trade.level.2=Подмастерье	#
+trade.level.3=Ремесленникъ	#
+trade.level.4=Экспертъ	#
+trade.level.5=Мастеръ	#
 ## trade.mysteriousText=чуть-чуть	#
 ## trade.notEnough=Недостаточно %s	#
-## trade.question=?	#
+trade.question=?	#
 ## trade.trade=Торговля	#
-## 
+
 ## map.rename=Переименовать карту	#
 ## map.basicMap=Обычная карта	#
 ## map.locatorMap=Карта, на которой отображаются игроки	#
@@ -9365,7 +9365,7 @@ tile.double_plant.grass.name=Высокая трава	#
 ## map.clone=Копировать карту	#
 ## map.name=Название карты	#
 ## map.lock=Заблокировать карту	#
-## 
+
 ## contentlog.history.title=Журнал содержимого	#
 ## contentlog.history.copyToClipboard=Копировать в буфер обмена	#
 ## contentlog.logLocationSectionName=Расположение журнала содержимого:	#
@@ -9377,7 +9377,7 @@ tile.double_plant.grass.name=Высокая трава	#
 ## contentlog.delete.delete=Удалить сейчас	#
 ## contentlog.delete.cancel=Отмена	#
 ## contentlog.delete.progress=Удаление содержимого журналов	#
-## 
+
 ## client.version.generic=Обновление %s	#
 ## client.version.1.0=Обновление Края (%s)	#
 ## client.version.1.1=Обновление исследования (%s)	#
@@ -9385,7 +9385,7 @@ tile.double_plant.grass.name=Высокая трава	#
 ## client.version.1.4=Водное обновление (%s)	#
 ## client.version.1.5=Водное обновление (%s)	#
 ## client.version.1.11=Деревня и мародеры (%s)	#
-## 
+
 ## cloud_upload.title=Поддержка игроков Mojang	#
 ## cloud_upload.prompt.description=Согласно вашему недавнему запросу в службу поддержки, служба поддержки игроков Mojang предоставила разрешение на отправку вашего мира. Вы можете отправить этот мир с экрана «Выбор мира» или из раздела «Настройки мира».	#
 ## cloud_upload.prompt.do_not_show_toggle=Больше не показывать этот экран	#
@@ -9402,7 +9402,7 @@ tile.double_plant.grass.name=Высокая трава	#
 ## cloud_upload.succeeded.description=Отправка мира успешно завершена. Спасибо!	#
 ## cloud_upload.failed.description=Не удалось отправить мир. Повторить попытку?	#
 ## cloud_upload.tts.message=Отправка файлов мира	#
-## 
+
 ## dr.banner.sale=Распродажа!	#
 ## dr.banner.limitedTimeOffer=Временное предложение!	#
 ## dressingRoom.skin_color_picker_title=Цвет кожи	#
@@ -9452,12 +9452,12 @@ tile.double_plant.grass.name=Высокая трава	#
 ## dr.header.classic_skins=Классические скины	#
 ## dr.header.creator_piece_list=Все: %s	#
 ## dr.header.customization=Создатель персонажей	#
-## 
+
 ## dr.accessibility.header.customization=Средство создания персонажей, вкладка 1 из 4	#
 ## dr.accessibility.header.classic_skins=Классические скины, вкладка 2 из 4	#
 ## dr.accessibility.header.animation=Эмотиконы, вкладка 3 из 4	#
 ## dr.accessibility.header.capes=Плащи, вкладка 4 из 4	#
-## 
+
 ## dr.header.featured=Избранные предметы	#
 ## dr.header.previewAppearance=Предварительный просмотр	#
 ## dr.header.colorPicker=Средство выбора цветов	#
@@ -9538,7 +9538,7 @@ tile.double_plant.grass.name=Высокая трава	#
 ## dr.emotes.slot=Эмоция %d	#
 ## dr.deep_link_fail.profile=Сбой глубокой связи: не удается загрузить профиль	#
 ## dr.deep_link_fail.dressing_room=Сбой глубокой связи: не удается открыть предложение	#
-## 
+
 ## onlinePlay.notRated=К игре онлайн не применяется рейтинг	#
 ## onlinePlay.message=Во время игры онлайн вы можете увидеть сообщения чата и другой создаваемый игроками контент без пометок о рейтинге, который может быть неприемлемым для некоторых возрастных групп.	#
 ## onlinePlay.doNotShowAgain=Больше не показывать этот экран	#
@@ -9615,13 +9615,13 @@ tile.double_plant.grass.name=Высокая трава	#
 ## dr.color.tangaroa_dark_blue=Темно-синий	#
 ## dr.color.vanilla=Слоновая кость	#
 ## dr.color.warm_bisque=Теплый бежевый	#
-## 
+
 ## emotes.change_emotes=Изменить эмоции	#
 ## emotes.execute=Выполнить	#
 ## emotes.header_text=Эмоции	#
-## 
-## ## Dynamic Package Manager
-## ## Google Play APK Expansion file downloader notification
+
+## Dynamic Package Manager
+## Google Play APK Expansion file downloader notification
 ## dynamicPackage.download.android.state_unknown=Запуск...	#
 ## dynamicPackage.download.android.state_idle=Ожидание загрузки...	#
 ## dynamicPackage.download.android.state_fetchingUrl=Поиск ресурсов...	#
@@ -9644,8 +9644,8 @@ tile.double_plant.grass.name=Высокая трава	#
 ## dynamicPackage.download.android.timeRemainingNotification=Осталось %1$s					### %1$s is the time remaining
 ## dynamicPackage.download.android.notificationChannelName=Состояние обновления	#
 ## dynamicPackage.download.android.NotificationChannelDescription=Показать состояние обновления и прогресс	#
-## 
-## ## GameTest content
+
+## GameTest content
 ## gameTest.description=Взаимодействует с GameTest.	#
 ## gameTest.error.unknownCommandMode=Указан неизвестный командный режим	#
 ## gameTest.error.missingStructure=Не удалось найти структурный блок в радиусе %s	#
@@ -9714,8 +9714,8 @@ tile.double_plant.grass.name=Высокая трава	#
 ## gameTest.report.allRequiredTestsPassed=Все обязательные тесты пройдены :)	#
 ## gameTest.report.optionalFailures=Сбой дополнительных тестов: %s	#
 ## gameTest.report.bookTitle=Отчет о тестировании игры	### A book with this title is placed next to each test with the test results inside
-## 
-## ## Script
+
+## Script
 ## script.description=Параметры отладки для GameTest Framework.	#
 ## script.error.unknownCommandMode=Указан неизвестный командный режим	#
 ## script.error.noDebugger=Отладчик недоступен	#
@@ -9723,4 +9723,3 @@ tile.double_plant.grass.name=Высокая трава	#
 ## script.success.debuggerListen=Отладчик прослушивает порт %s	#
 ## script.success.debuggerConnect=Отладчик подключен к хосту %s на порте %s	#
 ## script.success.debuggerClosed=Отладчик закрыт	#
-## 
