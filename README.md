@@ -6,9 +6,19 @@ Pre-reform russian language from Java to Bedrock Edition
 * Manual rpr lang port from java to bedrock (And java <1.12.2)
 * Full translate (errors, commands help, achievements, etc)
 
+## Status
+* ~~Items~~
+* ~~Blocks~~
+* GUI
+* Achievements
+* ~~Death messages~~
+* Error messages
+* Bedrock GUI
+* Education Edition
+
 ## Note about files
 * `.*_orig` - Original files from Mojang's game
-* `.lang_manual` - file with manual rpr lang porting
+* `.lang_to-bedrock` - file created by to-bedrock tool
 * `.lang` - file with relevant port of lang
 
 ## Thanks
