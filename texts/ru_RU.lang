@@ -1,5 +1,5 @@
 ## Comments can be added anywhere on a valid line by starting with '##'
-##
+
 ## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
 ## comment on the same line, use TABs.
 ## accessibility.disableTTS=Преобразование текста в речь отключено
@@ -17,9 +17,9 @@
 ## accessibility.chat.tts.muteChatToggle=Приглушить всех
 ## accessibility.chat.tts.sendChatMessage=Отправить
 ## accessibility.chat.tts.textboxTitle=Чат
-## 
+
 ## accessibility.game.playerView=Представление игрока
-## 
+
 ## accessibility.loading.done=Готово
 ## accessibility.saving.done=Готово
 ## accessibility.downloading.start=Загрузка началась
@@ -38,7 +38,7 @@
 ## accessibility.list.or.three_or_more.first=%s
 ## accessibility.list.or.three_or_more.inner=, %s
 ## accessibility.list.or.three_or_more.last=, или %s
-## 
+
 ## accessibility.button.tts.title=Кнопка
 ## accessibility.checkbox.tts.title=Флажок
 ## accessibility.checkbox.tts.status=состояние %s		## Status will be checked or unchecked
@@ -48,28 +48,28 @@
 ## accessibility.tab.tts.title=Вкладка
 ## accessibility.textbox.tts.title=Текстовое поле
 ## accessibility.toggle.tts.title=Переключатель
-## 
+
 ## accessibility.button.close=закрыть
 ## accessibility.button.back=назад
 ## accessibility.button.exit=Выйти
-## 
+
 ## accessibility.dropdown.listItem=Элемент списка
-## 
+
 ## accessibility.sectionName=Раздел %s: 
-## 
+
 ## accessibility.state.on=: вкл.
 ## accessibility.state.off=: выкл.
-## 
+
 ## accessibility.state.checked=: выбрано
 ## accessibility.state.unchecked=: не выбрано
-## 
+
 ## accessibility.state.selected=: выбрано
 ## accessibility.state.unselected=: не выбрано
-## 
+
 ## accessibility.index= %s из %s	## This is numbering, which number out of the total number of objects is available for interaction. Example: 1 of 3
-## 
+
 ## accessibility.slider.tts.percentValue=%s %
-## 
+
 ## accessibility.play.editWorld=Изменить мир
 ## accessibility.play.editRealm=Изменить реалм
 ## accessibility.play.editServer=Изменить сервер
@@ -80,12 +80,12 @@
 ## accessibility.play.tabRight=Нажмите %s для отступа вправо
 ## accessibility.play.legacyWorldsDelete=Удалить устаревший мир
 ## accessibility.play.uploadWorld=Отправить мир
-## 
+
 ## accessibility.pause.permissions=Разрешения
 ## accessibility.pause.profile=Выбрать профиль
-## 
+
 ## accessibility.start.buttonHelper=%s : %s	## Used for on-screen gamepad helpers (eg. "Y Button : Change User")
-## 
+
 ## accessibility.screenName.achievements=Экран достижений
 ## accessibility.screenName.chat=Экран чата
 ## accessibility.screenName.chatSettings=Экран настроек чата
@@ -113,19 +113,19 @@
 ## accessibility.screenName.start=Главное меню
 ## accessibility.screenName.vrAlignment=Экран настройки VR-очков
 ## accessibility.screenName.emoteWheel=Экран эмоций
-## 
+
 ## accessibility.settings.reset=сбросить
 ## accessibility.settings.chooseSeed=Выбрать ключ
-## 
+
 ## accessibility.start.feedback=Отправить отзыв
 ## accessibility.start.new=Создать
 ## accessibility.start.profile=Выбрать профиль
 ## accessibility.start.skinPicker=Выбрать скин
-## 
+
 ## accessibility.store.tag=Тег
-## 
+
 ## accessibility.textbox.editing=Изменение
-## 
+
 ## accessibility.text.period=Точка
 ## accessibility.text.period.url=Точка				## Pronunciation for a period inside of a URL, as in "www dot microsoft dot com"
 ## accessibility.text.comma=Запятая
@@ -146,7 +146,7 @@
 ## accessibility.text.verticalBar=Вертикальная черта
 ## accessibility.text.forwardSlash=Косая черта
 ## accessibility.text.backwardSlash=Обратная косая черта
-## 
+
 ## accessibility.text.exclamationPoint=Восклицательный знак
 ## accessibility.text.atSign=@
 ## accessibility.text.hashTag=Хэштег
@@ -161,13 +161,13 @@
 ## accessibility.text.underScore=Подчеркивание
 ## accessibility.text.plus=Плюс
 ## accessibility.text.equals=Равно
-## 
+
 ## accessibility.text.unsupported=Неизвестный символ
-## 
+
 ## accessibility.toast=Сообщение	## This is the name of the popup that appears when a player gets a notification for a game invite or achievement unlocked
-## 
+
 ## accessibility.worldTemplates.help=Справка
-## 
+
 ## accessibility.popup.title=Выключить экранный диктор?
 ## accessibility.popup.message.line1=Добро пожаловать в Minecraft!
 ## accessibility.popup.message.default=На вашем устройстве экранный диктор включен по умолчанию.
@@ -177,11 +177,11 @@
 ## accessibility.popup.message.line3=Отключить экранный диктор?
 ## accessibility.popup.left_button_text=Выключить
 ## accessibility.popup.right_button_text=Не выключать
-## 
+
 ## accessibility.controllerLayoutScreen.buttonRemapped=%s теперь привязано к %s
 ## accessibility.controllerLayoutScreen.buttonBoundTo=Кнопка %s: %s
 ## accessibility.controllerLayoutScreen.buttonRemapping=Выберите кнопку для привязки к %s
-## 
+
 ## accessibility.gamepad.faceButton.down=Кнопка А
 ## accessibility.gamepad.faceButton.right=Кнопка B
 ## accessibility.gamepad.faceButton.left=Кнопка X
@@ -198,10 +198,10 @@
 ## accessibility.gamepad.trigger.left=Левый курок
 ## accessibility.gamepad.bumper.right=Правый бампер
 ## accessibility.gamepad.bumper.left=Левый бампер
-## 
+
 ## accessibility.keyboard.leftBracket=Клавиша с открывающей квадратной скобкой		## left square bracket means '[' on the english keyboard
 ## accessibility.keyboard.rightBracket=Клавиша с закрывающей квадратной скобкой	## right square bracket means ']' on the english keyboard
-## 
+
 ## accessibility.emotes.hovered=%s, кнопка эмотикона %d, %d из %d
 ## accessibility.emotes.assigned=Назначена эмоция %s
 ## accessibility.emotes.unassigned=Не назначено
@@ -209,16 +209,16 @@
 ## accessibility.emotes.playFailed=Нет эмотиконов, назначенных на эту кнопку. Нажмите %s для доступа к кнопке изменения эмотиконов
 ## accessibility.emotes.changeEmotesInstruction.button=%s для доступа к
 ## accessibility.emotes.keyboard.arrow=стрелка
-## 
+
 ## accessibility.emotes.instruction.keyboard=Нажимайте вправо или влево, чтобы прокрутить кнопки эмоций. Нажмите стрелку вниз для доступа к кнопке изменения эмоций.
-## 
-## ## End of audible phrases section
-## 
+
+## End of audible phrases section
+
 ## accounts.name=Имя: %s (%s)
 ## accounts.signedInAs=Выполнен вход через учетную запись
 ## accounts.signOutConfirmation=Вы хотите выйти и войти в другую учетную запись?
 ## accounts.switch=Сменить учетную запись
-## 
+
 ## achievement.alternativeFuel=Альтернативное топливо
 ## achievement.alternativeFuel.desc=Поддайте жару в печке с блока водорослей
 achievement.acquireIron=Куй желѣзо...
@@ -295,7 +295,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## achievement.theEnd2.desc=Убейте дракона Края.
 ## achievement.unknown=???
 ## achievement.uninitScore=--
-## 
+
 ## achievementScreen.achievements:=Достижения:
 ## achievementScreen.gamerscore:=Счет игрока:
 ## achievementScreen.hour=%d час
@@ -303,7 +303,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## achievementScreen.timeplayed:=Время в игре:
 ## achievementScreen.fetchingAchievements=Сбор достижений...
 ## achievementScreen.reward=Награда
-## 
+
 ## action.hint.exit.boat=Чтобы выйти из лодки, нажмите «Прыжок».
 ## action.hint.exit.minecart=Чтобы выйти из вагонетки, нажмите «Прыжок».
 ## action.hint.exit.pig=Нажмите кнопку «Красться», чтобы спешиться
@@ -313,7 +313,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## action.hint.exit.mule=Нажмите кнопку «Красться», чтобы спешиться
 ## action.hint.exit.llama=Нажмите кнопку «Красться», чтобы спешиться
 ## action.hint.exit.skeleton_horse=Нажмите кнопку «Красться», чтобы спешиться
-## 
+
 ## action.hint.exit.console.boat=Нажмите кнопку :_input_key.jump:, чтобы выйти из лодки
 ## action.hint.exit.console.minecart=Нажмите кнопку :_input_key.jump:, чтобы выйти из вагонетки
 ## action.hint.exit.console.pig=Нажмите кнопку :_input_key.sneak:, чтобы спешиться
@@ -323,7 +323,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## action.hint.exit.console.mule=Нажмите кнопку :_input_key.sneak:, чтобы спешиться
 ## action.hint.exit.console.llama=Нажмите кнопку :_input_key.sneak:, чтобы спешиться
 ## action.hint.exit.console.skeleton_horse=Нажмите кнопку :_input_key.sneak:, чтобы спешиться
-## 
+
 ## action.interact.creeper=Зажечь
 ## action.interact.edit=Изменить
 ## action.interact.exit.boat=Выйти из лодки
@@ -360,19 +360,19 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## action.interact.read=Читать
 ## action.interact.wakevillager=Разбудить селянина
 ## action.interact.barter=Бартер
-## 
-## advMode.allEntities=@e = все сущности
-## advMode.allPlayers=@a = все игроки
-## advMode.command=Ввод команды
-## advMode.nearestPlayer=@p = ближайший игрок
-## advMode.notAllowed=Игрок должен иметь статус оператора и быть в творческом режиме.
-## advMode.notEnabled=Командные блоки не разрешены на этом сервере
-## advMode.previousOutput=Предыдущий вывод
-## advMode.randomPlayer=@r = случайный игрок
-## advMode.self=@s = вы
-## advMode.setCommand=Задать команду консоли для блока
-## advMode.setCommand.success=Команда задана: %s
-## 
+
+advMode.allEntities=Используйте «@e», чтобы указать всѣхъ сущностей
+advMode.allPlayers=Используйте «@a», чтобы указать всѣхъ игроковъ
+advMode.command=Консольный приказъ
+advMode.nearestPlayer=Используйте «@p», чтобы указать ближайшаго игрока
+advMode.notAllowed=Игрокъ долженъ состоять на должности управляющаго и быть въ творческомъ режимѣ
+advMode.notEnabled=Въ сёмъ салонѣ ариѳмометры запрещены
+advMode.previousOutput=Предыдущій выводъ
+advMode.randomPlayer=Используйте «@r», чтобы указать случайнаго игрока
+advMode.self=Используйте «@s», чтобы указать исполнителя приказа
+advMode.setCommand=Отдайте приказъ блоку
+advMode.setCommand.success=Приказ отданъ: %s
+
 ## apple.iCloudDisabled.title=Не теряйте свои миры!
 ## apple.iCloudDisabled.message=Ваши миры не сохраняются как надо. Возможно, они исчезнут при вашей следующей игре в Minecraft. Чтобы сохранить все свои миры, перейдите в настройки Apple TV и включите службу iCloud.
 ## apple.iCloudDisabled.button.turnOnICloud=Включить iCloud
@@ -383,26 +383,26 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## apple.iCloudSignInRequired.message=Чтобы играть в Minecraft, необходимо войти в iCloud. Перейдите к настройкам Apple TV и включите iCloud.
 ## apple.iCloudUserChanged.message=Выполнен вход в новую учетную запись iCloud. Чтобы играть, вам необходимо перезапустить Minecraft.
 ## apple.LocalNetworkPermission.message=Приложение Minecraft хочет получить доступ к локальной сети. Это позволит вам и другим пользователям локальной сети играть вместе. Если вы не разрешите доступ, это не повлияет на сетевые функции и игровой процесс, но вы не сможете играть вместе с пользователями из вашей локальной сети.
-## 
-## attribute.modifier.plus.0=+%d %s
-## attribute.modifier.plus.1=+%d%% %s
-## attribute.modifier.plus.2=+%d%% %s
-## attribute.modifier.take.0=-%d %s
-## attribute.modifier.take.1=-%d%% %s
-## attribute.modifier.take.2=-%d%% %s
-## attribute.name.minecraft:attack_damage=Урон
-## attribute.name.minecraft:follow_range=Диапазон преследования моба
-## attribute.name.minecraft:knockback_resistance=Сопротивление отбрасыванию
-## attribute.name.generic.maxHealth=Максимальное здоровье
-## attribute.name.generic.attackDamage=Урон
-## attribute.name.generic.knockbackResistance=Сопротивление отбрасыванию
-## attribute.name.minecraft:movement=Скорость
-## attribute.name.horse.jumpStrength=Сила прыжка лошади
-## attribute.name.zombie.spawnReinforcements=Подкрепление зомби
-## 
+
+attribute.modifier.plus.0=+%d %s
+attribute.modifier.plus.1=+%d%% %s
+attribute.modifier.plus.2=+%d%% %s
+attribute.modifier.take.0=-%d %s
+attribute.modifier.take.1=-%d%% %s
+attribute.modifier.take.2=-%d%% %s
+attribute.name.minecraft:attack_damage=Уронъ
+attribute.name.minecraft:follow_range=Діапазонъ преслѣдованія твари
+attribute.name.minecraft:knockback_resistance=Сопротивленіе отбрасыванію
+attribute.name.generic.maxHealth=Наибольшее здоровье
+attribute.name.generic.attackDamage=Уронъ
+attribute.name.generic.knockbackResistance=Сопротивленіе отбрасыванію
+attribute.name.minecraft:movement=Рѣзвость
+attribute.name.horse.jumpStrength=Сила прыжка лошади
+attribute.name.zombie.spawnReinforcements=Подкрѣпленіе мертвецовъ
+
 ## attribution.goBack=Назад
 ## attribution.viewAttribution=Чтобы просмотреть определения, откройте страницу https://minecraft.net/attribution в любом веб-браузере.
-## 
+
 ## authentication.demo.body.default=Запуск демоверсии…
 ## authentication.demo.body.error=К сожалению, этот урок в настоящий момент недоступен.
 ## authentication.demo.title=Загрузка демоверсии
@@ -454,43 +454,43 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## authentication.error.outOfDate.body=Мы сожалеем, но эта версия Minecraft: Education Edition больше не поддерживается. Выполните обновление до последней версии, чтобы продолжить игру.
 ## authentication.error.outOfDate.downloadPage=Перейти на страницу загрузки
 ## authentication.error.accountType.body=Ой! Похоже, вы вошли с личной учетной записью. Эта учетная запись не имеет права использовать Minecraft: Education Edition. Убедитесь, что входите с учетной записью вашего учебного заведения или организации, и повторите попытку.
-## 
+
 ## eula.intro=Для пользования Minecraft: Education Edition необходимо принять «Лицензионное соглашение пользователя».
 ## eula.location=Ознакомиться с текстом соглашения можно по адресу:
 ## eula.title=Лицензионное соглашение с пользователем
 ## eula.view=Просмотреть условия лицензии
 ## eula.callToAction=Нажмите «Принять», чтобы принять условия соглашения.
 ## eula.acceptButton=Принять
-## 
-## book.byAuthor=Автор:
-## book.defaultAuthor=Неизвестный автор
-## book.editTitle=Введите название книги:
+
+book.byAuthor=Авторъ: 
+book.defaultAuthor=Неизвестный авторъ
+book.editTitle=Заглавіе книги:
 ## book.export=Экспорт
-## book.finalizeButton=Подписать и закрыть
-## book.finalizeWarning=Внимание! После подписания книгу нельзя редактировать.
-## book.generation.0=Оригинал
-## book.generation.1=Копия оригинала
-## book.generation.2=Копия копии
-## book.generation.3=Разорван
-## book.pageIndicator=Страница %1$s из %2$s
-## book.signButton=Подписать
+book.finalizeButton=Закончить
+book.finalizeWarning=Вниманіе! Послѣ подписанія книгу нельзя будетъ редактировать.
+book.generation.0=Подлинникъ
+book.generation.1=Копія
+book.generation.2=Копія копіи
+book.generation.3=Ветхая
+book.pageIndicator=Страница %1$s изъ %2$s
+book.signButton=Подписать
 ## book.titleHere=[Введите здесь название]
 ## book.headerPortfolio=Из портфолио
 ## book.headerInventory=Из инвентаря
-## 
-## build.tooHigh=Ограничение по высоте, блоков: %s
+
+build.tooHigh=Ограниченіе строительства по высотѣ: %s
 ## build.tooLow=Минимальная высота строения в блоках: %s
-## 
+
 ## chalkboardScreen.header=Изменить текст
 ## chalkboardScreen.locked=Заблокировано
 ## chalkboardScreen.unlocked=Разблокировано
-## 
-## chat.cannotSend=Не удается отправить сообщение
-## chat.copy=Копировать в буфер обмена
-## chat.link.confirm=Вы действительно хотите открыть этот веб-сайт?
-## chat.link.confirmTrusted=Открыть или скопировать ссылку в буфер обмена?
-## chat.link.open=Открыть в браузере
-## chat.link.warning=Не открывайте ссылки от людей, которым не доверяете!
+
+chat.cannotSend=Не удалось отправить письмо
+chat.copy=Копировать
+chat.link.confirm=Вы увѣрены, что хотите перейти на сію страницу?
+chat.link.confirmTrusted=Открыть или скопировать ссылку въ буферъ обмѣна?
+chat.link.open=Открыть
+chat.link.warning=Не переходите по ссылкамъ отъ людей, которымъ не довѣряете!
 ## chat.mentions.autocomplete.allPlayers=упоминать всех игроков
 ## chat.mute=Выключить звук в чате
 ## chat.realmsFilterDisabled=В этом Realm выключена фильтрация чата.
@@ -510,29 +510,29 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## chat.settings.muteAll=Выключить чат
 ## chat.settings.unmuteAll=Включить чат
 ## chat.settings.tts=Преобразование текста в речь для чата
-## chat.stream.emote=(%s) * %s %s
-## chat.stream.text=(%s) <%s> %s
-## chat.title=Чат
+chat.stream.emote=(%s) * %s %s
+chat.stream.text=(%s) <%s> %s
+chat.title=Бесѣда
 ## chat.title.cheats=Чат и команды
-## chat.type.achievement=%s заработал(а) достижение %s
+chat.type.achievement=%s получилъ достиженіе «%s»
 ## chat.type.achievement.taken=%s потерял(а) достижение %s
-## chat.type.admin=[%s: %s]
-## chat.type.announcement=[%s] %s
-## chat.type.emote=* %s %s
+chat.type.admin=[%s: %s]
+chat.type.announcement=[%s] %s
+chat.type.emote=* %s %s
 ## chat.type.sleeping=%s спит. Чтобы рассвет наступил быстрее, все игроки должны лечь спать в одно и то же время.
-## chat.type.text=<%s> %s
+chat.type.text=<%s> %s
 ## chat.renamed=Ваше имя на этом сервере временно изменено на "%s"
-## 
-## chestScreen.header.large=Большой сундук
-## chestScreen.header.player=Инвентарь
-## chestScreen.header.small=Сундук
-## 
+
+chestScreen.header.large=Большой сундукъ
+chestScreen.header.player=Инвентарь
+chestScreen.header.small=Сундукъ
+
 ## chooseRealmScreen.header=Выберите сервер Realm
 ## chooseRealmScreen.realmsplusbuttontext=Добавить Realm на 10 игроков
 ## chooseRealmScreen.realmsbuttontext=Добавить Realm на 2 игрока
-## 
+
 ## customTemplatesScreen.header=Импортированные шаблоны
-## 
+
 ## craftingScreen.tab.search=Все
 ## craftingScreen.tab.search.filter=Можно создать
 ## craftingScreen.tab.construction=Строительство
@@ -541,12 +541,12 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## craftingScreen.tab.items=Предметы
 ## craftingScreen.tab.survival=Инвентарь
 ## craftingScreen.tab.armor=Доспехи
-## 
-## 
+
+
 ## credits.skip=Пропустить
-## 
-## cauldronScreen.header=Котел
-## 
+
+cauldronScreen.header=Котёлъ
+
 ## codeScreen.aznbReset.title=Сброс всех записных книжек
 ## codeScreen.aznbReset.body=Сейчас будет выполнена очистка всех проектов. Эту операцию нельзя отменить. Продолжить?
 ## codeScreen.chooseEditor=Выберите редактор:
@@ -572,24 +572,24 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## codeScreen.buttonTTS.maximize=Развернуть
 ## codeScreen.buttonTTS.restore=Восстановить
 ## codeScreen.buttonTTS.home=Главная
-## 
-## color.black=Черный
+
+color.black=Чёрный
 ## color.dark_blue=Темно-синий
 ## color.dark_green=Темно-зеленый
 ## color.dark_aqua=Темно-бирюзовый
 ## color.dark_red=Темно-красный
 ## color.dark_purple=Темно-фиолетовый
 ## color.gold=Золотой
-## color.gray=Серый
+color.gray=Сѣрый
 ## color.dark_gray=Темно-серый
-## color.blue=Синий
-## color.green=Зеленый
-## color.aqua=Бирюзовый
-## color.red=Красный
+color.blue=Лазурный
+color.green=Зелёный
+color.aqua=Бирюзовый
+color.red=Червонный
 ## color.light_purple=Светло-фиолетовый
-## color.yellow=Желтый
-## color.white=Белый
-## 
+color.yellow=Жёлтый
+color.white=Бѣлый
+
 ## commandBlockScreen.blockType=Тип блока:
 ## commandBlockScreen.blockType.impulse=Импульс
 ## commandBlockScreen.blockType.chain=Цепь
@@ -606,7 +606,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## commandBlockScreen.hideOutputMode=X
 ## commandBlockScreen.hoverNote=Сообщение при наведении
 ## commandBlockScreen.title=Командный блок
-## 
+
 ## seargeSays.searge=Searge говорит: %s
 ## seargeSays.searge1=Yolo
 ## seargeSays.searge2=/achievement забрать achievement.understandCommands @p
@@ -620,10 +620,10 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## seargeSays.searge10=/kill @p[name=!Searge]
 ## seargeSays.searge11=«Попробуй выключить эту штуку, а потом снова включить».
 ## seargeSays.searge12=«Обойдешься без моей помощи».
-## 
-## commandBlock.shortName=@
-## commandBlock.genericName=Командный блок
-## 
+
+commandBlock.shortName=@
+commandBlock.genericName=Ариѳмометръ
+
 ## commands.ability.description=Задает способность игрока.
 ## commands.ability.noability=Способность под названием «%1$s» отсутствует
 ## commands.ability.granted=Вам предоставлена способность «%1$s»
@@ -952,21 +952,21 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## commands.message.display.incoming=%1$s шепчет вам: «%2$s»
 ## commands.message.display.outgoing=Вы шепчете игроку %1$s: «%2$s»
 ## commands.message.sameTarget=Нельзя отправить личное сообщение самому себе.
-## 
+
 ## commands.mobevent.description=Контролирует, какие события мобов разрешено запускать.
 ## commands.mobevent.eventsEnabledSetToTrue=События мобов теперь включены. Отдельные события, для которых задано значение false, не будут запускаться.
 ## commands.mobevent.eventsEnabledSetToFalse=События мобов теперь отключены. Отдельные события не будут запускаться.
 ## commands.mobevent.eventsEnabledIsTrue=События мобов включены. Отдельные события, для которых задано значение false, не будут запускаться.
 ## commands.mobevent.eventsEnabledIsFalse=События мобов отключены. Отдельные события не будут запускаться.
-## 
-## ## for the following new loc strings, the first parameter is a localized event name, and the second is the literal event that must be entered into the command.
+
+## for the following new loc strings, the first parameter is a localized event name, and the second is the literal event that must be entered into the command.
 ## commands.mobevent.eventSetToTrue=Для события мобов %s (id: %s) задано значение true.
 ## commands.mobevent.eventSetToTrueButEventsDisabled=Для события мобов %s (id: %s) задано значение true, но события мобов отключены.
 ## commands.mobevent.eventSetToFalse=Для события мобов %s (id: %s) задано значение false.
 ## commands.mobevent.eventIsTrue=Для события мобов %s (id: %s) задано значение true.
 ## commands.mobevent.eventIsTrueButEventsDisabled=Для события мобов %s (id: %s) задано значение true, но события мобов отключены.
 ## commands.mobevent.eventIsFalse=Для события мобов %s (id: %s) задано значение false.
-## 
+
 ## commands.music.description=Позволяет управлять воспроизведением музыкальных композиций.
 ## commands.music.failure.emptyTrackName=Необходимо указать название композиции (не может быть пустым).
 ## commands.music.success.queueAction=%s помещена в очередь и начнет воспроизводиться после завершения текущей композиции.
@@ -1062,14 +1062,14 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## commands.schedule.invalidOrigin=Источник, необходимы для выполнения этой функции, был недействительным.
 ## commands.schedule.name.empty=Имя тактовой области не может быть пустым.
 ## commands.schedule.too.many.areas=Найдено несколько тактовых областей с именем %s. Пожалуйста, используйте одну область.
-## 
-## ## Scoreboard is composed of several Objectives, which can be displayed to players in 3 different 'slots'#
-## ## An Objective holds the scores that each player has for the Objective. 								#
-## ## Objectives can have different Criteria, which dictate how the scores are updated for this Objective	#
-## ## Objectives have two names, one for internal use and the other for Displaying in the UI				#
-## 
-## ## Going overboard on the context but Scoreboards do some weird stuff :D 								#
-## 
+
+## Scoreboard is composed of several Objectives, which can be displayed to players in 3 different 'slots'#
+## An Objective holds the scores that each player has for the Objective. 								#
+## Objectives can have different Criteria, which dictate how the scores are updated for this Objective	#
+## Objectives have two names, one for internal use and the other for Displaying in the UI				#
+
+## Going overboard on the context but Scoreboards do some weird stuff :D 								#
+
 ## commands.scoreboard.description=Отслеживание и отображение очков для различных целей.						##
 ## commands.scoreboard.allMatchesFailed=Все совпадения не прошли												##
 ## commands.scoreboard.noMultiWildcard=Допустима только одна подстановка пользователя									##
@@ -1116,10 +1116,10 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## commands.scoreboard.players.test.failed=Счет %1$d выходит за рамки диапазона от %2$d до %3$d							##1: Value ##2: Min Range Value ##3: Max Range Value
 ## commands.scoreboard.players.test.success=Счет %1$d находится в диапазоне от %2$d до %3$d							##1: Value ##2: Min Range Value ##3: Max Range Value
 ## commands.scoreboard.players.get.success=%1$d															##
-## 
-## #### Scoreboards can also handle teams, which are close to what an Objective does###
-## #### with just a little extra functionality										###
-## 
+
+#### Scoreboards can also handle teams, which are close to what an Objective does###
+#### with just a little extra functionality										###
+
 ## commands.scoreboard.teamNotFound=Альянс с именем «%1$s» не найден																##1: Team Name
 ## commands.scoreboard.teams.add.alreadyExists=Альянс с именем «%1$s» уже существует												##1: Team Name
 ## commands.scoreboard.teams.add.displayTooLong=Отображаемое имя «%1$s» является слишком длинным для альянса, количество символов должно быть не более %2$d	##1: Team Display Name ##2: Name Length Limit
@@ -1355,51 +1355,51 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## commands.xp.success=Выдано %1$d ед. опыта игроку %2$s
 ## commands.xp.success.levels=Выданы уровни (%1$d) игроку %2$s
 ## commands.xp.success.negative.levels=Игрок %2$s теряет уровни (%1$d)
-## 
-## connect.authorizing=Выполняется вход...
-## connect.connecting=Подключение к серверу...
-## connect.failed=Не удалось подключиться к серверу
-## 
+
+connect.authorizing=Присоединеніе...
+connect.connecting=Подключеніе къ салону...
+connect.failed=Не удалось войти въ салонъ
+
 ## connect_gamepad.warning.controllerRequired=Требуется игровой контроллер
 ## connect_gamepad.pressButtonToContinue=Для продолжения нажмите кнопку «А» на контроллере
 ## gamepad_disconnect=Потеряна связь с контроллером
 ## gamepad_disconnect.reconnectController=Потеряна связь с контроллером. Подключите его повторно, чтобы продолжить.
-## 
-## container.beacon=Маяк
-## container.brewing=Варочная стойка
-## container.chest=Сундук
-## container.chestDouble=Большой сундук
-## container.crafting=Создание
-## container.creative=Выбор предмета
-## container.dispenser=Раздатчик
-## container.dropper=Выбрасыватель
-## container.enchant=Наложить чары
-## container.enchant.clue=%s . . . ?
-## container.enchant.levelrequirement=Требование к уровню: %d
-## container.enchant.lapis.many=Лазурит: %d
-## container.enchant.lapis.one=Лазурит: 1
-## container.enchant.level.many=Уровней зачарования: %d
-## container.enchant.level.one=1 уровень зачарования
-## container.enderchest=Сундук Края
-## container.furnace=Печка
-## container.hopper=Загрузочная воронка
-## container.inventory=Инвентарь
-## container.isLocked=%s заблокирован(а)!
-## container.loom=Ткацкий станок
-## container.minecart=Вагонетка
-## container.repair=Ремонт и переименование
-## container.repair.cost=Стоимость зачарования: %1$s
-## container.repair.expensive=Слишком дорого!
-## container.repairAndDisenchant=Починить и снять чары
-## container.stonecutter=Камнетес
-## container.stonecutter_block=Камнетес
-## container.smithing_table=Кузнечный станок
-## container.smithing_table_block=Кузнечный станок
-## container.smithing_table.upgrade=Модернизировать снаряжение
-## container.shulkerbox=Ящик шалкера
-## container.shulkerboxContains=и еще %d...
-## container.barrel=Бочка
-## 
+
+container.beacon=Маякъ
+container.brewing=Варочная стойка
+container.chest=Сундукъ
+container.chestDouble=Большой сундукъ
+container.crafting=Созданіе
+container.creative=Выборъ предмета
+container.dispenser=Раздатчикъ
+container.dropper=Выбрасыватель
+container.enchant=Чары
+container.enchant.clue=%s . . . ?
+container.enchant.levelrequirement=Необходимый уровень: %d
+container.enchant.lapis.many=Лазурикъ: %d
+container.enchant.lapis.one=Лазурикъ: 1
+container.enchant.level.many=Уровень чаръ: %d
+container.enchant.level.one=Уровень чаръ: 1
+container.enderchest=Эндеръ-ларецъ
+container.furnace=Печь
+container.hopper=Пріёмная воронка
+container.inventory=Инвентарь
+container.isLocked=%s запертъ!
+container.loom=Ткацкій станокъ
+container.minecart=Вагонетка
+container.repair=Ремонтъ и названіе
+container.repair.cost=Требуемый уровень: %1$s
+container.repair.expensive=Дороговато!
+container.repairAndDisenchant=Починка и снятіе чаръ
+container.stonecutter=Камнерѣзъ
+container.stonecutter_block=Камнерѣзъ
+container.smithing_table=Столъ кузнеца
+container.smithing_table_block=Столъ кузнеца
+container.smithing_table.upgrade=Улучшить снаряженіе
+container.shulkerbox=Шалкеровый ящикъ
+container.shulkerboxContains=и ещё %d...
+container.barrel=Кадка
+
 ## controller.buttonTip.addItem=Добавить предмет
 ## controller.buttonTip.addItemStack=Добавить стопку предметов
 ## controller.buttonTip.adjustSlider=Левый/правый регулировочный ползунок
@@ -1454,7 +1454,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## controller.buttonTip.take=Взять
 ## controller.buttonTip.takeItem=Взять предмет
 ## controller.buttonTip.clearHotbar=Очистить панель быстрого доступа
-## 
+
 ## controllerLayoutScreen.actions=Действия
 ## controllerLayoutScreen.activeBindingNameFormat=> %s <
 ## controllerLayoutScreen.bindings=Связки
@@ -1472,8 +1472,8 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## controls.reset=Сброс
 ## controls.resetAll=Сбросить назначения
 ## controls.title=Элементы управления
-## 
-## ## Edu Course strings
+
+## Edu Course strings
 ## course.edu.begin=Начать
 ## course.edu.byLessonsEndGeneric=К концу этого урока вы узнаете следующее:
 ## course.edu.byLessonsEndOrdered=К концу этого урока %d вы узнаете следующее:
@@ -1486,7 +1486,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## course.edu.courses=Курсы
 ## course.edu.createdBy=Автор: %s
 ## course.edu.estimatedLength=Примерная длительность
-## ## Example of a formatted string is "2m 30s" (first string param is the minutes units, second string is the seconds units)
+## Example of a formatted string is "2m 30s" (first string param is the minutes units, second string is the seconds units)
 ## course.edu.estimatedLength.formatted=%d%s %d%s
 ## course.edu.estimatedLength.minutesUnit=м
 ## course.edu.estimatedLength.secondsUnit=с
@@ -1500,7 +1500,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## course.edu.lessonIncludesQuiz=Урок содержит тест
 ## course.edu.lessonIsLocked=Урок заблокирован
 ## course.edu.lessonObjectives=Задачи урока
-## ## The line below (course.edu.notSupported) doesn't need to be translated for other locales and will eventually be removed.
+## The line below (course.edu.notSupported) doesn't need to be translated for other locales and will eventually be removed.
 ## course.edu.notSupported=Пока не поддерживается
 ## course.edu.noCoursesFound.title=Курсы не найдены
 ## course.edu.noCoursesFound.body=Похоже, вам не назначено ни одного курса.
@@ -1518,12 +1518,12 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## course.edu.startButton=Начать
 ## course.edu.tasks=Задачи
 ## course.edu.teacherHasNotGivenAcccess=Преподаватель не предоставил вам доступ к этому уроку.
-## ## The title is prefixed with the order of the course, followed by a colon, followed by the content title.
-## ## Example: "1: This is the title of a Course"
+## The title is prefixed with the order of the course, followed by a colon, followed by the content title.
+## Example: "1: This is the title of a Course"
 ## course.edu.titleWithOrderPrefix.formatted=%d: %s
 ## course.edu.tryItNowButton=Попробовать
-## 
-## ## Edu Course Multiplayer strings
+
+## Edu Course Multiplayer strings
 ## course.edu.enterIp=Введите IP-адрес мира, к которому хотите присоединиться.
 ## course.edu.ipAddress=IP-адрес
 ## course.edu.ipPlaceholder=Введите IP-адрес или адрес сервера
@@ -1534,7 +1534,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## course.edu.noLessonFoundJoinIp=Введите IP-адрес
 ## course.edu.portTooltipText=Различные серверные программы подключаются к разным портам. Если хост-сервер не задал другой порт, то этот номер менять не следует.
 ## course.edu.searching=Поиск миров...
-## 
+
 ## crafting.badCombination=Нет действительного выхода для этого предмета
 ## crafting.cannotCreate=У вас недостаточно ингредиентов
 ## crafting.insufficientLevel=У вас слишком низкий уровень
@@ -1542,7 +1542,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## crafting.noRecipesStonecutter=Чтобы создать что-то, вам нужны материалы из камня.
 ## crafting.noRecipesStonecutter_block=Чтобы создать что-то, вам нужны материалы из камня.
 ## crafting.noRecipesWorkbench=Чтобы создать что-то, вам нужно собрать блоки.
-## 
+
 ## createWorld.customize.custom.baseSize=Базовая глубина
 ## createWorld.customize.custom.biomeDepthOffset=Смещение глубины биома
 ## createWorld.customize.custom.biomeDepthWeight=Вес глубины биома
@@ -1618,7 +1618,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## createWorld.customize.presets.select=Использовать заготовку
 ## createWorld.customize.presets.share=Хотите поделиться свое заготовкой с другими? Используйте поле ниже.
 ## createWorld.customize.presets.title=Выбор заготовки
-## 
+
 ## createWorldUpsell.removeTrial=Не показывать пробную версию в списке миров
 ## createWorldUpsell.title=Создать новый мир или Realm?
 ## createWorldUpsell.title.realm=Создать новый Realm
@@ -1636,8 +1636,8 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## createWorldUpsell.world.sellPoint1=Играйте по сети максимум с 7 друзьями
 ## createWorldUpsell.world.sellPoint2=Сохранено на ваше устройство: играйте в автономном режиме
 ## createWorldUpsell.world.sellPoint3=Использует место на вашем устройстве
-## 
-## 
+
+
 ## createWorldScreen.action.editLocal=Сделать бесконечным
 ## createWorldScreen.action.local=Создать мир
 ## createWorldScreen.action.realms=Создать мир
@@ -1727,9 +1727,9 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## createWorldScreen.clearPlayerData.allExceptLocal=Сохранить данные пользователя-владельца
 ## createWorldScreen.clearPlayerData.cancel=Отмена
 ## createWorldScreen.clearPlayerData.progress=Очистка данных пользователя
-## 
-## 
-## ## Cross Platform Toggle
+
+
+## Cross Platform Toggle
 ## crossPlatformToggle.startMenuScreen.title=Кроссплатформенная игра
 ## crossPlatformToggle.startMenuScreen.enable=Разрешить кроссплатформенную игру
 ## crossPlatformToggle.startMenuScreen.enable.line1=Разрешить кроссплатформенную игру?
@@ -1742,7 +1742,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## crossPlatformToggle.crossPlatformDisabled.realms=Разрешите кроссплатформенную игру в главном меню, чтобы присоединиться к Realms.
 ## crossPlatformToggle.crossPlatformDisabled.servers=Разрешите кроссплатформенную игру в главном меню, чтобы добавлять серверы или присоединяться к ним.
 ## crossPlatformToggle.crossPlatformDisabled.multiplayerSettings=Разрешите кроссплатформенную игру в главном меню, чтобы играть с друзьями, использующими другие платформы.
-## 
+
 ## realmsPendingInvitationsScreen.pendingInvitations=Приглашения присоединиться к Realms
 ## realmsPendingInvitationsScreen.noInvites=У вас нет нерассмотренных приглашений.
 ## realmsPendingInvitationsScreen.fetchingInvites=Получение приглашений...
@@ -1750,7 +1750,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## realmsPendingInvitationsScreen.accepted=Принято
 ## realmsPendingInvitationsScreen.declined=Отклонено
 ## realmsPendingInvitationsScreen.showFriendInvites=Показывать только приглашения от друзей.
-## 
+
 ## realmsInvitationScreen.addingPlayers=Добавление игроков...
 ## realmsInvitationScreen.findFriends=Найти друзей
 ## realmsInvitationScreen.continue=Продолжить
@@ -1804,13 +1804,13 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## realmsInvitationScreen.playerFilterTitle=Фильтровать игроков
 ## realmsInvitationScreen.setPermissionFail=Не удалось задать разрешения для пользователя %s.
 ## realmsInvitationScreen.setDefaultPermissionFail=Не удалось задать разрешения по умолчанию.
-## 
+
 ## realmJoining.progressTitle=Присоединение к Realm...
-## 
+
 ## realmsClearMembers.clearMembersTitle=Удалить участников?
 ## realmsClearMembers.clearMembersText=Вы действительно хотите очистить список участников этого Realm?
 ## realmsClearMembers.clear=Удалить участников
-## 
+
 ## realmsSharingScreen.join=Подключиться
 ## realmsSharingScreen.joinTitle=Подключиться к Realm?
 ## realmsSharingScreen.joinMessage=Подключиться к Realm «%s»?
@@ -1826,7 +1826,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## realmsSharingScreen.failedSignInModalTitle=Войдите, чтобы присоединиться к этому Realm
 ## realmsSharingScreen.failedSignInModalMessage=Чтобы присоединиться к Realm, необходимо войти в учетную запись Майкрософт. Войдите и повторите попытку.
 ## realmsSharingScreen.invalidPermissionTitle=Неверные разрешения
-## 
+
 ## realmsCreateScreen.title.create=Создать сервер Realm
 ## realmsCreateScreen.title.extend=Расширьте свой Realm
 ## realmsCreateScreen.title.renew=Продлите действие своего Realm
@@ -1900,11 +1900,11 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## realmsCreateScreen.purchaseConfirmation.renew.message=Вы действительно хотите продлить Realm?
 ## realmsCreateScreen.purchaseConfirmation.continue=Подтвердить покупку
 ## realmsCreateScreen.purchaseConfirmation.cancel=Отмена
-## 
+
 ## realmsCreateScreen.title=Создать Realm
 ## realmsCreateScreen.nameHeader=Название Realm
 ## realmsCreateScreen.chooseWorld=Создать Realm: Выберите мир
-## 
+
 ## realmsConfigurationScreen.realmName=Название Realm
 ## realmsConfigurationScreen.realmDescription=Описание Realm
 ## realmsConfigurationScreen.open=Открыть Realm
@@ -1914,7 +1914,7 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## realmsConfigurationScreen.resetRealmTryAgain=Не удалось сбросить Realm. Хотите повторить попытку?
 ## realmsConfigurationScreen.failedOpenCloseTitle=Не удалось открыть/закрыть.
 ## realmsConfigurationScreen.failedOpenClose=Не удалось открыть/закрыть Realm. Хотите повторить попытку?
-## 
+
 ## realmsWorld.notAvailable=Ваше устройство не поддерживает Minecraft Realms.
 ## realmsWorld.ownerPay=С владельца взимается ежемесячная плата. Его друзья могут играть бесплатно!
 ## realmsWorld.realmsDescription=Realms — это частные миры Minecraft, всегда доступные для вас и ваших друзей.
@@ -1928,19 +1928,19 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## realmsWorld.leaveBeta=Покинуть бета-версию?
 ## realmsWorld.newRealmTrial=Запустите 30-дневную пробную версию%s(%s/мес. со второго месяца)
 ## realmsWorld.creatingWorld=Создание мира
-## 
+
 ## realmsPlus.popup.top_button_text=Подробнее...
 ## realmsPlus.popup.bottom_button_text=Продлить подписку
 ## realmsPlus.popup.title=Подписка Realms Plus закончилась
 ## realmsPlus.popup.message=Срок действия вашей подписки Realms Plus закончился. Чтобы восстановить доступ к своему Realm полученным в Realms Plus наборам скинов, необходимо продлить подписку. 
-## 
+
 ## realmsPlusUpgradeNotice.title=Добро пожаловать в Realms Plus!
 ## realmsPlusUpgradeNotice.body=Ваша подписка Realms обновлена до уровня Realms Plus. Теперь у вас есть бесплатный доступ к более чем 150 наборам контента с рынка без дополнительной оплаты. В вашем Realm могут играть одновременно до 10 игроков, и у них у всех будет бесплатный доступ ко всему доступному в рамках подписки контенту!
 ## realmsPlusUpgradeNotice.continue=Далее
 ## realmsPlusUpgradeNotice.viewpacks=Просмотр наборов Realms Plus
-## 
+
 ## raytracing.RTX.name=RTX##Brand name, don't localize
-## 
+
 ## network.onlinePlay.title=Игра с друзьями
 ## network.onlinePlay.msg=Вы можете приглашать друзей в свои миры, просматривать их творения и создавать что-то новое в мирах друг друга.
 ## network.onlinePlay.instruction=С помощью меню «Играть» вы можете подключаться к мирам своих друзей или приглашать их в свои миры и Realms.
@@ -1949,8 +1949,8 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## network.thirdparty.connect.store=Чтобы просматривать магазин, вам необходима %s.
 ## network.thirdparty.connect.achievements=Чтобы получать достижения, вам необходима %s.
 ## network.thirdparty.findfriends.failed=Нам не удалось подключиться к службе учетных записей Microsoft. Проверьте подключение к Интернету.
-## 
-## 
+
+
 ## networkWorld.add_friend=Добавить друга
 ## networkWorld.add_server=Добавить сервер
 ## networkWorld.add_label=Добавить
@@ -1982,11 +1982,11 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## networkWorld.highPingWarning.line1=В настоящее время у вас нет стабильного подключения к выбранному серверу, что может негативно сказаться на игре.
 ## networkWorld.highPingWarning.line2=Вы все равно хотите присоединиться к этому серверу?
 ## networkWorld.view_offers=Просмотр предложений
-## 
-## ## The following text is placed on in-game signs, which have a 4-line, 15-character-per-line limit.
-## ## The intent of the message is to convey to the reader that the sign author's chat permissions are
-## ## blocked.  This cannot exceed the 4-line, 15-character/line limit!
-## ## Use dashes ("---") to fill in empty lines.
+
+## The following text is placed on in-game signs, which have a 4-line, 15-character-per-line limit.
+## The intent of the message is to convey to the reader that the sign author's chat permissions are
+## blocked.  This cannot exceed the 4-line, 15-character/line limit!
+## Use dashes ("---") to fill in empty lines.
 ## networkWorld.userSignTextBlockedLine0=---
 ## networkWorld.userSignTextBlockedLine1=Автор
 ## networkWorld.userSignTextBlockedLine2=заблокирован
@@ -1995,15 +1995,15 @@ achievement.buildBetterPickaxe.desc=Сдѣлайте кирку попрочнѣ
 ## networkWorld.userSignTextMutedLine1=Автор
 ## networkWorld.userSignTextMutedLine2=заблокирован
 ## networkWorld.userSignTextMutedLine3=---
-## 
+
 ## networkWorld.userBookTextBlocked=[Автор заблокирован]
 ## networkWorld.userBookTextMuted=[Автор заблокирован]
-## 
+
 ## localWorld.no_local_world_label=У вас пока нет миров.
 ## localWorld.no_local_worlds_present=Ваши миры исчезли? Попробуйте изменить место хранения:
 ## localWorld.no_local_worlds_present_external=Ваши миры исчезли? Информация о восстановлении миров во внешнем хранилище находится здесь:
 ## localWorld.no_local_worlds_button_label=Справка (откроется браузер)
-## 
+
 ## thirdPartyWorld.comingSoon=Уже скоро!
 ## thirdPartyWorld.Featured=Подборка серверов
 ## thirdPartyWorld.Additional=Дополнительные серверы
@@ -2293,7 +2293,7 @@ death.fell.finish=%1$s упалъ съ высоты и былъ добитъ %2$
 death.fell.finish.item=%1$s упалъ съ высоты и былъ добитъ %2$s съ помощью %3$s
 death.fell.killer=%1$s былъ обречёнъ на паденіе
 
-## deathScreen.deleteWorld=Удалить мир
+deathScreen.deleteWorld=Удалить міръ
 ## deathScreen.hardcoreInfo=Вы не можете возродиться в режиме «хардкор»!
 ## deathScreen.leaveServer=Покинуть сервер
 deathScreen.message=Вы покинули сей свѣтъ!
@@ -2310,25 +2310,25 @@ deathScreen.title=Вы покинули сей свѣтъ!
 deathScreen.title.hardcore=Всё! Конецъ!
 deathScreen.titleScreen=Главный экранъ
 
-## demo.day.1=Демонстрация завершится через 5 игровых дней. Проявите себя!
-## demo.day.2=День 2
-## demo.day.3=День 3
-## demo.day.4=День 4
-## demo.day.5=Это ваш последний день!
-## demo.day.6=Пятый день прошел. Нажмите F2, чтобы сохранить снимок экрана вашего творения.
-## demo.day.warning=Ваше время почти вышло!
-## demo.demoExpired=Время демонстрации подошло к концу!
-## demo.help.buy=Купить сейчас
-## demo.help.fullWrapped=Демонстрация продлится 5 игровых дней (около 1 часа 40 минут реального времени). Ищите подсказки в достижениях. Удачи!
-## demo.help.inventory=Используйте %1$s, чтобы открыть инвентарь
-## demo.help.jump=Нажмите %1$s, чтобы прыгнуть
-## demo.help.later=Продолжить игру
-## demo.help.movement=Для перемещения используйте %1$s, %2$s, %3$s, %4$s и мышь
-## demo.help.movementMouse=Осмотритесь вокруг с помощью мыши
-## demo.help.movementShort=Двигайтесь, нажимая %1$s, %2$s, %3$s, %4$s
-## demo.help.title=Демонстрационный режим
-## demo.remainingTime=Оставшееся время: %s
-## demo.reminder=Время демонстрации истекло. Приобретите игру, чтобы продолжить или создать новый мир!
+demo.day.1=Демонстрація закончится черезъ 5 игровыхъ дней. Проявите себя!
+demo.day.2=День второй
+demo.day.3=День третій
+demo.day.4=День четвёртый
+demo.day.5=Сіе есть послѣдній день!
+demo.day.6=Пятый день завершёнъ. Нажмите F2, чтобы сохранить фотографію своего творенія.
+demo.day.warning=Ваше время почти вышло!
+demo.demoExpired=Демонстрація завершена!
+demo.help.buy=Купить сейчасъ!
+demo.help.fullWrapped=Демонстрація будетъ итти 5 игровыхъ дней (около 1 часа 40 минутъ реальнаго времени). Загляните въ «Достиженія», тамъ есть подсказки! Удачи!
+demo.help.inventory=Используйте %1$s для просмотра инвентаря
+demo.help.jump=Для прыжка нажимайте %1$s
+demo.help.later=Играть!
+demo.help.movement=Используйте кнопки %1$s, %2$s, %3$s, %4$s и мышь для перемѣщенія
+demo.help.movementMouse=Осматривайтесь, используя мышь
+demo.help.movementShort=Двигайтесь съ помощью кнопокъ %1$s, %2$s, %3$s, %4$s
+demo.help.title=Демонстраціонная версія Minecraft
+demo.remainingTime=Оставшееся время: %s
+demo.reminder=Время демонстраціи вышло. Чтобы продолжить играть, купите игру или создайте новый міръ!
 
 ## difficulty.lock.question=Действительно зафиксировать сложность этого мира? В результате уровень сложности мира всегда будет %1$s, и вы никогда не сможете его изменить.
 ## difficulty.lock.title=Зафиксировать сложность мира
@@ -2337,24 +2337,24 @@ deathScreen.titleScreen=Главный экранъ
 ## dimension.dimensionName1=Нижний мир
 ## dimension.dimensionName2=Край
 
-## disconnect.closed=Соединение разорвано
+disconnect.closed=Соединеніе прервано
 ## disconnect.downloadPack=Ошибка при скачивании наборов с сервера. Повторите попытку.
-## disconnect.disconnected=Разрыв соединения сервером
-## disconnect.endOfStream=Конец потока
-## disconnect.genericReason=%s
+disconnect.disconnected=Отключёнъ салономъ
+disconnect.endOfStream=Конецъ потока
+disconnect.genericReason=%s
 ## disconnect.kicked=Вас выбросили из игры
 ## disconnect.kicked.reason=Вас выбросили из игры:
 ## disconnect.removed=Вас удалили из игры
 ## disconnect.removed.reason=Вас удалили из игры:
-## disconnect.loginFailed=Ошибка входа
-## disconnect.loginFailedInfo=Ошибка входа: %s
-## disconnect.loginFailedInfo.invalidSession=Недопустимый сеанс (попробуйте перезапустить игру)
-## disconnect.loginFailedInfo.serversUnavailable=Серверы аутентификации отключены для проведения обслуживания.
-## disconnect.lost=Соединение потеряно
-## disconnect.overflow=Переполнение буфера
-## disconnect.quitting=Выход
-## disconnect.spam=Изгнание за спам
-## disconnect.timeout=Превышено время ожидания
+disconnect.loginFailed=Не получилось войти
+disconnect.loginFailedInfo=Не получилось войти: %s
+disconnect.loginFailedInfo.invalidSession=Недѣйствительная сессія (Перезапустите игру)
+disconnect.loginFailedInfo.serversUnavailable=Службы провѣрки подлинности недоступны. Повторите попытку.
+disconnect.lost=Соединеніе потеряно
+disconnect.overflow=Переполненіе буфера
+disconnect.quitting=Выходъ
+disconnect.spam=Вы исключены за письменный мусоръ
+disconnect.timeout=Превышено время ожиданія
 
 ## disconnectionScreen.header.realms_hidden=Приглашение к игре по сети
 ## disconnectionScreen.body.realms_hidden=Не удается подключиться к данному конкретному серверу.
@@ -2669,19 +2669,19 @@ entity.zombie_villager_v2.name=Крестьянинъ-мертвецъ
 ## addExternalServerScreen.editTitle=Редактировать внешний сервер
 
 ## feature.endcity=Город Края
-## feature.fortress=Крепость Нижнего мира
-## feature.mansion=Лесной особняк
-## feature.mineshaft=Заброшенная шахта
+feature.fortress=Крѣпость Нѣдра
+feature.mansion=Лѣсныя помѣстья
+feature.mineshaft=Заброшенныя шахты
 ## feature.missingno=Неизвестная функция
-## feature.monument=Океанический монумент
-## feature.stronghold=Цитадель
-## feature.temple=Храм
-## feature.village=Деревня
+feature.monument=Океанскіе монументы
+feature.stronghold=Крѣпости
+feature.temple=Храмы
+feature.village=Крестьянскіе дворы
 ## feature.shipwreck=Кораблекрушение
 ## feature.buriedtreasure=Зарытый клад
-## feature.ruins=Подводные руины
+feature.ruins=Затонувшія руины
 ## feature.pillageroutpost=Аванпост мародеров
-## feature.bastionremnant=Остаток бастиона
+feature.bastionremnant=Развалины бастіона
 ## feature.ruinedportal=Разрушенный портал
 
 ## feed.like=Нравится
@@ -2736,7 +2736,7 @@ entity.zombie_villager_v2.name=Крестьянинъ-мертвецъ
 ## furnaceScreen.header=Печка
 ## furnaceScreen.input=Ингредиенты
 ## furnaceScreen.result=Результат
-## 
+
 ## gameArgument.featureUnsupported=Эта возможность не поддерживается в текущей версии Minecraft
 
 gameMode.adventure=Режимъ приключеній
@@ -2819,7 +2819,7 @@ generator.flat=Суперплоскость
 ## generator.infinite=Бесконечный
 generator.largeBiomes=Большіе біомы
 generator.nether=Нѣдр
-## generator.old=Старый
+generator.old=Древний
 
 globalPauseScreen.message=Игра пріостановлена
 globalPauseScreen.quit=Выйти
@@ -2831,18 +2831,18 @@ gui.back=Назадъ
 gui.cancel=Отмѣна
 gui.clear=Очистить
 gui.close=Закрыть
-## gui.confirm=Подтвердить
+gui.confirm=Подтвердить
 ## gui.confirmAndPlay=Подтвердить и начать игру
 gui.custom=Пользовательскій
 gui.default=По умолчанію
-## gui.decline=Отклонить
+gui.decline=Отклонить
 gui.delete=Удалить
 gui.deleteWorldLong=Удалить сей міръ
 gui.done=Готово
 gui.down=Внизъ
 gui.edit=Настроить
 gui.error=Произошёлъ курьёзъ!
-## gui.exit=Выход
+gui.exit=Выходъ
 ## gui.exportWorld=Экспорт
 ## gui.exportWorldLong=Экспортировать мир
 ## gui.exportTemplate=Экспорт шаблона
@@ -2859,7 +2859,7 @@ gui.error=Произошёлъ курьёзъ!
 ## gui.previous=Предыдущий
 ## gui.copyWorld=Копировать мир
 ## gui.copyWorld.failedMessage=Не удалось создать копию этого мира. Возможно, ошибка вызвана нехваткой свободного места или другой проблемой. Посетите страницу https://aka.ms/MCStorage для получения подробной информации.
-## gui.goBack=Назад
+gui.goBack=Назадъ
 ## gui.import=Импорт
 ## gui.importWorld=Импорт
 ## gui.importRetailWorld.title=Импортировать мир?
@@ -2867,7 +2867,7 @@ gui.error=Произошёлъ курьёзъ!
 ## gui.importRetailWorld.text.2=При импорте создается копия мира, этот процесс не повлияет на исходный мир.
 ## gui.importRetailWorld.text.3=Сделать бета-копию этого мира?
 ## gui.importRetailWorld.failedMessage=Не удается импортировать ваш мир.
-## gui.minecraftWorld=Мир Minecraft
+gui.minecraftWorld=Міръ Minecraft
 ## gui.minecraftBundle=Комплект Minecraft
 gui.login=Входъ
 gui.logout=Выходъ
@@ -2909,21 +2909,21 @@ gui.signIn=Войти
 ## updateScreen.patchVersion=Описание обновлений в версии %s:
 
 ## hostOption.codeBuilder=Code Builder
-## hostOption.setWorldSpawn=Задать место появления в мире
-## hostOption.teleport=Перенести
-## hostOption.teleport.who=Кого
-## hostOption.teleport.where=Куда
-## hostOption.time=Время
-## hostOption.time.day=День
-## hostOption.time.midnight=Полночь
-## hostOption.time.noon=Полдень
-## hostOption.time.night=Ночь
-## hostOption.time.sunrise=Восход
-## hostOption.time.sunset=Закат
-## hostOption.weather=Погода
-## hostOption.weather.clear=Ясно
-## hostOption.weather.rain=Дождь
-## hostOption.weather.thunderstorm=Гроза
+hostOption.setWorldSpawn=Установить точку воскрешенія в міре
+hostOption.teleport=Перемѣстить
+hostOption.teleport.who=Кого
+hostOption.teleport.where=Куда
+hostOption.time=Время
+hostOption.time.day=День
+hostOption.time.midnight=Полночь
+hostOption.time.noon=Полдень
+hostOption.time.night=Ночь
+hostOption.time.sunrise=Восход
+hostOption.time.sunset=Закат
+hostOption.weather=Погода
+hostOption.weather.clear=Ясная погода
+hostOption.weather.rain=Дождливая погода
+hostOption.weather.thunderstorm=Грозовая погода
 
 ## howtoplay.next=Следующее
 ## howtoplay.previous=Предыдущее
@@ -5326,7 +5326,7 @@ menu.generatingTerrain=Построеніе мѣстности
 ## menu.howToPlay.generalMessage=Энциклопедия Minecraft для новичков и опытных игроков.
 ## menu.howToPlay.access=Нажмите :_gamepad_face_button_down:, чтобы открыть обучение!
 ## menu.howToPlay.access.noicon=Нажмите [A], чтобы открыть обучение!
-## menu.loadingLevel=Загрузка мира
+menu.loadingLevel=Загрузка міра
 menu.multiplayer=Игра въ компаніи
 menu.online=Minecraft Realms
 menu.options=Настройки...
@@ -5334,7 +5334,7 @@ menu.settings=Настройки
 menu.settings.caps=НАСТРОЙКИ
 ## menu.classroom_settings.caps=НАСТРОЙКИ КЛАССА
 ## menu.serverStore=Магазин %s
-## menu.serverGenericName=Сервер
+menu.serverGenericName=Салонъ
 menu.play=Играть
 menu.playdemo=Играть въ демонстраціонномъ мірѣ
 menu.playOnRealms=Играть въ Realm
@@ -5343,16 +5343,16 @@ menu.quit=Сохранить и выйти
 menu.quit.edu=СОХРАНИТЬ И ВЫЙТИ
 ## menu.quiz=Пройти тест
 menu.resetdemo=Пересоздать демонстраціонный міръ
-## menu.resourcepacks=Наборы ресурсов
+menu.resourcepacks=Наборы вещей
 ## menu.globalpacks=Глобальные ресурсы
 ## menu.storageManagement=Хранилище
-## menu.behaviors=Наборы параметров
+menu.behaviors=Наборы свѣдѣній
 ## menu.worldtemplates=Шаблоны мира
 menu.respawning=Воскрешеніе
 menu.returnToGame=Вернуться къ игрѣ
 menu.returnToMenu=Сохранить и выйти
 menu.shareToLan=Отпереть гостямъ
-## menu.simulating=Симуляция мира...
+menu.simulating=Симуляція міра...
 menu.singleplayer=Игра въ одиночку
 ## menu.store=Рынок
 ## menu.skins=Скины
@@ -5362,7 +5362,7 @@ menu.singleplayer=Игра въ одиночку
 ## menu.saving=Сохранение...
 ## menu.toolboxMode=Режим инструментария
 
-## merchant.deprecated=Чтобы разблокировать, обменяйте что-то еще!
+merchant.deprecated=Крестьяне пополняютъ запасы дважды въ день.
 
 
 mount.onboard=Нажмите %1$s, чтобы спѣшиться
