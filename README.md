@@ -3,7 +3,7 @@ Pre-reform russian language from Java to Bedrock Edition
 
 ## Goals
 * ~~Port rpr lang via "to-bedrock" tool~~
-* Manual rpr lang port from java to bedrock (And java <1.12.2)
+* Manual rpr lang port from java to bedrock
 * Full translate (errors, commands help, achievements, etc)
 
 ## Status
@@ -13,8 +13,14 @@ Pre-reform russian language from Java to Bedrock Edition
 * Achievements
 * ~~Death messages~~
 * Error messages
+* Tips
 * Bedrock GUI
+* Bedrock platform specifics (iOS (AppleID), Android, Microsoft)
 * Education Edition
+* ~~Compliance :)~~
+
+## Current bedrock version
+1.18.10
 
 ## Note about files
 * `.*_orig` - Original files from Mojang's game
