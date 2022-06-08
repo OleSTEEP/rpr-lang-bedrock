@@ -1,14 +1,14 @@
 {
     "format_version": 1,
     "header": {
-        "description": "Pre-reform russian language on Minecraft Bedrock",
-        "name": "RPR for Bedrock",
+        "description": "Русский дореволюционный язык для Minecraft Bedrock",
+        "name": "RPR для Bedrock",
         "uuid": "eef3e226-f0be-449e-b2f6-ee9bb24c68f8",
         "version": [0, 2, 0]
     },
     "modules": [
         {
-            "description": "RPR (Russian Pre-Reform) language on Minecraft Bedrock",
+            "description": "Русский дореволюционный язык для Minecraft Bedrock",
             "type": "resources",
             "uuid": "9c4766bc-90d3-4e63-923f-230efbea70b7",
             "version": [0, 2, 0]
