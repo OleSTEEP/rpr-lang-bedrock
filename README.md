@@ -20,10 +20,9 @@ Pre-reform russian language from Java to Bedrock Edition
 * ~~Compliance :)~~
 
 ## Current bedrock version
-1.18.10
+1.19.0.05
 
 ## Note about files
-* `.*_orig` - Original files from Mojang's game
 * `.lang_to-bedrock` - file created by to-bedrock tool
 * `.lang` - file with relevant port of lang
 
