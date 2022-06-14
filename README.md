@@ -11,6 +11,7 @@ Pre-reform russian language from Java to Bedrock Edition
 * ~~Blocks~~
 * GUI
 * Achievements
+* ~~Accessibility~~
 * ~~Death messages~~
 * Error messages
 * Tips
