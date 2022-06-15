@@ -24,10 +24,9 @@ Pre-reform russian language from Java to Bedrock Edition
 1.19.0.05
 
 ## Note about files
-* `.lang_to-bedrock` - file created by to-bedrock tool
 * `.lang` - file with relevant port of lang
 
 ## Thanks
 * Mojang translators
-* to-bedrock project (https://github.com/KAIYOHUGO/to-bedrock)
+* Dorev dictionary (www.dorev.ru)
 * Mojang (for game)
